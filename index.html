@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // function formatString(str) {
+      //   const res = {
+      //     userSpouseHkic: "",
+      //     userSpouseHkicChk: "",
+      //     userSpouse: "",
+      //   };
+      //   if (
+      //     Object.prototype.toString.call(str) === "[object String]" &&
+      //     str.length > 0
+      //   ) {
+      //     res.userSpouseHkic = str.substring(0, 7) || "";
+      //     const userSpouseHkicChk = str.substring(7, 8) || "";
+      //     if (userSpouseHkicChk.length > 0) {
+      //       res.userSpouseHkicChk = `(${userSpouseHkicChk})`;
+      //     }
+      //     res.userSpouse = `${res.userSpouseHkic}${res.userSpouseHkicChk}`;
+      //   }
+      //   return res;
+      // }
+
+      // // 使用例子
+      // const input1 = "C2220480";
+      // const output1 = formatString(input1);
+      // console.log('%c [ output1 ]-33', 'font-size:13px; background:pink; color:#bf2c9f;', output1)
+
+      // const input2 = "ABC123D7";
+      // const output2 = formatString(input2);
+      // console.log('%c [ output2 ]-38', 'font-size:13px; background:pink; color:#bf2c9f;', output2)
+
+      // const str = "我叫{{name}},今年{{age}}岁了";
+      // const data = {
+      //   name: "张三",
+      //   age: 25,
+      // };
+
+      // function replaceTemplate(str='', data) {
+      //    const res = str.replace(/\{\{(\w+)\}\}/g, function (match, key, index, ...args) {
+      //     console.log('%c [ match, key, index, ...args ]-47', 'font-size:13px; background:pink; color:#bf2c9f;', match, key, index, args)
+      //     return data[key.trim()] || ''
+      //    })
+      //    return res;
+      // }
+
+      // const result = replaceTemplate(str, data);
+      // console.log(result); // 输出: "我叫张三,今年25岁了"
+
+      // const str = "你好123abc456哈哈哈";
+      // const regex = /(\d+)([a-z]+)(\d+)/g;
+      // const newStr = str.replace(regex, function (match, p1, p2, p3, index, string){
+      //   console.log('%c [ match, p1, p2, p3, index, string ]-59', 'font-size:13px; background:pink; color:#bf2c9f;', match, p1, p2, p3, index, string)
+      //   return p1 + p2.toUpperCase() + p3; // 返回整体匹配到的内容，这里返回的是新的match
+      // })
+      // console.log('[ newStr ] >', newStr)
+
+
+      const str = "0123456789";
+      const arr = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]; //
+      // substr, splice
+      // substring, slice
+      const newStr = str.substr(1, 3); // 第二个参数是长度来的，负数等于0，返回空字符串，第一个是计算的下标 （不影响原有字符串）
+      const newStr2 = arr.splice(1, 3); // 第二个参数是长度来的，负数等于0，返回空数组，第一个是计算的下标， splice是数组才有的方法（不影响原有数组）， 1，2，3三位数字都截取出来了
+      const newStr3 = str.split(''); // 拆分字符串为数组（不影响原有字符串）
+
+      const newStr4 = str.substring(0, 2); // [a, b) or a > b == [b, a)  str.substring(1, 0) === str.substring(0, 1), 第一，第二个参数如果小于0，则等于0， str.substring(-1, 2) === str.substring(0, 2)
+      // const newStr5 = arr.splice(0, 3); // （删） 截取了arr的,0,1,2的数据，会影响arr数组
+      // const newStr5 = arr.splice(0, 0, 111); //插入（增）， 第二个参数为0，即不会截取arr数组的数组，会从第一个参数位置插入一个数字111，其他数字往后挪动一位，会影响arr数组
+      // const newStr5 = arr.splice(0, 1, 111); //替换（改）， 替换0这个下标对应的数字
+      // const newStr5 = arr.splice(0, -1); // 第二个参数是负数，等价arr.splice(0, -1) === arr.splice(0, 0)
+      // const newStr5 = arr.splice(-1, 1); // 第一个参数为负数，加上数组长度即可， arr.splice(-1, 1) === arr.splice(10-1, 1)
+      // const newStr5 = str.slice(0, 3); // 012
+      const newStr5 = arr.slice(0, 3); // [0, 4, 5]
+      console.log('%c [ newStr5 ]-75', 'font-size:13px; background:pink; color:#bf2c9f;', newStr5)
+      console.log('%c [ newStr4 ]-74', 'font-size:13px; background:pink; color:#bf2c9f;', newStr4)
+      console.log('%c [ newStr ]-70', 'font-size:13px; background:pink; color:#bf2c9f;', newStr, newStr2, newStr3, arr, str)
+
+    </script>
+  </body>
+</html>

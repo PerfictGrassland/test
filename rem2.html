@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Document</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      .box {
+        /* width: 7.5rem;
+        height: 3rem; */
+
+        /* width: 2.66666666rem;
+        height: 2.66666666rem; */
+
+        width: 5rem;
+        height: 5rem;
+
+        /* width: 10rem;
+        height: 10rem; */
+        background-color: red;
+        font-size: 0.24rem;
+      }
+    </style>
+    <script>
+      function setRem() {
+        const dpr = window.devicePixelRatio || 1;
+        const scale = 1 / dpr;
+        let viewportMeta = document.querySelector('meta[name="viewport"]');
+        if (!viewportMeta) {
+          viewportMeta = document.createElement("meta");
+          viewportMeta.setAttribute("name", "viewport");
+          document.head.appendChild(viewportMeta);
+        }
+        viewportMeta.setAttribute(
+          "content",
+          "width=device-width,initial-scale=" +
+            scale +
+            ",maximum-scale=" +
+            scale +
+            ",minimum-scale=" +
+            scale
+        );
+
+        const width =
+          document.documentElement.clientWidth ||
+          window.innerWidth ||
+          document.body.clientWidth;
+
+          console.log('[ document.documentElement.clientWidth ] >', document.documentElement.clientWidth)
+          console.log('[ Window.innerWidth ] >', window.innerWidth)
+          console.log('[  document.body.clientWidth ] >',  document.body.clientWidth)
+
+        const newFontSize = width / 10;
+
+        document.documentElement.style.fontSize = newFontSize + "px";
+
+        // 750 --> 75px = 1rem;
+        // 750px 中， 宽度200px等于， 200/75 rem = 2.66666666rem
+        // 750px 中， 宽度375px等于， 375/75 = 5rem
+      }
+      const resizeEvt =
+        "orientationchange" in window ? "orientationchange" : "resize";
+      window.addEventListener(resizeEvt, setRem);
+      window.addEventListener("DOMContentLoaded", setRem);
+      //   window.addEventListener("load", setRem);
+    </script>
+  </head>
+  <body>
+    <div class="box">55</div>
+  </body>
+</html>

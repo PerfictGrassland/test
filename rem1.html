@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      .box {
+        width: 7.5rem;
+        height: 3rem;
+        background-color: red;
+        font-size: .24rem;
+      }
+    </style>
+    <script>
+      function setRem() {
+        const designWidth = 750;
+        const designFontSize = 100;
+        const width =
+          document.documentElement.clientWidth ||
+          window.innerWidth ||
+          document.body.clientWidth;
+        //  newFontSize / designFontSize = width / designWidth
+        const newFontSize = (width / designWidth) * designFontSize;
+        document.documentElement.style.fontSize = newFontSize + "px";
+      }
+      const resizeEvt =
+        "orientationchange" in window ? "orientationchange" : "resize";
+      window.addEventListener(resizeEvt, setRem);
+      window.addEventListener("DOMContentLoaded", setRem);
+      //   window.addEventListener("load", setRem);
+    </script>
+  </head>
+  <body>
+    <div class="box">55</div>
+  </body>
+</html>

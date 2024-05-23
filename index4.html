@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      .box1 {
+        width: 100px;
+        height: 350px;
+        background-color: blue;
+        /* 永不换行 */
+        /* white-space: nowrap;  */
+
+        /* 合并空格不分行 */
+        /* white-space: pre; */
+
+        /* 合并空格分行 */
+        /* white-space: pre-wrap; */
+
+        /* 不合并空格分行 */
+        /* white-space: pre-line; */
+
+        /* 所有“单词”一律不拆分换行，注意，我这里的“单词”包括连续的中文字符（还有日文、韩文等），或者可以理解为只有空格可以触发自动换行。 */
+        /* word-break: keep-all; */
+
+        /* 所有单词碰到边界一律拆分换行，不管你是incomprehensibilities这样一行都显示不下的单词，还是long这样很短的单词，只要碰到边界，都会被强制拆分换 */
+        /* word-break: break-all; */
+
+        /* 终于达到了上文我们希望的效果，只有当一个单词一整行都显示不下时，才会拆分换行该单词。 */
+        /* word-wrap: break-word; */
+         /* overflow-wrap: break-word; */
+         
+         /* white-space: normal; */
+         /* white-space: pre;
+         text-wrap: wrap; */
+         /* word-wrap: break-word; */
+         /* overflow-wrap: break-word;  */
+         /* word-break: break-all; */
+
+         /* white-space: pre-line; */
+         /* text-wrap: wrap; */
+         /* word-break: break-all; */
+         /* text-wrap: anywhere; */
+         /* word-wrap: break-word; */
+         /* overflow-wrap: break-word; */
+
+
+         white-space: pre-wrap;
+         text-wrap: wrap;
+         /* text-wrap: anywhere; */
+         word-wrap: break-word;
+
+      }
+
+      /* *
+      * @param white-space 控制空白字符的显示，同时还能控制是否自动换行。它有五个值：normal| nowrap | pre | pre-wrap | pre-line
+      * @param word-break  控制单词如何被拆分换行。它有三个值：normal | break-all | keep-all
+      * @param word-wrap（overflow-wrap）：控制长度超过一行的单词是否被拆分换行。是word-break的补充，它有两个值：normal | break-word
+      *
+      * white-space: pre-line;，  word-break: break-all;，word-wrap: break-word;搭配比较好看
+      */
+    </style>
+  </head>
+  <body>
+    <div class="box1">  Hi  ,  This   is a incomprehensibilities long word.</br>  你好  ，  这   是一个不可思议的长单词  这   是一个不可思议的长单词</div>
+  </body>
+</html>

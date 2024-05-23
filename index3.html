@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      .container {
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: flex-start;
+        align-items: flex-start;
+        width: 300px;
+        /* width: 700px; */
+        background-color: yellow;;
+      }
+      .box1 {
+        width: 100px;
+        height: 100px;
+        /* flex-grow: 1; */
+        flex-shrink: 1;
+        background-color: red;
+      }
+      .box2 {
+        width: 200px;
+        height: 200px;
+        /* flex-grow: 2; */
+        flex-shrink: 2;
+        background-color: blue;
+      }
+      .box3 {
+        width: 300px;
+        height: 300px;
+        /* flex-grow: 3; */
+        flex-shrink: 3;
+        background-color: green;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="box1"></div>
+      <div class="box2"></div>
+      <div class="box3"></div>
+    </div>
+    <script>
+        // 700 - 600 = 100
+        // 1 / 6 * 100 + 100;
+
+        // 300 - 600 = -300;
+        // 100 / (100 + 400 + 900) * 200 = 1/14 *  300
+    </script>
+  </body>
+</html>
