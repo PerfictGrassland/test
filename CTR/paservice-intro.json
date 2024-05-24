@@ -1,0 +1,1620 @@
+{
+    "msg": {
+        "value": "success"
+    },
+    "data": {
+        "router": {
+            "findForward": {
+                "value": "continue"
+            }
+        },
+        "form": {
+            "disabledAllow": {},
+            "spouseDisabled": {
+                "value": ""
+            },
+            "spouseIncomeChargeable": {
+                "value": ""
+            },
+            "drObj": {
+                "propertyList": [
+                    {
+                        "selfTenantInd": {
+                            "value": ""
+                        },
+                        "spseTenantInd": {
+                            "value": ""
+                        },
+                        "amountDr": {
+                            "value": ""
+                        },
+                        "nominated": {
+                            "value": "N"
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "tenancyFromDD": {
+                            "value": ""
+                        },
+                        "tenancyFromMM": {
+                            "value": ""
+                        },
+                        "tenancyFromYYYY": {
+                            "value": ""
+                        },
+                        "tenancyToDD": {
+                            "value": ""
+                        },
+                        "tenancyToMM": {
+                            "value": ""
+                        },
+                        "tenancyToYYYY": {
+                            "value": ""
+                        },
+                        "noOfTenants": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "selfTenantInd": {
+                            "value": ""
+                        },
+                        "spseTenantInd": {
+                            "value": ""
+                        },
+                        "amountDr": {
+                            "value": ""
+                        },
+                        "nominated": {
+                            "value": "N"
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "tenancyFromDD": {
+                            "value": ""
+                        },
+                        "tenancyFromMM": {
+                            "value": ""
+                        },
+                        "tenancyFromYYYY": {
+                            "value": ""
+                        },
+                        "tenancyToDD": {
+                            "value": ""
+                        },
+                        "tenancyToMM": {
+                            "value": ""
+                        },
+                        "tenancyToYYYY": {
+                            "value": ""
+                        },
+                        "noOfTenants": {
+                            "value": ""
+                        }
+                    }
+                ]
+            },
+            "vhisObj": {
+                "selfAmount": {
+                    "value": ""
+                },
+                "vhisRelatives": [
+                    {
+                        "relationship": {
+                            "value": ""
+                        },
+                        "birthDateYY": {
+                            "value": ""
+                        },
+                        "disParentInd": {
+                            "value": "N"
+                        },
+                        "cbsParentHkicNum": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "birthDateDD": {
+                            "value": ""
+                        },
+                        "birthDateMM": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "cbsEdu": {
+                            "value": ""
+                        },
+                        "hkicNum": {
+                            "value": ""
+                        },
+                        "cbsParentHkicChks": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "relationship": {
+                            "value": ""
+                        },
+                        "birthDateYY": {
+                            "value": ""
+                        },
+                        "disParentInd": {
+                            "value": "N"
+                        },
+                        "cbsParentHkicNum": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "birthDateDD": {
+                            "value": ""
+                        },
+                        "birthDateMM": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "cbsEdu": {
+                            "value": ""
+                        },
+                        "hkicNum": {
+                            "value": ""
+                        },
+                        "cbsParentHkicChks": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "relationship": {
+                            "value": ""
+                        },
+                        "birthDateYY": {
+                            "value": ""
+                        },
+                        "disParentInd": {
+                            "value": "N"
+                        },
+                        "cbsParentHkicNum": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "birthDateDD": {
+                            "value": ""
+                        },
+                        "birthDateMM": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "cbsEdu": {
+                            "value": ""
+                        },
+                        "hkicNum": {
+                            "value": ""
+                        },
+                        "cbsParentHkicChks": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "relationship": {
+                            "value": ""
+                        },
+                        "birthDateYY": {
+                            "value": ""
+                        },
+                        "disParentInd": {
+                            "value": "N"
+                        },
+                        "cbsParentHkicNum": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "birthDateDD": {
+                            "value": ""
+                        },
+                        "birthDateMM": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "cbsEdu": {
+                            "value": ""
+                        },
+                        "hkicNum": {
+                            "value": ""
+                        },
+                        "cbsParentHkicChks": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        }
+                    }
+                ]
+            },
+            "mpftvcObj": {
+                "mpf": {
+                    "value": ""
+                },
+                "annuitySelf": {
+                    "value": ""
+                },
+                "annuitySpouse": {
+                    "value": ""
+                },
+                "mpftvcAcHolderInd": {
+                    "value": ""
+                }
+            },
+            "userLang": {
+                "value": "en"
+            },
+            "allowanceCheckBoxFlag": {
+                "value": "N"
+            },
+            "hliPart": {
+                "propertyList": [
+                    {
+                        "totalInterestPay": {
+                            "value": ""
+                        },
+                        "obtained": {
+                            "value": "Y"
+                        },
+                        "nominated": {
+                            "value": "N"
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "mySharePay": {
+                            "value": ""
+                        },
+                        "itShare": {
+                            "value": ""
+                        },
+                        "itSharePay": {
+                            "value": ""
+                        },
+                        "occupied": {
+                            "value": "Y"
+                        },
+                        "reMortgaged": {
+                            "value": "N"
+                        },
+                        "remortgageProperty": {
+                            "periodFromMM": {
+                                "value": ""
+                            },
+                            "periodFromYYYY": {
+                                "value": ""
+                            },
+                            "periodToDD": {
+                                "value": ""
+                            },
+                            "periodToMM": {
+                                "value": ""
+                            },
+                            "periodToYYYY": {
+                                "value": ""
+                            },
+                            "institutionLangInd": {
+                                "value": ""
+                            },
+                            "amount": {
+                                "value": ""
+                            },
+                            "institution1": {
+                                "value": ""
+                            },
+                            "institution2": {
+                                "value": ""
+                            },
+                            "institution3": {
+                                "value": ""
+                            },
+                            "institution4": {
+                                "value": ""
+                            },
+                            "reInterest": {
+                                "value": ""
+                            },
+                            "rePeriodFromDD": {
+                                "value": ""
+                            },
+                            "rePeriodFromMM": {
+                                "value": ""
+                            },
+                            "rePeriodFromYYYY": {
+                                "value": ""
+                            },
+                            "rePeriodToDD": {
+                                "value": ""
+                            },
+                            "rePeriodToMM": {
+                                "value": ""
+                            },
+                            "rePeriodToYYYY": {
+                                "value": ""
+                            },
+                            "rdmpDateDD": {
+                                "value": ""
+                            },
+                            "rdmpDateMM": {
+                                "value": ""
+                            },
+                            "rdmpDateYYYY": {
+                                "value": ""
+                            },
+                            "balance": {
+                                "value": ""
+                            },
+                            "interest": {
+                                "value": ""
+                            },
+                            "periodFromDD": {
+                                "value": ""
+                            }
+                        },
+                        "myShare": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "totalInterestPay": {
+                            "value": ""
+                        },
+                        "obtained": {
+                            "value": "Y"
+                        },
+                        "nominated": {
+                            "value": "N"
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "mySharePay": {
+                            "value": ""
+                        },
+                        "itShare": {
+                            "value": ""
+                        },
+                        "itSharePay": {
+                            "value": ""
+                        },
+                        "occupied": {
+                            "value": "Y"
+                        },
+                        "reMortgaged": {
+                            "value": "N"
+                        },
+                        "remortgageProperty": {
+                            "periodFromMM": {
+                                "value": ""
+                            },
+                            "periodFromYYYY": {
+                                "value": ""
+                            },
+                            "periodToDD": {
+                                "value": ""
+                            },
+                            "periodToMM": {
+                                "value": ""
+                            },
+                            "periodToYYYY": {
+                                "value": ""
+                            },
+                            "institutionLangInd": {
+                                "value": ""
+                            },
+                            "amount": {
+                                "value": ""
+                            },
+                            "institution1": {
+                                "value": ""
+                            },
+                            "institution2": {
+                                "value": ""
+                            },
+                            "institution3": {
+                                "value": ""
+                            },
+                            "institution4": {
+                                "value": ""
+                            },
+                            "reInterest": {
+                                "value": ""
+                            },
+                            "rePeriodFromDD": {
+                                "value": ""
+                            },
+                            "rePeriodFromMM": {
+                                "value": ""
+                            },
+                            "rePeriodFromYYYY": {
+                                "value": ""
+                            },
+                            "rePeriodToDD": {
+                                "value": ""
+                            },
+                            "rePeriodToMM": {
+                                "value": ""
+                            },
+                            "rePeriodToYYYY": {
+                                "value": ""
+                            },
+                            "rdmpDateDD": {
+                                "value": ""
+                            },
+                            "rdmpDateMM": {
+                                "value": ""
+                            },
+                            "rdmpDateYYYY": {
+                                "value": ""
+                            },
+                            "balance": {
+                                "value": ""
+                            },
+                            "interest": {
+                                "value": ""
+                            },
+                            "periodFromDD": {
+                                "value": ""
+                            }
+                        },
+                        "myShare": {
+                            "value": ""
+                        }
+                    }
+                ]
+            },
+            "drPart": {
+                "propertyList": [
+                    {
+                        "selfTenantInd": {
+                            "value": ""
+                        },
+                        "spseTenantInd": {
+                            "value": ""
+                        },
+                        "amountDr": {
+                            "value": ""
+                        },
+                        "nominated": {
+                            "value": "N"
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "tenancyFromDD": {
+                            "value": ""
+                        },
+                        "tenancyFromMM": {
+                            "value": ""
+                        },
+                        "tenancyFromYYYY": {
+                            "value": ""
+                        },
+                        "tenancyToDD": {
+                            "value": ""
+                        },
+                        "tenancyToMM": {
+                            "value": ""
+                        },
+                        "tenancyToYYYY": {
+                            "value": ""
+                        },
+                        "noOfTenants": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "selfTenantInd": {
+                            "value": ""
+                        },
+                        "spseTenantInd": {
+                            "value": ""
+                        },
+                        "amountDr": {
+                            "value": ""
+                        },
+                        "nominated": {
+                            "value": "N"
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "tenancyFromDD": {
+                            "value": ""
+                        },
+                        "tenancyFromMM": {
+                            "value": ""
+                        },
+                        "tenancyFromYYYY": {
+                            "value": ""
+                        },
+                        "tenancyToDD": {
+                            "value": ""
+                        },
+                        "tenancyToMM": {
+                            "value": ""
+                        },
+                        "tenancyToYYYY": {
+                            "value": ""
+                        },
+                        "noOfTenants": {
+                            "value": ""
+                        }
+                    }
+                ],
+                "rentDeduction": {
+                    "value": ""
+                }
+            },
+            "signCount": {
+                "value": 0
+            },
+            "signTerminate": {
+                "value": false
+            },
+            "copyTrpInd": {
+                "value": "N"
+            },
+            "rdObj": {
+                "propertyList": [
+                    {
+                        "shareOfOwnership": {
+                            "value": ""
+                        },
+                        "loanObtainedInd": {
+                            "value": "Y"
+                        },
+                        "shareOfInterest": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "remortgageProperty": {
+                            "periodFromMM": {
+                                "value": ""
+                            },
+                            "periodFromYYYY": {
+                                "value": ""
+                            },
+                            "periodToDD": {
+                                "value": ""
+                            },
+                            "periodToMM": {
+                                "value": ""
+                            },
+                            "periodToYYYY": {
+                                "value": ""
+                            },
+                            "institutionLangInd": {
+                                "value": ""
+                            },
+                            "amount": {
+                                "value": ""
+                            },
+                            "institution1": {
+                                "value": ""
+                            },
+                            "institution2": {
+                                "value": ""
+                            },
+                            "institution3": {
+                                "value": ""
+                            },
+                            "institution4": {
+                                "value": ""
+                            },
+                            "reInterest": {
+                                "value": ""
+                            },
+                            "rePeriodFromDD": {
+                                "value": ""
+                            },
+                            "rePeriodFromMM": {
+                                "value": ""
+                            },
+                            "rePeriodFromYYYY": {
+                                "value": ""
+                            },
+                            "rePeriodToDD": {
+                                "value": ""
+                            },
+                            "rePeriodToMM": {
+                                "value": ""
+                            },
+                            "rePeriodToYYYY": {
+                                "value": ""
+                            },
+                            "rdmpDateDD": {
+                                "value": ""
+                            },
+                            "rdmpDateMM": {
+                                "value": ""
+                            },
+                            "rdmpDateYYYY": {
+                                "value": ""
+                            },
+                            "balance": {
+                                "value": ""
+                            },
+                            "interest": {
+                                "value": ""
+                            },
+                            "periodFromDD": {
+                                "value": ""
+                            }
+                        },
+                        "remortgagedLoanInd": {
+                            "value": "N"
+                        }
+                    },
+                    {
+                        "shareOfOwnership": {
+                            "value": ""
+                        },
+                        "loanObtainedInd": {
+                            "value": "Y"
+                        },
+                        "shareOfInterest": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "remortgageProperty": {
+                            "periodFromMM": {
+                                "value": ""
+                            },
+                            "periodFromYYYY": {
+                                "value": ""
+                            },
+                            "periodToDD": {
+                                "value": ""
+                            },
+                            "periodToMM": {
+                                "value": ""
+                            },
+                            "periodToYYYY": {
+                                "value": ""
+                            },
+                            "institutionLangInd": {
+                                "value": ""
+                            },
+                            "amount": {
+                                "value": ""
+                            },
+                            "institution1": {
+                                "value": ""
+                            },
+                            "institution2": {
+                                "value": ""
+                            },
+                            "institution3": {
+                                "value": ""
+                            },
+                            "institution4": {
+                                "value": ""
+                            },
+                            "reInterest": {
+                                "value": ""
+                            },
+                            "rePeriodFromDD": {
+                                "value": ""
+                            },
+                            "rePeriodFromMM": {
+                                "value": ""
+                            },
+                            "rePeriodFromYYYY": {
+                                "value": ""
+                            },
+                            "rePeriodToDD": {
+                                "value": ""
+                            },
+                            "rePeriodToMM": {
+                                "value": ""
+                            },
+                            "rePeriodToYYYY": {
+                                "value": ""
+                            },
+                            "rdmpDateDD": {
+                                "value": ""
+                            },
+                            "rdmpDateMM": {
+                                "value": ""
+                            },
+                            "rdmpDateYYYY": {
+                                "value": ""
+                            },
+                            "balance": {
+                                "value": ""
+                            },
+                            "interest": {
+                                "value": ""
+                            },
+                            "periodFromDD": {
+                                "value": ""
+                            }
+                        },
+                        "remortgagedLoanInd": {
+                            "value": "N"
+                        }
+                    },
+                    {
+                        "shareOfOwnership": {
+                            "value": ""
+                        },
+                        "loanObtainedInd": {
+                            "value": "Y"
+                        },
+                        "shareOfInterest": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "remortgageProperty": {
+                            "periodFromMM": {
+                                "value": ""
+                            },
+                            "periodFromYYYY": {
+                                "value": ""
+                            },
+                            "periodToDD": {
+                                "value": ""
+                            },
+                            "periodToMM": {
+                                "value": ""
+                            },
+                            "periodToYYYY": {
+                                "value": ""
+                            },
+                            "institutionLangInd": {
+                                "value": ""
+                            },
+                            "amount": {
+                                "value": ""
+                            },
+                            "institution1": {
+                                "value": ""
+                            },
+                            "institution2": {
+                                "value": ""
+                            },
+                            "institution3": {
+                                "value": ""
+                            },
+                            "institution4": {
+                                "value": ""
+                            },
+                            "reInterest": {
+                                "value": ""
+                            },
+                            "rePeriodFromDD": {
+                                "value": ""
+                            },
+                            "rePeriodFromMM": {
+                                "value": ""
+                            },
+                            "rePeriodFromYYYY": {
+                                "value": ""
+                            },
+                            "rePeriodToDD": {
+                                "value": ""
+                            },
+                            "rePeriodToMM": {
+                                "value": ""
+                            },
+                            "rePeriodToYYYY": {
+                                "value": ""
+                            },
+                            "rdmpDateDD": {
+                                "value": ""
+                            },
+                            "rdmpDateMM": {
+                                "value": ""
+                            },
+                            "rdmpDateYYYY": {
+                                "value": ""
+                            },
+                            "balance": {
+                                "value": ""
+                            },
+                            "interest": {
+                                "value": ""
+                            },
+                            "periodFromDD": {
+                                "value": ""
+                            }
+                        },
+                        "remortgagedLoanInd": {
+                            "value": "N"
+                        }
+                    }
+                ],
+                "propertyCount": {
+                    "value": 3
+                }
+            },
+            "lateInd": {
+                "value": "N"
+            },
+            "secondInstalmentInd": {
+                "value": "N"
+            },
+            "lateApplicationInd": {
+                "value": "N"
+            },
+            "showLateInd": {
+                "value": "N"
+            },
+            "electionForPA": {
+                "approvedCharitable": {
+                    "value": "0"
+                },
+                "iMarriedAndWishToInd": {
+                    "value": ""
+                },
+                "prevIAndSpouseWishToInd": {
+                    "value": ""
+                },
+                "prevIMarriedAndWishToInd": {
+                    "value": ""
+                },
+                "prevIWishToInd": {
+                    "value": ""
+                },
+                "iWishToInd": {
+                    "value": ""
+                },
+                "iAndSpouseWishToInd": {
+                    "value": ""
+                },
+                "prevSpouseHadIncomeInd": {
+                    "value": ""
+                },
+                "partnerBusinessNum": {
+                    "value": ""
+                },
+                "propertiesNum": {
+                    "value": ""
+                }
+            },
+            "hasActiveTrp": {
+                "value": "N"
+            },
+            "accountStatusNFlag": {
+                "value": true
+            },
+            "sessionNumber": {
+                "value": "hFbysGpC0sQCWIV-VfD3uE9tr3"
+            },
+            "checkSum": {
+                "value": "6cadc0577f61"
+            },
+            "submitAction": {
+                "value": "continue"
+            },
+            "objection": {
+                "options": {},
+                "curAssYear": {
+                    "value": 2024
+                },
+                "selectedObjAss": {
+                    "value": ""
+                },
+                "yearOfAssPart1": {
+                    "value": ""
+                },
+                "yearOfAssPart2": {
+                    "value": ""
+                },
+                "taxType": {
+                    "value": ""
+                },
+                "chargeNoPart1": {
+                    "value": ""
+                },
+                "chargeNoPart2": {
+                    "value": ""
+                },
+                "chargeNoPart3": {
+                    "value": ""
+                },
+                "chargeNoPart4": {
+                    "value": ""
+                },
+                "brn": {
+                    "value": ""
+                },
+                "selectedWish": {
+                    "value": ""
+                },
+                "electedPA": {
+                    "value": "N"
+                },
+                "isSelectChargeNo": {
+                    "value": "Y"
+                },
+                "details": {
+                    "value": ""
+                },
+                "rtnSts": {
+                    "value": false
+                },
+                "assNotices": {}
+            },
+            "taxType": {
+                "value": "6"
+            },
+            "accountObjectId": {
+                "value": "1000027588"
+            },
+            "refNum": {
+                "value": "8752405070472948"
+            },
+            "screenId": {
+                "value": "SC-875-0001"
+            },
+            "filingAvailableFlag": {
+                "value": false
+            },
+            "currentStep": {
+                "value": 1
+            },
+            "loginMechan": {
+                "value": "1"
+            },
+            "osName": {
+                "value": "Windows"
+            },
+            "browserVersion": {
+                "value": "124.0.0.0"
+            },
+            "browserName": {
+                "value": "Chrome"
+            },
+            "certRegName": {
+                "value": ""
+            },
+            "accessMode": {
+                "value": "L"
+            },
+            "ssoTokenId": {
+                "value": "f1g9ilhfrkxjvie"
+            },
+            "appName": {
+                "value": "ELECT FOR PERSONAL ASSESSMENT"
+            },
+            "prn": {
+                "value": "XE7770047"
+            },
+            "tin": {
+                "value": "3338879276"
+            },
+            "assessTypeDMS": {
+                "value": "O"
+            },
+            "appStartDate": {
+                "value": "2024-05-07 17:24:27"
+            },
+            "uploadFileArray": {},
+            "requester": {
+                "value": 0
+            },
+            "comeFromScreen": {
+                "value": ""
+            },
+            "osVersion": {
+                "value": "Windows 10"
+            },
+            "userName": {
+                "value": "KWOK, SUN LIN*NP IS CHANGED"
+            },
+            "userNameChn": {
+                "value": ""
+            },
+            "allowance": {
+                "claimElder": {
+                    "value": "N"
+                },
+                "childAllow": [
+                    {
+                        "over18": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "dobDD": {
+                            "value": ""
+                        },
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "over18": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "dobDD": {
+                            "value": ""
+                        },
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "over18": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "dobDD": {
+                            "value": ""
+                        },
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "over18": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "dobDD": {
+                            "value": ""
+                        },
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        }
+                    }
+                ],
+                "motherHkic": {
+                    "value": ""
+                },
+                "motherHkicChks": {
+                    "value": ""
+                },
+                "fatherNameLangInd": {
+                    "value": ""
+                },
+                "motherNameLangInd": {
+                    "value": ""
+                },
+                "parentAllow": [
+                    {
+                        "relationship": {
+                            "value": ""
+                        },
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "hkic": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "resided": {
+                            "value": ""
+                        },
+                        "residedSelected": {
+                            "value": ""
+                        },
+                        "liveHK": {
+                            "value": ""
+                        },
+                        "contributed": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "residential1": {
+                            "value": ""
+                        },
+                        "residential2": {
+                            "value": ""
+                        },
+                        "residential3": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "name": {
+                            "value": ""
+                        },
+                        "residentialLangInd": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "relationship": {
+                            "value": ""
+                        },
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "hkic": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "resided": {
+                            "value": ""
+                        },
+                        "residedSelected": {
+                            "value": ""
+                        },
+                        "liveHK": {
+                            "value": ""
+                        },
+                        "contributed": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "residential1": {
+                            "value": ""
+                        },
+                        "residential2": {
+                            "value": ""
+                        },
+                        "residential3": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "name": {
+                            "value": ""
+                        },
+                        "residentialLangInd": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "relationship": {
+                            "value": ""
+                        },
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "hkic": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "resided": {
+                            "value": ""
+                        },
+                        "residedSelected": {
+                            "value": ""
+                        },
+                        "liveHK": {
+                            "value": ""
+                        },
+                        "contributed": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "residential1": {
+                            "value": ""
+                        },
+                        "residential2": {
+                            "value": ""
+                        },
+                        "residential3": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "name": {
+                            "value": ""
+                        },
+                        "residentialLangInd": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "relationship": {
+                            "value": ""
+                        },
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "hkic": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "resided": {
+                            "value": ""
+                        },
+                        "residedSelected": {
+                            "value": ""
+                        },
+                        "liveHK": {
+                            "value": ""
+                        },
+                        "contributed": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "residential1": {
+                            "value": ""
+                        },
+                        "residential2": {
+                            "value": ""
+                        },
+                        "residential3": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "name": {
+                            "value": ""
+                        },
+                        "residentialLangInd": {
+                            "value": ""
+                        }
+                    }
+                ],
+                "motherName": {
+                    "value": ""
+                },
+                "fatherHkicChks": {
+                    "value": ""
+                },
+                "fatherHkic": {
+                    "value": ""
+                },
+                "fatherName": {
+                    "value": ""
+                },
+                "claimMarried": {
+                    "value": "N"
+                },
+                "spouseIncome": {
+                    "value": ""
+                },
+                "claimDisabled": {
+                    "value": ""
+                },
+                "claimPersonal": {
+                    "value": "N"
+                },
+                "claimChild": {
+                    "value": "N"
+                },
+                "claimSingle": {
+                    "value": "N"
+                },
+                "careOfChild": {
+                    "value": ""
+                }
+            },
+            "personalPart": {
+                "namePrefix": {
+                    "value": ""
+                },
+                "enFullName": {
+                    "value": "KWOK, SUN LIN*NP IS CHANGED"
+                },
+                "enSurname": {
+                    "value": ""
+                },
+                "enOtherName": {
+                    "value": ""
+                },
+                "cnName": {
+                    "value": ""
+                },
+                "hkicNum": {
+                    "value": "XE777004"
+                },
+                "hkicChks": {
+                    "value": "7"
+                },
+                "hkicNew": {
+                    "value": ""
+                },
+                "hkicNewChks": {
+                    "value": ""
+                },
+                "nationality": {
+                    "value": ""
+                },
+                "passportNo": {
+                    "value": ""
+                },
+                "maritalStatus": {
+                    "value": ""
+                },
+                "prevMaritalStatus": {
+                    "value": ""
+                },
+                "spouseNamePrefix": {
+                    "value": ""
+                },
+                "spouseEnSurname": {
+                    "value": ""
+                },
+                "spouseEnOtherName": {
+                    "value": ""
+                },
+                "spouseCnName": {
+                    "value": ""
+                },
+                "spouseHkicNum": {
+                    "value": ""
+                },
+                "spouseHkicChks": {
+                    "value": ""
+                },
+                "spouseNationality": {
+                    "value": ""
+                },
+                "spousePassportNo": {
+                    "value": ""
+                },
+                "nationalityLangInd": {
+                    "value": ""
+                },
+                "spouseNationalityLangInd": {
+                    "value": ""
+                },
+                "hasHkicInd": {
+                    "value": ""
+                },
+                "spouseHasHkicInd": {
+                    "value": ""
+                }
+            },
+            "assessType": {
+                "value": "O"
+            }
+        }
+    },
+    "errors": {},
+    "code": {
+        "value": "0"
+    }
+}

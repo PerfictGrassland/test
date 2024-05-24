@@ -1,0 +1,3192 @@
+{
+  "uuid": "f71d312a-3a29-42af-8434-c77c2b54e7cb",
+  "lastMigration": 32,
+  "name": "CTR",
+  "endpointPrefix": "",
+  "latency": 0,
+  "port": 3001,
+  "hostname": "",
+  "folders": [
+    {
+      "uuid": "db6f1cac-f847-4867-8fab-091e5e539c87",
+      "name": "system",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "e72b8583-8c94-4356-bc67-13eab243bde8"
+        },
+        {
+          "type": "route",
+          "uuid": "f72f8e39-015a-4bf7-9020-f9647ee4c35a"
+        },
+        {
+          "type": "route",
+          "uuid": "a584ce53-c3c1-4b75-951a-e9786b5b8dac"
+        },
+        {
+          "type": "route",
+          "uuid": "1ca1eeb9-6834-4394-9f2c-1d90b6822181"
+        },
+        {
+          "type": "route",
+          "uuid": "3e03f33f-f501-4869-ac45-66eb5001f7db"
+        },
+        {
+          "type": "route",
+          "uuid": "37d18aee-1310-42bc-ad07-0db43ac7d4e5"
+        },
+        {
+          "type": "route",
+          "uuid": "93efdeef-605b-42ae-9de5-246018e7230e"
+        },
+        {
+          "type": "route",
+          "uuid": "308a6b04-72ec-44b8-8ecd-4be702366469"
+        },
+        {
+          "type": "route",
+          "uuid": "60a41a96-a0de-4947-9be7-f035e681932d"
+        },
+        {
+          "type": "route",
+          "uuid": "ff5cf069-9511-48ee-8a5f-f176a0b1197f"
+        },
+        {
+          "type": "route",
+          "uuid": "10c3a754-b1d5-43da-9635-da551f6557b8"
+        },
+        {
+          "type": "route",
+          "uuid": "5d3afcc7-bd63-4080-be5a-2033f0faceb9"
+        },
+        {
+          "type": "route",
+          "uuid": "9e1dfc87-cccf-4c43-9bc0-ff0f3ee2b69b"
+        },
+        {
+          "type": "route",
+          "uuid": "95fcc784-8011-44a4-8351-51e17834343f"
+        },
+        {
+          "type": "route",
+          "uuid": "aa041020-2958-49c9-9016-9661721f1461"
+        },
+        {
+          "type": "route",
+          "uuid": "e634ca93-022b-482c-91b1-065d1212499e"
+        }
+      ]
+    },
+    {
+      "uuid": "d41a35ad-13f2-4c84-9b67-f697e9258025",
+      "name": "0001",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "d186877b-1407-460e-8a4a-27bbbd1ca2c2"
+        },
+        {
+          "type": "route",
+          "uuid": "507ed6ec-4c72-4c26-b9c6-87acc668c0b4"
+        }
+      ]
+    },
+    {
+      "uuid": "d02e6de8-22da-4601-a667-4db013d2cbd5",
+      "name": "0002",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "0fe4d302-228b-4f05-836d-996e5d08c88a"
+        },
+        {
+          "type": "route",
+          "uuid": "fadadd70-9da1-43e3-adfa-9dcfb3f6bd29"
+        }
+      ]
+    },
+    {
+      "uuid": "e07108fe-9872-4b79-b421-2c7499f71ada",
+      "name": "0003",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "24d9d9b0-2891-4249-b42f-6683f27e5f94"
+        },
+        {
+          "type": "route",
+          "uuid": "0191bf00-4898-44bf-b70e-da6935736629"
+        }
+      ]
+    },
+    {
+      "uuid": "5ab472d1-3c81-4999-b093-997a5d35edd1",
+      "name": "0004",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "bfcd363c-e346-41c2-a64f-b315c1f4dda7"
+        },
+        {
+          "type": "route",
+          "uuid": "3cec5bd4-989c-445d-a1e3-2cd5b7c43a69"
+        }
+      ]
+    },
+    {
+      "uuid": "5f0efbe4-c9e3-413a-9029-fede8dfcfebe",
+      "name": "0008",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "604bc272-3b0a-44be-ba06-f4cf7ea332f2"
+        },
+        {
+          "type": "route",
+          "uuid": "ee8f789a-dae7-4253-9d08-632b32975e8f"
+        }
+      ]
+    },
+    {
+      "uuid": "3679b723-89b6-4e36-a811-b54d5eeb9b7c",
+      "name": "0016",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "d8a2704d-f4ef-426c-947e-3b8cea0cd4ea"
+        },
+        {
+          "type": "route",
+          "uuid": "c7068c5e-6ce3-4a94-90c5-992dcb7e30ce"
+        }
+      ]
+    },
+    {
+      "uuid": "f8f6a954-e566-4da8-b52b-0cf782e80513",
+      "name": "0006",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "db1aabee-e7f1-46aa-9a2e-755ae6dce54e"
+        },
+        {
+          "type": "route",
+          "uuid": "a2796fca-f2a0-4a22-b8da-2810876ec504"
+        }
+      ]
+    },
+    {
+      "uuid": "4e8bd62b-16f9-444b-beb7-02370b32c03a",
+      "name": "0027",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "725669ce-c63a-4528-8aff-3bad23aec376"
+        },
+        {
+          "type": "route",
+          "uuid": "3f215a6a-1aa7-43bb-aacb-3654273d104e"
+        }
+      ]
+    },
+    {
+      "uuid": "2818c817-436b-4e77-822b-d175c7091548",
+      "name": "0005",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "cd20a077-3d2f-412d-ba09-736d2822c68e"
+        },
+        {
+          "type": "route",
+          "uuid": "48e090f8-b5ae-4236-ae5e-01db7443d72f"
+        }
+      ]
+    },
+    {
+      "uuid": "d4c28f01-966c-462e-aadf-71a21bec14d1",
+      "name": "0007",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "4df06d38-fa0e-4fbc-a8c8-9183e615035b"
+        },
+        {
+          "type": "route",
+          "uuid": "e2eb8d15-4049-4479-a37e-f3d2a17e7674"
+        }
+      ]
+    },
+    {
+      "uuid": "3fa87499-8c54-42c8-b4fe-d426b7038e6c",
+      "name": "0019",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "b5e89033-c611-474c-81d3-3058faad79c6"
+        },
+        {
+          "type": "route",
+          "uuid": "3ee80cec-daa9-4d7c-b60f-28cbad798fb8"
+        }
+      ]
+    },
+    {
+      "uuid": "a5475209-90d5-4de0-9a85-22d93d9b2583",
+      "name": "0021",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "b3e30c75-cad9-4a42-8f0f-f1b74e3dbf95"
+        },
+        {
+          "type": "route",
+          "uuid": "779bf003-4370-490b-88fc-6ad60495b073"
+        }
+      ]
+    },
+    {
+      "uuid": "1b4cf7f3-61e8-4edc-b048-e09204cc7eea",
+      "name": "0009",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "4038ea32-9041-4a39-b61c-04765c8c8096"
+        },
+        {
+          "type": "route",
+          "uuid": "94b2b0d5-fd7b-47a6-b6e5-78ecb5c4c817"
+        }
+      ]
+    },
+    {
+      "uuid": "ee82e86e-e040-4ed0-b2e7-e8aa6c63e4b4",
+      "name": "0023",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "29bf5ac6-ea21-4c18-8b49-2bff9dc5abce"
+        }
+      ]
+    },
+    {
+      "uuid": "1fa9ab1e-9c83-4468-ad89-2687a8fbb193",
+      "name": "0029",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "34a1bddb-6848-49fc-88c6-6a0014bbc0a3"
+        },
+        {
+          "type": "route",
+          "uuid": "fe0f8610-c3af-4365-8d96-23e33b5ef2a3"
+        }
+      ]
+    },
+    {
+      "uuid": "83927223-7128-4226-91ce-f6b977789c1c",
+      "name": "0011",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "fbfc7066-d7cc-4e1d-8c7c-80503f64091d"
+        },
+        {
+          "type": "route",
+          "uuid": "4d4eaf48-8aff-4219-88ad-80d4c0a2e449"
+        }
+      ]
+    },
+    {
+      "uuid": "6bc1b77e-0dc3-4d8b-b12c-3978f845bdc1",
+      "name": "0032",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "28afb34c-27bf-43dd-a278-851061295a64"
+        }
+      ]
+    },
+    {
+      "uuid": "e8e82e9b-b6fe-4e3c-8458-fd35ae33ecd7",
+      "name": "0020",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "a0a47869-5c33-49e2-833c-e7e93ab64df9"
+        }
+      ]
+    },
+    {
+      "uuid": "a673c202-06a1-47d3-b829-0c0b46fbc645",
+      "name": "0013",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "d8eba6ab-d9e4-4fe8-8de3-52ee30f7c508"
+        },
+        {
+          "type": "route",
+          "uuid": "c7b69e00-d2bc-4fac-8e8d-3a976abede33"
+        }
+      ]
+    },
+    {
+      "uuid": "7ea9dcf4-2266-422e-9297-e91b07e5becd",
+      "name": "CTR06",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "83735f89-1c6a-41fc-91d7-3b727c7a3d67"
+        },
+        {
+          "type": "route",
+          "uuid": "321b33e7-a4b2-4c6c-80c9-3906ec1c3247"
+        },
+        {
+          "type": "route",
+          "uuid": "1a801123-3097-4ca7-9053-87342844c14f"
+        },
+        {
+          "type": "route",
+          "uuid": "61a89ac0-d904-4fd2-88e6-688555ca4c5c"
+        },
+        {
+          "type": "route",
+          "uuid": "d943d9bc-be26-4a17-8f2b-4d7f8965a118"
+        }
+      ]
+    },
+    {
+      "uuid": "c19b2a8f-194f-45eb-8b26-99f26da680a4",
+      "name": "CTR01",
+      "children": [
+        {
+          "type": "folder",
+          "uuid": "d41a35ad-13f2-4c84-9b67-f697e9258025"
+        },
+        {
+          "type": "folder",
+          "uuid": "d02e6de8-22da-4601-a667-4db013d2cbd5"
+        },
+        {
+          "type": "folder",
+          "uuid": "e07108fe-9872-4b79-b421-2c7499f71ada"
+        },
+        {
+          "type": "folder",
+          "uuid": "5ab472d1-3c81-4999-b093-997a5d35edd1"
+        },
+        {
+          "type": "folder",
+          "uuid": "2818c817-436b-4e77-822b-d175c7091548"
+        },
+        {
+          "type": "folder",
+          "uuid": "f8f6a954-e566-4da8-b52b-0cf782e80513"
+        },
+        {
+          "type": "folder",
+          "uuid": "d4c28f01-966c-462e-aadf-71a21bec14d1"
+        },
+        {
+          "type": "folder",
+          "uuid": "5f0efbe4-c9e3-413a-9029-fede8dfcfebe"
+        },
+        {
+          "type": "folder",
+          "uuid": "1b4cf7f3-61e8-4edc-b048-e09204cc7eea"
+        },
+        {
+          "type": "folder",
+          "uuid": "83927223-7128-4226-91ce-f6b977789c1c"
+        },
+        {
+          "type": "folder",
+          "uuid": "3096ef4c-d046-4e29-9b41-6bbdc552ac25"
+        },
+        {
+          "type": "folder",
+          "uuid": "a673c202-06a1-47d3-b829-0c0b46fbc645"
+        },
+        {
+          "type": "folder",
+          "uuid": "3679b723-89b6-4e36-a811-b54d5eeb9b7c"
+        },
+        {
+          "type": "folder",
+          "uuid": "3fa87499-8c54-42c8-b4fe-d426b7038e6c"
+        },
+        {
+          "type": "folder",
+          "uuid": "e8e82e9b-b6fe-4e3c-8458-fd35ae33ecd7"
+        },
+        {
+          "type": "folder",
+          "uuid": "a5475209-90d5-4de0-9a85-22d93d9b2583"
+        },
+        {
+          "type": "folder",
+          "uuid": "ee82e86e-e040-4ed0-b2e7-e8aa6c63e4b4"
+        },
+        {
+          "type": "folder",
+          "uuid": "4e8bd62b-16f9-444b-beb7-02370b32c03a"
+        },
+        {
+          "type": "folder",
+          "uuid": "1fa9ab1e-9c83-4468-ad89-2687a8fbb193"
+        },
+        {
+          "type": "folder",
+          "uuid": "6bc1b77e-0dc3-4d8b-b12c-3978f845bdc1"
+        }
+      ]
+    },
+    {
+      "uuid": "3096ef4c-d046-4e29-9b41-6bbdc552ac25",
+      "name": "0012",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "6b005e87-d94e-4c66-9616-558bcb607a87"
+        },
+        {
+          "type": "route",
+          "uuid": "64efe9b4-d7b8-445e-8d57-07dbf96a76a7"
+        }
+      ]
+    },
+    {
+      "uuid": "8be35bf9-6590-48e8-bfed-2f3d2253b943",
+      "name": "CTR03",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "f0a99db9-9592-4b55-81b4-0064f38cbeef"
+        },
+        {
+          "type": "route",
+          "uuid": "346755f7-e3c2-4f1c-bd02-2020f7989f70"
+        },
+        {
+          "type": "route",
+          "uuid": "bec8542a-4821-4be5-9785-63af054b961f"
+        },
+        {
+          "type": "route",
+          "uuid": "e859627c-2c57-460c-8f74-dd4765392873"
+        },
+        {
+          "type": "route",
+          "uuid": "2182c11e-e897-4ed4-b959-d682009b50d0"
+        },
+        {
+          "type": "route",
+          "uuid": "fb5e6bbf-650f-416a-a3fb-8c3863dd78dd"
+        },
+        {
+          "type": "route",
+          "uuid": "ba09b0d2-e060-4e7f-a07d-a0ab6493d467"
+        },
+        {
+          "type": "route",
+          "uuid": "046419ea-9eed-4441-9961-fc41463f0be7"
+        },
+        {
+          "type": "route",
+          "uuid": "9ede5c21-d197-4875-807b-0dd3868a638b"
+        },
+        {
+          "type": "route",
+          "uuid": "107af6d8-1ee3-444f-8321-50c71baa30e6"
+        }
+      ]
+    },
+    {
+      "uuid": "eda96b42-daed-4dfa-8254-5c6a75c4b688",
+      "name": "COP01",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "e0a10e8b-a8bf-4951-b45e-04b50128ce05"
+        },
+        {
+          "type": "route",
+          "uuid": "ab3a6ae0-0e09-46bc-89b3-d32581401da2"
+        },
+        {
+          "type": "route",
+          "uuid": "fa4a63d8-ad49-4217-b7b7-13f62b1c4165"
+        }
+      ]
+    },
+    {
+      "uuid": "6c557d33-8132-4340-a7e9-9f8782281c01",
+      "name": "CTR09",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "78e345c4-026d-48b3-b8b2-1fb353afb3c7"
+        }
+      ]
+    },
+    {
+      "uuid": "659eae08-5be9-4624-88f7-3404552a79c8",
+      "name": "CTR05",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "d129fd0e-af2c-465d-b342-bd4d41c8a293"
+        },
+        {
+          "type": "route",
+          "uuid": "f89cf2f8-32a5-449e-902f-3b8d853d00e4"
+        },
+        {
+          "type": "route",
+          "uuid": "0a729c18-c45d-4f1e-8f41-22f14178c875"
+        },
+        {
+          "type": "route",
+          "uuid": "63bad658-245d-4149-ad74-7c3952b36bb6"
+        },
+        {
+          "type": "route",
+          "uuid": "a5d9bce4-839b-4a36-a5e8-ee94b9c4a7e3"
+        }
+      ]
+    },
+    {
+      "uuid": "552acd33-3e2b-42d0-93ac-282c3386e69e",
+      "name": "CTR04",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "6e865cf8-3c02-4cdb-b8f2-c3524baa3d6d"
+        }
+      ]
+    },
+    {
+      "uuid": "6f4ed84c-1b6a-4a62-b4ff-c3ed051fdcca",
+      "name": "CTR25",
+      "children": [
+        {
+          "type": "route",
+          "uuid": "cfc9219c-5e77-48d6-b4f6-125472fdb00a"
+        }
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "uuid": "34a1bddb-6848-49fc-88c6-6a0014bbc0a3",
+      "type": "http",
+      "documentation": "supplementary-info-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/supplementaryinfoservice/supplementary-info-enter/v1",
+      "responses": [
+        {
+          "uuid": "23092d63-9b3b-400a-a277-f3b031bfb61d",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\supplementary-info-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        },
+        {
+          "uuid": "1ef86689-8f2f-4690-83c3-8a12705e04b4",
+          "body": "{\n  \"Rules example\": \"Content not found. Served if route param 'param1' is not equal to 'xyz'. (See in 'Rules' tab)\"\n}\n",
+          "latency": 0,
+          "statusCode": 404,
+          "label": "Content not found",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\supplementary-info-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [
+            {
+              "target": "params",
+              "modifier": "param1",
+              "value": "^(?!.*xyz).*$",
+              "invert": false,
+              "operator": "regex"
+            }
+          ],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": false,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "e72b8583-8c94-4356-bc67-13eab243bde8",
+      "type": "http",
+      "documentation": "get-user-object",
+      "method": "post",
+      "endpoint": "fe/sa/acc/get-user-object/v1",
+      "responses": [
+        {
+          "uuid": "b7d92370-752f-486b-b51d-fb121f16efc1",
+          "body": "{\n  status: {\n                \"value\": false\n            },\n}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\get-user-object.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "24d9d9b0-2891-4249-b42f-6683f27e5f94",
+      "type": "http",
+      "documentation": "personal-part-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/filingservice/personal-part-enter/v1",
+      "responses": [
+        {
+          "uuid": "41f352d7-91e8-4f7d-bdc6-57356b1ef3e6",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\personal-part-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "fe0f8610-c3af-4365-8d96-23e33b5ef2a3",
+      "type": "http",
+      "documentation": "supplementary-info-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/supplementaryinfoservice/supplementary-info-post/v1",
+      "responses": [
+        {
+          "uuid": "7b2267f9-2801-4ae3-bd83-326564dea040",
+          "body": "{}",
+          "latency": 1000,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\supplementary-info-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        },
+        {
+          "uuid": "8675663b-fbdb-4e42-8e6c-f895800fd399",
+          "body": "{\n  \"Rules example\": \"Content not found. Served if route param 'param1' is not equal to 'xyz'. (See in 'Rules' tab)\"\n}\n",
+          "latency": 0,
+          "statusCode": 404,
+          "label": "Content not found",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\supplementary-info-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [
+            {
+              "target": "params",
+              "modifier": "param1",
+              "value": "^(?!.*xyz).*$",
+              "invert": false,
+              "operator": "regex"
+            }
+          ],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": false,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "fbfc7066-d7cc-4e1d-8c7c-80503f64091d",
+      "type": "http",
+      "documentation": "notification-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/profitservice/notification-enter/v1",
+      "responses": [
+        {
+          "uuid": "06d4511a-d013-454f-9240-214c9468daec",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\notification-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "4038ea32-9041-4a39-b61c-04765c8c8096",
+      "type": "http",
+      "documentation": "sp-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/profitservice/sp-enter/v1",
+      "responses": [
+        {
+          "uuid": "b20e9b8a-40f4-4e32-8e71-05db187b2a7c",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\sp-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "94b2b0d5-fd7b-47a6-b6e5-78ecb5c4c817",
+      "type": "http",
+      "documentation": "sp-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/profitservice/sp-post/v1",
+      "responses": [
+        {
+          "uuid": "b29f0e76-5c5c-4e1f-9ab7-4d1f7f5389e4",
+          "body": "{}",
+          "latency": 500,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\sp-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "4d4eaf48-8aff-4219-88ad-80d4c0a2e449",
+      "type": "http",
+      "documentation": "notification-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/profitservice/notification-post/v1",
+      "responses": [
+        {
+          "uuid": "d2db7abe-6aa3-4cf2-90b0-55f8f1dc6b38",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\notification-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "0191bf00-4898-44bf-b70e-da6935736629",
+      "type": "http",
+      "documentation": "personal-part-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/filingservice/personal-part-post/v1",
+      "responses": [
+        {
+          "uuid": "3074f409-2f38-495f-bbc2-1739b066683e",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\personal-part-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "28afb34c-27bf-43dd-a278-851061295a64",
+      "type": "http",
+      "documentation": "error-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/errorservice/error-enter/v1",
+      "responses": [
+        {
+          "uuid": "f90ca1a9-0ea1-49d7-b763-3efe8f4790aa",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\error-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "507ed6ec-4c72-4c26-b9c6-87acc668c0b4",
+      "type": "http",
+      "documentation": "instruction-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/filingservice/instruction-post/v1",
+      "responses": [
+        {
+          "uuid": "acea3db5-20a1-4833-b953-082349709984",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\instruction-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "fadadd70-9da1-43e3-adfa-9dcfb3f6bd29",
+      "type": "http",
+      "documentation": "note-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/filingservice/note-post/v1",
+      "responses": [
+        {
+          "uuid": "535d4d2d-294a-4551-a69b-65a46db70f1a",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\note-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "d186877b-1407-460e-8a4a-27bbbd1ca2c2",
+      "type": "http",
+      "documentation": "filing-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/filingservice/filing-enter/v1",
+      "responses": [
+        {
+          "uuid": "1f3a09ed-5f3c-4263-820a-6473b390affa",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\filing-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "0fe4d302-228b-4f05-836d-996e5d08c88a",
+      "type": "http",
+      "documentation": "note-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/filingservice/note-enter/v1",
+      "responses": [
+        {
+          "uuid": "983ad73c-d167-48aa-9e05-229688d8775f",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\note-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "db1aabee-e7f1-46aa-9a2e-755ae6dce54e",
+      "type": "http",
+      "documentation": "income-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/salariesservice/income-enter/v1",
+      "responses": [
+        {
+          "uuid": "f9e139e7-57e2-44a7-a3c2-74434cb02d14",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\income-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "cd20a077-3d2f-412d-ba09-736d2822c68e",
+      "type": "http",
+      "documentation": "emp-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/salariesservice/emp-enter/v1",
+      "responses": [
+        {
+          "uuid": "8f5e7cfe-1c3f-4198-8964-6174b602269e",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\emp-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "d8a2704d-f4ef-426c-947e-3b8cea0cd4ea",
+      "type": "http",
+      "documentation": "dr-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/domesticrentsservice/dr-enter/v1",
+      "responses": [
+        {
+          "uuid": "bf7b6348-5d41-4c09-8219-9db58419df59",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\dr-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "c7068c5e-6ce3-4a94-90c5-992dcb7e30ce",
+      "type": "http",
+      "documentation": "dr-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/domesticrentsservice/dr-post/v1",
+      "responses": [
+        {
+          "uuid": "ab882bd5-0c50-4eaa-ad29-68df10daca87",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\dr-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "a2796fca-f2a0-4a22-b8da-2810876ec504",
+      "type": "http",
+      "documentation": "income-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/salariesservice/income-post/v1",
+      "responses": [
+        {
+          "uuid": "555a4735-48b5-452b-8ab7-5c380b34de56",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\income-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "ee8f789a-dae7-4253-9d08-632b32975e8f",
+      "type": "http",
+      "documentation": "property-tax-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/propertyservice/property-tax-post/v1",
+      "responses": [
+        {
+          "uuid": "0032a43f-a477-403c-a86b-8a2dbf66a5d8",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\property-tax-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "604bc272-3b0a-44be-ba06-f4cf7ea332f2",
+      "type": "http",
+      "documentation": "property-tax-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/propertyservice/property-tax-enter/v1",
+      "responses": [
+        {
+          "uuid": "1cc699eb-e0cb-4af3-9ce4-013e91b4c87f",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\property-tax-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "bfcd363c-e346-41c2-a64f-b315c1f4dda7",
+      "type": "http",
+      "documentation": "select-parts-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/filingservice/select-parts-enter/v1",
+      "responses": [
+        {
+          "uuid": "2b3713c8-2b19-4322-8d6d-7630c65f7827",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\select-parts-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        },
+        {
+          "uuid": "0eab2c04-3f55-4ed8-8def-cd3d51f9f665",
+          "body": "{\n  \"Rules example\": \"Content not found. Served if route param 'param1' is not equal to 'xyz'. (See in 'Rules' tab)\"\n}\n",
+          "latency": 0,
+          "statusCode": 404,
+          "label": "Content not found",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\supplementary-info-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [
+            {
+              "target": "params",
+              "modifier": "param1",
+              "value": "^(?!.*xyz).*$",
+              "invert": false,
+              "operator": "regex"
+            }
+          ],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": false,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "3cec5bd4-989c-445d-a1e3-2cd5b7c43a69",
+      "type": "http",
+      "documentation": "select-parts-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/filingservice/select-parts-post/v1",
+      "responses": [
+        {
+          "uuid": "90cc5cb7-abe9-4bb7-8782-7fcaee486caf",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\select-parts-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [
+            {
+              "target": "body",
+              "modifier": "",
+              "value": "",
+              "invert": false,
+              "operator": "equals"
+            }
+          ],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        },
+        {
+          "uuid": "81db7df4-8882-4ff5-831e-7f853941a225",
+          "body": "{\n  \"Rules example\": \"Content not found. Served if route param 'param1' is not equal to 'xyz'. (See in 'Rules' tab)\"\n}\n",
+          "latency": 0,
+          "statusCode": 404,
+          "label": "Content not found",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\supplementary-info-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [
+            {
+              "target": "params",
+              "modifier": "param1",
+              "value": "^(?!.*xyz).*$",
+              "invert": false,
+              "operator": "regex"
+            }
+          ],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": false,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "725669ce-c63a-4528-8aff-3bad23aec376",
+      "type": "http",
+      "documentation": "save",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/filingservice/save/v1",
+      "responses": [
+        {
+          "uuid": "ea8c9bec-6c12-4280-808c-7f9fee866840",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\save.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "3f215a6a-1aa7-43bb-aacb-3654273d104e",
+      "type": "http",
+      "documentation": "save-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/filingservice/save-post/v1",
+      "responses": [
+        {
+          "uuid": "9bf2e7f1-f0d6-4ea2-ad72-f45596bba48d",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\save-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [
+            {
+              "target": "body",
+              "modifier": "",
+              "value": "",
+              "invert": false,
+              "operator": "equals"
+            }
+          ],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "48e090f8-b5ae-4236-ae5e-01db7443d72f",
+      "type": "http",
+      "documentation": "emp-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/salariesservice/emp-post/v1",
+      "responses": [
+        {
+          "uuid": "d0f8ae87-1307-401b-b7ce-cc847d0f34da",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\emp-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "4df06d38-fa0e-4fbc-a8c8-9183e615035b",
+      "type": "http",
+      "documentation": "deduct-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/salariesservice/deduct-enter/v1",
+      "responses": [
+        {
+          "uuid": "f6f8dba9-7b66-4df7-a22d-172405cc84ba",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\deduct-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "e2eb8d15-4049-4479-a37e-f3d2a17e7674",
+      "type": "http",
+      "documentation": "deduct-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/salariesservice/deduct-post/v1",
+      "responses": [
+        {
+          "uuid": "ac6b7bcc-bf48-469a-8607-0048947f9b5b",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\deduct-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "b5e89033-c611-474c-81d3-3058faad79c6",
+      "type": "http",
+      "documentation": "parent-allow-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/allowanceservice/parent-allow-enter/v1",
+      "responses": [
+        {
+          "uuid": "05416787-0226-46ac-b6b8-ee910957dffe",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\parent-allow-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "3ee80cec-daa9-4d7c-b60f-28cbad798fb8",
+      "type": "http",
+      "documentation": "parent-allow-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/allowanceservice/select-allow-post/v1",
+      "responses": [
+        {
+          "uuid": "e561d040-0745-4648-85e9-fe8cd3d2aba1",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\parent-allow-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "b3e30c75-cad9-4a42-8f0f-f1b74e3dbf95",
+      "type": "http",
+      "documentation": "sim-rtn-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/filingservice/sim-rtn-enter/v1",
+      "responses": [
+        {
+          "uuid": "062cdcc3-21d7-4af4-9807-e1873e72c3f0",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\sim-rtn-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "779bf003-4370-490b-88fc-6ad60495b073",
+      "type": "http",
+      "documentation": "sim-rtn-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/filingservice/sim-rtn-post/v1",
+      "responses": [
+        {
+          "uuid": "27453176-a25d-4f56-93fb-dd8532a80635",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\sim-rtn-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "f72f8e39-015a-4bf7-9020-f9647ee4c35a",
+      "type": "http",
+      "documentation": "getSimulatedReturnHtml",
+      "method": "post",
+      "endpoint": "fe/getSimulatedReturnHtml",
+      "responses": [
+        {
+          "uuid": "53462198-8b39-49df-94f2-2034bcdd1769",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\getSimulatedReturnHtml.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "a584ce53-c3c1-4b75-951a-e9786b5b8dac",
+      "type": "http",
+      "documentation": "logs",
+      "method": "post",
+      "endpoint": "fe/logs",
+      "responses": [
+        {
+          "uuid": "5ae2fc45-b1c0-44ac-b3fb-a1c14c063acd",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\logs.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "1ca1eeb9-6834-4394-9f2c-1d90b6822181",
+      "type": "http",
+      "documentation": "event-track",
+      "method": "post",
+      "endpoint": "fe/event-track",
+      "responses": [
+        {
+          "uuid": "5f7f5163-63b3-4829-b705-0f40b33048e8",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\logs.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "3e03f33f-f501-4869-ac45-66eb5001f7db",
+      "type": "http",
+      "documentation": "proxy",
+      "method": "post",
+      "endpoint": "fe/proxy",
+      "responses": [
+        {
+          "uuid": "4598d405-5302-4539-91c2-5b5315679823",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\proxy.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "29bf5ac6-ea21-4c18-8b49-2bff9dc5abce",
+      "type": "http",
+      "documentation": "est-tax-comp-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/esttaxcompservice/est-tax-comp-enter/v1",
+      "responses": [
+        {
+          "uuid": "623f0929-ced1-4e47-a60b-1ad752ca469f",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\est-tax-comp-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        },
+        {
+          "uuid": "8a8bbbdf-39f9-45ef-8be6-856b205867ea",
+          "body": "{\n  \"Rules example\": \"Content not found. Served if route param 'param1' is not equal to 'xyz'. (See in 'Rules' tab)\"\n}\n",
+          "latency": 0,
+          "statusCode": 404,
+          "label": "Content not found",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\supplementary-info-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [
+            {
+              "target": "params",
+              "modifier": "param1",
+              "value": "^(?!.*xyz).*$",
+              "invert": false,
+              "operator": "regex"
+            }
+          ],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": false,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "a0a47869-5c33-49e2-833c-e7e93ab64df9",
+      "type": "http",
+      "documentation": "authen",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/selectspouseauthenservice/authen/v1",
+      "responses": [
+        {
+          "uuid": "9adf7f64-bca5-47fe-b9e9-0bfead25ec35",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\authen.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "d8eba6ab-d9e4-4fe8-8de3-52ee30f7c508",
+      "type": "http",
+      "documentation": "pa-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/assessmentservice/pa-enter/v1",
+      "responses": [
+        {
+          "uuid": "4252d9e9-fa55-40b4-a5c1-fef2cfd7f6db",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\pa-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "c7b69e00-d2bc-4fac-8e8d-3a976abede33",
+      "type": "http",
+      "documentation": "pa-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/assessmentservice/pa-post/v1",
+      "responses": [
+        {
+          "uuid": "662e9989-9650-417d-9ddf-b398395d6065",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\pa-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "37d18aee-1310-42bc-ad07-0db43ac7d4e5",
+      "type": "http",
+      "documentation": "uploadfile",
+      "method": "post",
+      "endpoint": "fe/pa/filesvc/rest/filetransfer/uploadfile/bucketid/v1",
+      "responses": [
+        {
+          "uuid": "486b756d-ef78-4629-8608-a698d8fe6c66",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 500,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\uploadfile.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "83735f89-1c6a-41fc-91d7-3b727c7a3d67",
+      "type": "http",
+      "documentation": "step",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/rcdservice/step/v1",
+      "responses": [
+        {
+          "uuid": "9885e5ff-00af-4504-90cd-f791912da4d4",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\step.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "1a801123-3097-4ca7-9053-87342844c14f",
+      "type": "http",
+      "documentation": "claimingdeduction",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/rcdservice/claimingdeduction/v1",
+      "responses": [
+        {
+          "uuid": "d9dfe914-ca39-41d5-b0a2-c3d591bea337",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\claimingdeduction.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "61a89ac0-d904-4fd2-88e6-688555ca4c5c",
+      "type": "http",
+      "documentation": "entry",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/rcdservice/entry/v1",
+      "responses": [
+        {
+          "uuid": "464fec87-82b4-4b98-9724-7210eecfa37b",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\entry.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "321b33e7-a4b2-4c6c-80c9-3906ec1c3247",
+      "type": "http",
+      "documentation": "exit",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/rcdservice/exit/v1",
+      "responses": [
+        {
+          "uuid": "670d9fdf-ce61-401e-a439-94196a48db60",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\exit.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "d943d9bc-be26-4a17-8f2b-4d7f8965a118",
+      "type": "http",
+      "documentation": "loadallyears",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/rcdservice/loadallyears/v1",
+      "responses": [
+        {
+          "uuid": "11872304-fa15-418b-93c5-e080faa7fcfd",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\loadallyears.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [
+            {
+              "target": "query",
+              "modifier": "form.submitAction",
+              "value": "amend",
+              "invert": false,
+              "operator": "equals"
+            },
+            {
+              "target": "query",
+              "modifier": "form.submitAction",
+              "value": "changeyear",
+              "invert": false,
+              "operator": "equals"
+            }
+          ],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "64efe9b4-d7b8-445e-8d57-07dbf96a76a7",
+      "type": "http",
+      "documentation": "deduction-claims-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/profitservice/deduction-claims-post/v1",
+      "responses": [
+        {
+          "uuid": "4f9ec1d9-e9c1-4ce1-96f5-60bb649e51eb",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\deduction-claims-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "6b005e87-d94e-4c66-9616-558bcb607a87",
+      "type": "http",
+      "documentation": "deduction-claims-enter",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/profitservice/deduction-claims-enter/v1",
+      "responses": [
+        {
+          "uuid": "f9f0e234-cad0-415a-93ff-d86454cc5132",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\deduction-claims-enter.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "346755f7-e3c2-4f1c-bd02-2020f7989f70",
+      "type": "http",
+      "documentation": "objservice-entry",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/objservice/entry/v1",
+      "responses": [
+        {
+          "uuid": "0bdd516e-5cf3-4071-a304-109129a968f0",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\objservice-entry.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "bec8542a-4821-4be5-9785-63af054b961f",
+      "type": "http",
+      "documentation": "objservice-step",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/objservice/step/v1",
+      "responses": [
+        {
+          "uuid": "ff351b29-663b-46e3-8010-4cfb8de25a95",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\objservice-step.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "e859627c-2c57-460c-8f74-dd4765392873",
+      "type": "http",
+      "documentation": "objservice-notice",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/objservice/notice/v1",
+      "responses": [
+        {
+          "uuid": "70c1c7a0-71b5-44f2-acaf-1be64af48a9e",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\objservice-notice.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "2182c11e-e897-4ed4-b959-d682009b50d0",
+      "type": "http",
+      "documentation": "objservice-confirm",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/objservice/confirm/v1",
+      "responses": [
+        {
+          "uuid": "9fd0b001-0783-4cc8-982b-2e8fee2b2e6c",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\objservice-confirm.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "fb5e6bbf-650f-416a-a3fb-8c3863dd78dd",
+      "type": "http",
+      "documentation": "objservice-ack",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/objservice/ack/v1",
+      "responses": [
+        {
+          "uuid": "b2fe89ed-64c6-4bf8-b134-c8bc2009b34d",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\objservice-ack.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "f0a99db9-9592-4b55-81b4-0064f38cbeef",
+      "type": "http",
+      "documentation": "supplementaryservice",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/supplementaryservice/file/v1",
+      "responses": [
+        {
+          "uuid": "6369733f-d0be-4f5b-9b90-ba956d4ca59b",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\supplementary-info-post - 副本.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "93efdeef-605b-42ae-9de5-246018e7230e",
+      "type": "http",
+      "documentation": "sessionidandkey",
+      "method": "post",
+      "endpoint": "fe/pa/sstorage/sessionidandkey/query",
+      "responses": [
+        {
+          "uuid": "0d5a6636-b5cb-4863-80a5-91d63f0ae4fc",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\sessionid.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "e0a10e8b-a8bf-4951-b45e-04b50128ce05",
+      "type": "http",
+      "documentation": "copservice-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/copservice/post/v1",
+      "responses": [
+        {
+          "uuid": "1199056c-f76e-4dd8-acfb-67dbb85f5c59",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\copservice-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "ab3a6ae0-0e09-46bc-89b3-d32581401da2",
+      "type": "http",
+      "documentation": "copservice-ack",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/copservice/ack/v1",
+      "responses": [
+        {
+          "uuid": "8b4e716d-706f-4cf1-9d50-c0f9756aa78e",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\copservice-ack.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "ba09b0d2-e060-4e7f-a07d-a0ab6493d467",
+      "type": "http",
+      "documentation": "paservice-select",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/paservice/select/v1",
+      "responses": [
+        {
+          "uuid": "98bfa16d-2b0e-445b-9051-788f293c6f38",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\paservice-select.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "046419ea-9eed-4441-9961-fc41463f0be7",
+      "type": "http",
+      "documentation": "paservice-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/paservice/post/v1",
+      "responses": [
+        {
+          "uuid": "5e6db414-8258-4e2f-95ee-043466165982",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\paservice-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "9ede5c21-d197-4875-807b-0dd3868a638b",
+      "type": "http",
+      "documentation": "objservice-post",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/objservice/post/v1",
+      "responses": [
+        {
+          "uuid": "6f603a6c-5b65-488c-975c-7dba5352f866",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\objservice-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "78e345c4-026d-48b3-b8b2-1fb353afb3c7",
+      "type": "http",
+      "documentation": "",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/enpservice/summary/v1",
+      "responses": [
+        {
+          "uuid": "6390bea2-9f77-4131-a1e2-ea639a5c4f97",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\enp.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "308a6b04-72ec-44b8-8ecd-4be702366469",
+      "type": "http",
+      "documentation": "check-session",
+      "method": "post",
+      "endpoint": "fe/pa/agsec/check-session/v1",
+      "responses": [
+        {
+          "uuid": "25e3e61b-e011-44ec-a944-b42018066e29",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\check-session.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "60a41a96-a0de-4947-9be7-f035e681932d",
+      "type": "http",
+      "documentation": "trace-log",
+      "method": "post",
+      "endpoint": "fe/trace-log",
+      "responses": [
+        {
+          "uuid": "b543e833-9fb5-49a1-b537-b04e1a321727",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\logs.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "ff5cf069-9511-48ee-8a5f-f176a0b1197f",
+      "type": "http",
+      "documentation": "unreadcount-total",
+      "method": "get",
+      "endpoint": "fe/sa/msg/unreadcount/total/v1",
+      "responses": [
+        {
+          "uuid": "14e91685-b951-4539-bdbc-8ba6612b605d",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\unreadcount-total.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [
+            {
+              "target": "body",
+              "modifier": "",
+              "value": "",
+              "invert": false,
+              "operator": "equals"
+            }
+          ],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "10c3a754-b1d5-43da-9635-da551f6557b8",
+      "type": "http",
+      "documentation": "get-constant",
+      "method": "post",
+      "endpoint": "fe/pa/reg/common/get-constant/v1",
+      "responses": [
+        {
+          "uuid": "b56f4122-5f33-4e82-85b3-638bfac1153f",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\logs.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "5d3afcc7-bd63-4080-be5a-2033f0faceb9",
+      "type": "http",
+      "documentation": "sessionid",
+      "method": "post",
+      "endpoint": "fe/pa/sstorage/sessionid/obtain",
+      "responses": [
+        {
+          "uuid": "e4fe6a54-54b0-42d9-841b-a135cade1d51",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\sessionid.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "9e1dfc87-cccf-4c43-9bc0-ff0f3ee2b69b",
+      "type": "http",
+      "documentation": "tempsavenoticeservice",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/tempsavenoticeservice/notice/v1",
+      "responses": [
+        {
+          "uuid": "a010c6ba-e221-437c-b424-fb44ef078e98",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\logs.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "fa4a63d8-ad49-4217-b7b7-13f62b1c4165",
+      "type": "http",
+      "documentation": "copservice-entry",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/copservice/entry/v1",
+      "responses": [
+        {
+          "uuid": "6f5ff79f-5187-4987-b8df-ec5f04b88ce5",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\copservice-post.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "95fcc784-8011-44a4-8351-51e17834343f",
+      "type": "http",
+      "documentation": "constant-query-by-module",
+      "method": "post",
+      "endpoint": "fe/pa/com/constant/constant-query-by-module/v1",
+      "responses": [
+        {
+          "uuid": "33f2a151-a454-4de8-98c5-c99fd97be042",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\logs.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "d129fd0e-af2c-465d-b342-bd4d41c8a293",
+      "type": "http",
+      "documentation": "paservice-ack",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/paservice/ack/v1",
+      "responses": [
+        {
+          "uuid": "46621074-c4ea-4673-a4ac-39f7eb00a273",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\paservice-ack.json",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "aa041020-2958-49c9-9016-9661721f1461",
+      "type": "http",
+      "documentation": "",
+      "method": "get",
+      "endpoint": "fe/event-track",
+      "responses": [
+        {
+          "uuid": "9a18def2-542b-4695-9811-36df70ad7df0",
+          "body": "{\"code\":0,\"message\":\"success\"}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [
+            {
+              "key": "access-control-allow-credentials",
+              "value": "true"
+            },
+            {
+              "key": "access-control-allow-headers",
+              "value": "Content-Type, Origin, Accept, Authorization, Content-Length, X-Requested-With"
+            },
+            {
+              "key": "access-control-allow-methods",
+              "value": "GET,POST,PUT,PATCH,DELETE,HEAD,OPTIONS"
+            },
+            {
+              "key": "access-control-allow-origin",
+              "value": "https://itp-sit.etax.ird.gov.hk"
+            },
+            {
+              "key": "access-control-expose-headers",
+              "value": "Access-Control-Allow-Origin"
+            },
+            {
+              "key": "connection",
+              "value": "close"
+            },
+            {
+              "key": "content-type",
+              "value": "application/json; charset=utf-8"
+            },
+            {
+              "key": "date",
+              "value": "Tue, 19 Mar 2024 05:59:51 GMT"
+            },
+            {
+              "key": "etag",
+              "value": "W/\"1e-B+L9IyiUXLaaFbDi8eB3qntOyzU\""
+            },
+            {
+              "key": "set-cookie",
+              "value": "TS01af379e=01b378bc2214edb03ceaa06dce05b89576a06f537ffdff67f59aab1feb4de96ed241a866cfbd014025637fa2e3c06204798afa5496; Path=/"
+            },
+            {
+              "key": "vary",
+              "value": "Accept-Encoding, Origin"
+            },
+            {
+              "key": "via",
+              "value": "kong/3.1.1.3-enterprise-edition"
+            },
+            {
+              "key": "x-kong-proxy-latency",
+              "value": "7"
+            },
+            {
+              "key": "x-kong-upstream-latency",
+              "value": "5"
+            },
+            {
+              "key": "content-length",
+              "value": "30"
+            }
+          ],
+          "bodyType": "INLINE",
+          "filePath": "",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": false,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "e634ca93-022b-482c-91b1-065d1212499e",
+      "type": "http",
+      "documentation": "sstorage-session",
+      "method": "post",
+      "endpoint": "fe/pa/sstorage/session/save",
+      "responses": [
+        {
+          "uuid": "84bebeb8-eab5-4385-bd27-dbdd96cae948",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "INLINE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\logs.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "107af6d8-1ee3-444f-8321-50c71baa30e6",
+      "type": "http",
+      "documentation": "supplementaryservice-text",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/supplementaryservice/text/v1",
+      "responses": [
+        {
+          "uuid": "d95a0533-da97-4709-be18-48f93d9757d7",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\supplementaryservice-text.json",
+          "databucketID": "",
+          "sendFileAsBody": true,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "6e865cf8-3c02-4cdb-b8f2-c3524baa3d6d",
+      "type": "http",
+      "documentation": "holservice-ack",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/holservice/ack/v1",
+      "responses": [
+        {
+          "uuid": "c80e2231-319b-4130-ac60-78b26225fd82",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\holservice-ack.json",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "cfc9219c-5e77-48d6-b4f6-125472fdb00a",
+      "type": "http",
+      "documentation": "allowanceservice-ack",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/allowanceservice/ack/v1",
+      "responses": [
+        {
+          "uuid": "37bfc844-ad1f-40b3-841e-1451452bd037",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\allowanceservice-ack.json",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "f89cf2f8-32a5-449e-902f-3b8d853d00e4",
+      "type": "http",
+      "documentation": "paservice-note",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/paservice/note/v1",
+      "responses": [
+        {
+          "uuid": "c100a669-31a2-465a-9ccb-ca20c8c0dba0",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\paservice-ack.json",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "0a729c18-c45d-4f1e-8f41-22f14178c875",
+      "type": "http",
+      "documentation": "paservice-intro",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/paservice/intro/v1",
+      "responses": [
+        {
+          "uuid": "255f8e1b-df3a-4033-a5ee-e0b32a6763c3",
+          "body": "{}",
+          "latency": 0,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\paservice-intro.json",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "63bad658-245d-4149-ad74-7c3952b36bb6",
+      "type": "http",
+      "documentation": "paservice-confirm",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/paservice/confirm/v1",
+      "responses": [
+        {
+          "uuid": "8dd1e8f1-5104-4a2d-a57e-ed7557457787",
+          "body": "{}",
+          "latency": 1000,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\paservice-confirm.json",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    },
+    {
+      "uuid": "a5d9bce4-839b-4a36-a5e8-ee94b9c4a7e3",
+      "type": "http",
+      "documentation": "paservice-verify",
+      "method": "post",
+      "endpoint": "fe/sa/ctr/paservice/verify/v1",
+      "responses": [
+        {
+          "uuid": "9ee6cdad-12af-499c-9e8c-ecdcc864a305",
+          "body": "{}",
+          "latency": 1000,
+          "statusCode": 200,
+          "label": "",
+          "headers": [],
+          "bodyType": "FILE",
+          "filePath": "C:\\project\\mockserver\\mockdata\\CTR\\paservice-confirm.json",
+          "databucketID": "",
+          "sendFileAsBody": false,
+          "rules": [],
+          "rulesOperator": "OR",
+          "disableTemplating": false,
+          "fallbackTo404": false,
+          "default": true,
+          "crudKey": "id",
+          "callbacks": []
+        }
+      ],
+      "responseMode": null
+    }
+  ],
+  "rootChildren": [
+    {
+      "type": "folder",
+      "uuid": "db6f1cac-f847-4867-8fab-091e5e539c87"
+    },
+    {
+      "type": "folder",
+      "uuid": "c19b2a8f-194f-45eb-8b26-99f26da680a4"
+    },
+    {
+      "type": "folder",
+      "uuid": "8be35bf9-6590-48e8-bfed-2f3d2253b943"
+    },
+    {
+      "type": "folder",
+      "uuid": "552acd33-3e2b-42d0-93ac-282c3386e69e"
+    },
+    {
+      "type": "folder",
+      "uuid": "659eae08-5be9-4624-88f7-3404552a79c8"
+    },
+    {
+      "type": "folder",
+      "uuid": "7ea9dcf4-2266-422e-9297-e91b07e5becd"
+    },
+    {
+      "type": "folder",
+      "uuid": "6c557d33-8132-4340-a7e9-9f8782281c01"
+    },
+    {
+      "type": "folder",
+      "uuid": "6f4ed84c-1b6a-4a62-b4ff-c3ed051fdcca"
+    },
+    {
+      "type": "folder",
+      "uuid": "eda96b42-daed-4dfa-8254-5c6a75c4b688"
+    }
+  ],
+  "proxyMode": true,
+  "proxyHost": " https://itp-dev.etax.ird.gov.hk",
+  "proxyRemovePrefix": false,
+  "tlsOptions": {
+    "enabled": false,
+    "type": "CERT",
+    "pfxPath": "",
+    "certPath": "",
+    "keyPath": "",
+    "caPath": "",
+    "passphrase": ""
+  },
+  "cors": true,
+  "headers": [
+    {
+      "key": "Content-Type",
+      "value": "application/json"
+    },
+    {
+      "key": "Access-Control-Allow-Origin",
+      "value": "*"
+    },
+    {
+      "key": "Access-Control-Allow-Methods",
+      "value": "GET,POST,PUT,PATCH,DELETE,HEAD,OPTIONS"
+    },
+    {
+      "key": "Access-Control-Allow-Headers",
+      "value": "Content-Type, Origin, Accept, Authorization, Content-Length, X-Requested-With"
+    }
+  ],
+  "proxyReqHeaders": [
+    {
+      "key": "cookie",
+      "value": "showLangSwitch=true; ntp-ccc-dev=xLI1YRAySjvAaG6; ntp-ccc-uat1=IlgIL433fpGdj1I; CCC_PERFORMED=N; TO_BE_DESUPPORTED_TLS=N; ntp-etax=eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJ2amNYSE5PZUlnVGVTQi1vMWt6OHY2dlRoNUlpNWlFRm5pMEM0MFN2c1hZIn0.eyJleHAiOjE3MTU4MjU1MjYsImlhdCI6MTcxMzIzMzUyNiwiYXV0aF90aW1lIjoxNzEzMjMzNTI2LCJqdGkiOiIwZjYxNDAzMS04YzQzLTQ0ZWYtYmY0NS03ZGE5NzA3ZTJlMzEiLCJpc3MiOiJodHRwczovL2l0cC11YXQxLmV0YXguaXJkLmdvdi5oay9yZWFsbXMvbnRwLXVhdDEiLCJhdWQiOiJhY2NvdW50Iiwic3ViIjoiZjowOGFjMGM5Zi0xYmRjLTRlYjUtOWQ0NC0zNmQwYWNmNDllYzU6YXh0cWdoMGZlNjJ4YTN2IiwidHlwIjoiQmVhcmVyIiwiYXpwIjoiYXBwLWZlLWFnc2VjIiwibm9uY2UiOiI2NGY5N2YyMDQxMGQ0ZjY5OWE5N2U1ZGUzMTA0N2Y1OCIsInNlc3Npb25fc3RhdGUiOiJkYWYyMGUzYy0xOWZjLTQ0NTEtODUwNy1lMTRjYTQwMGI4ODQiLCJhY3IiOiIxIiwiYWxsb3dlZC1vcmlnaW5zIjpbImh0dHBzOi8vaXRwLXVhdDEuZXRheC5pcmQuZ292LmhrLyoiXSwicmVhbG1fYWNjZXNzIjp7InJvbGVzIjpbIm9mZmxpbmVfYWNjZXNzIiwidW1hX2F1dGhvcml6YXRpb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJzY29wZSI6Im9wZW5pZCBlbWFpbCBwcm9maWxlIiwic2lkIjoiZGFmMjBlM2MtMTlmYy00NDUxLTg1MDctZTE0Y2E0MDBiODg0IiwibnRwLXJlYWxtLW5hbWUiOiJudHAtdWF0MSIsIm50cC1zaXRlLWlkIjoiUDEiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsIm50cC1sb2dpbi1NZWNoYW5pc20iOiIxIiwibnRwLWF1dGgtaWQiOiJheHRxZ2gwZmU2MnhhM3YiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJheHRxZ2gwZmU2MnhhM3YiLCJudHAtc3VyZ2UtaWQiOiJhdXRoIiwiYXV0aElkIjoiYXh0cWdoMGZlNjJ4YTN2In0.ohrw7tdKAhyViJGZcbz3a7wL8G6WmeLW6EtQHjs2ZfBziSrDMW2meVdekDWOFekG_at9oyitePqKIb99NP4Ed8vnTI8MKLD0auq5JCRqNyrb6zx8vB8oxbLrSWf1SFN5s8OVYcJtKmQJbcvshWKEYspwRjB0nW-7prARCg8lPzra0z6HhSu-MRZltlUkf7cwSoVSsgFF6cJ1-5A7UxlcMYdRBPh2wSw64GJneD0QFMOi4xy8D0Umj_0tqn71IQao2kUEvRjWclHOt3O6HZpgv0-TPRMzqW8Bt7A2db4idRzJ2Ys_slU_QSTLipypP5jNgYqA6EG8LDVfUNWTqAci9A; userLang=zh; userCountry=HK; TPLASTLOGIN=-1; LAST_CCC=1715748767653; language=EN_US; TS01af379e=01b378bc221db505bfc3f380d3761481a1add5619ea6466f01423a76851990f7de27b7f585b651b39edfd1f3d90f73cdd566bd2c2f; _dd_s=logs=1&id=60f990d4-5bc8-415f-8138-c8e9569af1cd&created=1715929872518&expire=1715930774131; ntp-etax-dev=eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJvYjhJQTRzSlVCYUZ6M3ZiYUZGblJGc2NxQWd0NmVPM3ZiNDNGU0QwdFFnIn0.eyJleHAiOjE3MTg1MjE4NzksImlhdCI6MTcxNTkyOTg3OSwiYXV0aF90aW1lIjoxNzE1OTI5ODc5LCJqdGkiOiI5ODQ1ZWVhNC1jN2JkLTQ3NDgtOTg5Yy00N2RmMjBkOGYzZTMiLCJpc3MiOiJodHRwczovL2l0cC1kZXYuZXRheC5pcmQuZ292LmhrL3JlYWxtcy9udHAtZGV2MSIsImF1ZCI6ImFjY291bnQiLCJzdWIiOiJmOjYxY2ViNzMxLWEwMjctNGI1Yy05OWI3LWM2ZmYwYmE5ZmVjZjpkZjFfYTh2cTB5Zm90Z2tianlnNTN3X3NtaGVscmUiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJhcHAtZmUtYWdzZWMiLCJub25jZSI6IjRhZTM2ZTg5MzAxOTRhYTc4MzM4ZWY1ODEzYjA3ODk2Iiwic2Vzc2lvbl9zdGF0ZSI6IjAzZTkzNTllLWJmMzEtNDFhZi1hNDc5LWNjYTZhYzk3ZGU1OCIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiIl0sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJvZmZsaW5lX2FjY2VzcyIsInVtYV9hdXRob3JpemF0aW9uIl19LCJyZXNvdXJjZV9hY2Nlc3MiOnsiYWNjb3VudCI6eyJyb2xlcyI6WyJtYW5hZ2UtYWNjb3VudCIsIm1hbmFnZS1hY2NvdW50LWxpbmtzIiwidmlldy1wcm9maWxlIl19fSwic2NvcGUiOiJvcGVuaWQgZW1haWwgcHJvZmlsZSIsInNpZCI6IjAzZTkzNTllLWJmMzEtNDFhZi1hNDc5LWNjYTZhYzk3ZGU1OCIsIm50cC1yZWFsbS1uYW1lIjoibnRwLWRldjEiLCJudHAtc2l0ZS1pZCI6IlAxIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJudHAtbG9naW4tTWVjaGFuaXNtIjoiMSIsIm50cC1hdXRoLWlkIjoiZGYxX2E4dnEweWZvdGdrYmp5ZzUzd19zbWhlbHJlIiwicHJlZmVycmVkX3VzZXJuYW1lIjoiZGYxX2E4dnEweWZvdGdrYmp5ZzUzd19zbWhlbHJlIiwibnRwLXN1cmdlLWlkIjoiYXV0aCIsImF1dGhJZCI6ImRmMV9hOHZxMHlmb3Rna2JqeWc1M3dfc21oZWxyZSJ9.Dwcbv5UvWD9L79IXzmdBQQGZlVZaz_yYWzkzqfyBlMEsHpZgUSNsLsOhlDh6ekxV2UN3Gs22TmXg90jXzFG_sa__DbTXwiwj5PsCZuGA2kj6N8SBHCRuPDHvbI3UToqWHOBPuEGZCzZFlEHuLx3zp2IHsIlAPFWEXowg2AaEIlFh-az9GRylxmMlNv8ia60aqXOyLaO8LSwX9b36LE4jmehiZpnNJjB5PAUONSdyyZPbs-2KeaCAHbAB0iU6uusovjf8zCHmQkhHMTcM2uFJXYwc_MIGHn_WXZ1Fkmo6G0evRX0zmD5ZsnD_flxS2tY9E0UjjPqK4A3_qb_Sj0XesA; TS01ed9176=01b378bc226cdda5049d5fab91889a1a1d7376b3b9b1b8c9299b5b70ffee8c7f000aeb770f1c288ae137780a24f022f36a078f4ed973433460ae394f1213b637329d14f1c6f03f714603b056d7703eb1ad22c6f67e2f6714ebda0f4cc185de89805c5a4b7ffeef1756e847a89734c68b7a7cef5e26; ntp-etax-cip=5dd2160c-a72b-42f4-b53c-b3d655e7acee_%26_1715929882863; TS8cf2ae2d027=083c2cfe64ab2000ad7773f17ad3dff28f7f52094ffd2866950cad118028d70699a709142b0cc280086881cb371130006b8a40132d9791b01749920383a038cced5726f0b39f02df4379f9ab65933a0e71199be4db81c648f4c86ae1ffd296a0"
+    }
+  ],
+  "proxyResHeaders": [
+    {
+      "key": "",
+      "value": ""
+    }
+  ],
+  "data": [],
+  "callbacks": []
+}

@@ -1,0 +1,1704 @@
+{
+    "errors": [
+	  {
+		  "errorField": {
+                "value": "spouseECertSignIndErr"
+            },
+		  "errorCodes": [
+			  {
+				  "errorCode": {
+                        "value": "875-E-8240"
+                    },
+				  "args": [],
+				  "argsMixed": [],
+				  "isPrefix": false
+			  }
+		  ]
+	  }
+	],
+    "code": {
+        "value": "1"
+    },
+    "msg": {
+        "value": "success"
+    },
+    "data": {
+        "form": {
+            "tin": {
+                "value": "2534522011"
+            },
+            "child": {
+                "value": ""
+            },
+            "brn": {
+                "value": ""
+            },
+            "prn": {
+                "value": "B8175182"
+            },
+            "currentStep": {
+                "value": 1
+            },
+            "disabledAllow": [
+                {
+                    "relationship": {
+                        "value": "2"
+                    },
+                    "nameLangInd": {
+                        "value": "E"
+                    },
+                    "name": {
+                        "value": "AA"
+                    }
+                },
+                {
+                    "relationship": {
+                        "value": "3"
+                    },
+                    "nameLangInd": {
+                        "value": "E"
+                    },
+                    "name": {
+                        "value": "BBBBB"
+                    }
+                },
+                {
+                    "relationship": {
+                        "value": "1"
+                    },
+                    "nameLangInd": {
+                        "value": "E"
+                    },
+                    "name": {
+                        "value": "CC"
+                    }
+                },
+                {
+                    "relationship": {
+                        "value": "4"
+                    },
+                    "nameLangInd": {
+                        "value": "E"
+                    },
+                    "name": {
+                        "value": "DD"
+                    }
+                }
+            ],
+            "spouseDisabled": {
+                "value": ""
+            },
+            "spouseIncomeChargeable": {
+                "value": ""
+            },
+            "drObj": {
+                "propertyList": [
+                    {
+                        "tenancyToYYYY": {
+                            "value": ""
+                        },
+                        "noOfTenants": {
+                            "value": ""
+                        },
+                        "selfTenantInd": {
+                            "value": ""
+                        },
+                        "spseTenantInd": {
+                            "value": ""
+                        },
+                        "amountDr": {
+                            "value": ""
+                        },
+                        "nominated": {
+                            "value": "N"
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "tenancyFromDD": {
+                            "value": ""
+                        },
+                        "tenancyFromMM": {
+                            "value": ""
+                        },
+                        "tenancyFromYYYY": {
+                            "value": ""
+                        },
+                        "tenancyToDD": {
+                            "value": ""
+                        },
+                        "tenancyToMM": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "tenancyToYYYY": {
+                            "value": ""
+                        },
+                        "noOfTenants": {
+                            "value": ""
+                        },
+                        "selfTenantInd": {
+                            "value": ""
+                        },
+                        "spseTenantInd": {
+                            "value": ""
+                        },
+                        "amountDr": {
+                            "value": ""
+                        },
+                        "nominated": {
+                            "value": "N"
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "tenancyFromDD": {
+                            "value": ""
+                        },
+                        "tenancyFromMM": {
+                            "value": ""
+                        },
+                        "tenancyFromYYYY": {
+                            "value": ""
+                        },
+                        "tenancyToDD": {
+                            "value": ""
+                        },
+                        "tenancyToMM": {
+                            "value": ""
+                        }
+                    }
+                ]
+            },
+            "vhisObj": {
+                "selfAmount": {
+                    "value": ""
+                },
+                "vhisRelatives": [
+                    {
+                        "relationship": {
+                            "value": ""
+                        },
+                        "hkicNum": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "disParentInd": {
+                            "value": "N"
+                        },
+                        "cbsParentHkicChks": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "birthDateDD": {
+                            "value": ""
+                        },
+                        "birthDateMM": {
+                            "value": ""
+                        },
+                        "birthDateYY": {
+                            "value": ""
+                        },
+                        "cbsEdu": {
+                            "value": ""
+                        },
+                        "cbsParentHkicNum": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "relationship": {
+                            "value": ""
+                        },
+                        "hkicNum": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "disParentInd": {
+                            "value": "N"
+                        },
+                        "cbsParentHkicChks": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "birthDateDD": {
+                            "value": ""
+                        },
+                        "birthDateMM": {
+                            "value": ""
+                        },
+                        "birthDateYY": {
+                            "value": ""
+                        },
+                        "cbsEdu": {
+                            "value": ""
+                        },
+                        "cbsParentHkicNum": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "relationship": {
+                            "value": ""
+                        },
+                        "hkicNum": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "disParentInd": {
+                            "value": "N"
+                        },
+                        "cbsParentHkicChks": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "birthDateDD": {
+                            "value": ""
+                        },
+                        "birthDateMM": {
+                            "value": ""
+                        },
+                        "birthDateYY": {
+                            "value": ""
+                        },
+                        "cbsEdu": {
+                            "value": ""
+                        },
+                        "cbsParentHkicNum": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "relationship": {
+                            "value": ""
+                        },
+                        "hkicNum": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "disParentInd": {
+                            "value": "N"
+                        },
+                        "cbsParentHkicChks": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "birthDateDD": {
+                            "value": ""
+                        },
+                        "birthDateMM": {
+                            "value": ""
+                        },
+                        "birthDateYY": {
+                            "value": ""
+                        },
+                        "cbsEdu": {
+                            "value": ""
+                        },
+                        "cbsParentHkicNum": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    }
+                ]
+            },
+            "mpftvcObj": {
+                "annuitySpouse": {
+                    "value": ""
+                },
+                "mpftvcAcHolderInd": {
+                    "value": ""
+                },
+                "mpf": {
+                    "value": ""
+                },
+                "annuitySelf": {
+                    "value": ""
+                }
+            },
+            "propertyAddressPT": {
+                "value": ""
+            },
+            "incomeReductIndPT": {
+                "value": ""
+            },
+            "rentReductIndPT": {
+                "value": ""
+            },
+            "vacantIndPT": {
+                "value": ""
+            },
+            "selfOccupiedIndPT": {
+                "value": ""
+            },
+            "riRentalIncomePT": {
+                "value": ""
+            },
+            "submitAction": {
+                "value": ""
+            },
+            "objection": {
+                "curAssYear": {
+                    "value": 2023
+                },
+                "selectedObjAss": {
+                    "value": ""
+                },
+                "yearOfAssPart1": {
+                    "value": "2022"
+                },
+                "yearOfAssPart2": {
+                    "value": "23"
+                },
+                "taxType": {
+                    "value": ""
+                },
+                "chargeNoPart1": {
+                    "value": ""
+                },
+                "chargeNoPart2": {
+                    "value": ""
+                },
+                "chargeNoPart3": {
+                    "value": ""
+                },
+                "chargeNoPart4": {
+                    "value": ""
+                },
+                "selectedWish": {
+                    "value": "7"
+                },
+                "electedPA": {
+                    "value": "N"
+                },
+                "detailsInd": {
+                    "value": "Y"
+                },
+                "specifyNoticeInd": {
+                    "value": "Y"
+                },
+                "options": {},
+                "brn": {
+                    "value": ""
+                },
+                "details": {
+                    "value": ""
+                },
+                "assNotices": {},
+                "rtnSts": {
+                    "value": false
+                }
+            },
+            "disposalMMPT": {
+                "value": ""
+            },
+            "disposalYYYYPT": {
+                "value": ""
+            },
+            "dpRentalIncomePT": {
+                "value": ""
+            },
+            "othersIndPT": {
+                "value": ""
+            },
+            "businessNamePF": {
+                "value": ""
+            },
+            "profitIndPF": {
+                "value": ""
+            },
+            "profitAmtPF": {
+                "value": ""
+            },
+            "taxType": {
+                "value": "6"
+            },
+            "cessationMMPF": {
+                "value": ""
+            },
+            "cessationYYYYPF": {
+                "value": ""
+            },
+            "ceasedBusinessProfitPF": {
+                "value": ""
+            },
+            "othersIndPF": {
+                "value": ""
+            },
+            "marriedPerson": {
+                "value": ""
+            },
+            "singleParent": {
+                "value": ""
+            },
+            "parentGrandparent": {
+                "value": ""
+            },
+            "elderlyResidentalCare": {
+                "value": ""
+            },
+            "targetPartIndex": {
+                "value": ""
+            },
+            "disabledDependent": {
+                "value": "Y"
+            },
+            "refNum": {
+                "value": "8752403110019468"
+            },
+            "hli": {
+                "value": "Y"
+            },
+            "screenId": {
+                "value": "SC-875-0040"
+            },
+            "filingAvailableFlag": {
+                "value": true
+            },
+            "loginMechan": {
+                "value": "1"
+            },
+            "osName": {
+                "value": "Windows"
+            },
+            "browserName": {
+                "value": "MS-Edge-Chromium"
+            },
+            "certRegName": {
+                "value": "莊秉賢"
+            },
+            "accessMode": {
+                "value": "L"
+            },
+            "ssoTokenId": {
+                "value": "N/A"
+            },
+            "appName": {
+                "value": ""
+            },
+            "smartIDLogin": {
+                "value": ""
+            },
+            "certId": {
+                "value": ""
+            },
+            "certMediaType": {
+                "value": ""
+            },
+            "orgName": {
+                "value": ""
+            },
+            "certPath": {
+                "value": ""
+            },
+            "assessYear": {
+                "value": "2023"
+            },
+            "yearOfAssess": {
+                "value": ""
+            },
+            "yearOfAssess2": {
+                "value": ""
+            },
+            "chargeNumber": {
+                "value": ""
+            },
+            "formattedChargeNum": {
+                "value": "---"
+            },
+            "assessTypeDMS": {
+                "value": "O"
+            },
+            "issueDate": {
+                "value": ""
+            },
+            "submitDate": {
+                "value": "2024-03-12 11:50:35"
+            },
+            "appStartDate": {
+                "value": "2024-03-12 11:46:35"
+            },
+            "uploadFileArray": [
+                {
+                    "bucketId": {
+                        "value": "fes2be"
+                    },
+                    "fileUid": {
+                        "value": "fes2be_QuJvGSCen_DmU5iz9U8EJ5bf1xQVh99GB8TSXeyZyrJ"
+                    },
+                    "fileName": {
+                        "value": "eee.pdf"
+                    },
+                    "fileType": {
+                        "value": "pdf"
+                    },
+                    "contentMd5": {
+                        "value": "30553e5ed42ad22c4a2c8e81e69cb79c"
+                    },
+                    "fileSize": {
+                        "value": 210174
+                    }
+                }
+            ],
+            "requester": {
+                "value": 0
+            },
+            "paDetailContent": {
+                "value": "1288"
+            },
+            "electPAOption": {
+                "value": ""
+            },
+            "spouseElectOption": {
+                "value": ""
+            },
+            "numOfPartnerBusiness": {
+                "value": ""
+            },
+            "numOfProperty": {
+                "value": ""
+            },
+            "charity": {
+                "value": ""
+            },
+            "allowanceOption1": {
+                "value": ""
+            },
+            "allowanceOption2": {
+                "value": ""
+            },
+            "allowanceOption3": {
+                "value": ""
+            },
+            "allowanceOption4": {
+                "value": ""
+            },
+            "allowanceOption5": {
+                "value": ""
+            },
+            "allowanceOption6": {
+                "value": ""
+            },
+            "allowanceOption7": {
+                "value": ""
+            },
+            "allowanceOption8": {
+                "value": ""
+            },
+            "deductOption1": {
+                "value": ""
+            },
+            "deductOption2": {
+                "value": ""
+            },
+            "deductOption3": {
+                "value": ""
+            },
+            "spouseSubmissionOption": {
+                "value": ""
+            },
+            "comeFromScreen": {
+                "value": ""
+            },
+            "userSpouseTin": {
+                "value": ""
+            },
+            "userSpouseTinPass": {
+                "value": ""
+            },
+            "userSpouseHkic": {
+                "value": ""
+            },
+            "userSpouseHkicChk": {
+                "value": ""
+            },
+            "spouseECertSignInd": {
+                "value": ""
+            },
+            "spousePin": {
+                "value": ""
+            },
+            "userName": {
+                "value": "CHONG, BING YIN"
+            },
+            "userNameChn": {
+                "value": "莊秉賢"
+            },
+            "spouseName": {
+                "value": ""
+            },
+            "spouseNameChn": {
+                "value": ""
+            },
+            "formatedAssessYear4Holdover": {
+                "value": ""
+            },
+            "incomeReductIndST": {
+                "value": ""
+            },
+            "incomeAmtST": {
+                "value": ""
+            },
+            "allowanceClaimIndST": {
+                "value": ""
+            },
+            "mpaIndST": {
+                "value": ""
+            },
+            "marriageDDST": {
+                "value": ""
+            },
+            "marriageMMST": {
+                "value": ""
+            },
+            "marriageYYYYST": {
+                "value": ""
+            },
+            "caIndST": {
+                "value": ""
+            },
+            "bsaIndST": {
+                "value": ""
+            },
+            "caBsaBirthDDST": {
+                "value": ""
+            },
+            "caBsaBirthMMST": {
+                "value": ""
+            },
+            "caBsaBirthYYYYST": {
+                "value": ""
+            },
+            "dpaDgaIndST": {
+                "value": ""
+            },
+            "accountObjectId": {
+                "value": "1000035199"
+            },
+            "dpaDgaHkicCDST": {
+                "value": ""
+            },
+            "dpaDgaBirthDDST": {
+                "value": ""
+            },
+            "dpaDgaBirthMMST": {
+                "value": ""
+            },
+            "dpaDgaBirthYYYYST": {
+                "value": ""
+            },
+            "dpaDgaResidingIndST": {
+                "value": ""
+            },
+            "dddmaIndST": {
+                "value": ""
+            },
+            "ddmaNameST": {
+                "value": ""
+            },
+            "pdaIndST": {
+                "value": ""
+            },
+            "reductionClaimIndST": {
+                "value": ""
+            },
+            "hliIndST": {
+                "value": ""
+            },
+            "hliAmtST": {
+                "value": ""
+            },
+            "drIndST": {
+                "value": ""
+            },
+            "drAmtST": {
+                "value": ""
+            },
+            "othersIndST": {
+                "value": ""
+            },
+            "othersAmtST": {
+                "value": ""
+            },
+            "allowance": {
+                "parentAllow": [
+                    {
+                        "relationship": {
+                            "value": "1"
+                        },
+                        "dobMM": {
+                            "value": "01"
+                        },
+                        "dobYYYY": {
+                            "value": "1950"
+                        },
+                        "nameLangInd": {
+                            "value": "E"
+                        },
+                        "hkic": {
+                            "value": "X152487"
+                        },
+                        "hkicChks": {
+                            "value": "4"
+                        },
+                        "resided": {
+                            "value": ""
+                        },
+                        "residedSelected": {
+                            "value": ""
+                        },
+                        "liveHK": {
+                            "value": "N"
+                        },
+                        "contributed": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": "FAFADSFASF"
+                        },
+                        "residential1": {
+                            "value": "AFDFA"
+                        },
+                        "residential2": {
+                            "value": "FFFF"
+                        },
+                        "residential3": {
+                            "value": ""
+                        },
+                        "residentialLangInd": {
+                            "value": "E"
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "amount": {
+                            "value": "100"
+                        }
+                    }
+                ],
+                "motherNameLangInd": {
+                    "value": ""
+                },
+                "fatherNameLangInd": {
+                    "value": ""
+                },
+                "motherHkicChks": {
+                    "value": ""
+                },
+                "motherHkic": {
+                    "value": ""
+                },
+                "motherName": {
+                    "value": ""
+                },
+                "fatherHkicChks": {
+                    "value": ""
+                },
+                "fatherHkic": {
+                    "value": ""
+                },
+                "claimMarried": {
+                    "value": "N"
+                },
+                "spouseIncome": {
+                    "value": "Y"
+                },
+                "claimDisabled": {
+                    "value": "N"
+                },
+                "claimPersonal": {
+                    "value": "Y"
+                },
+                "claimChild": {
+                    "value": "Y"
+                },
+                "claimSingle": {
+                    "value": "Y"
+                },
+                "careOfChild": {
+                    "value": "1"
+                },
+                "claimElder": {
+                    "value": "Y"
+                },
+                "childAllow": [
+                    {
+                        "relationship": {
+                            "value": "1"
+                        },
+                        "dobDD": {
+                            "value": "11"
+                        },
+                        "dobMM": {
+                            "value": "11"
+                        },
+                        "dobYYYY": {
+                            "value": "1996"
+                        },
+                        "over18": {
+                            "value": "2"
+                        },
+                        "nameLangInd": {
+                            "value": "E"
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "name": {
+                            "value": "AA"
+                        }
+                    }
+                ],
+                "fatherName": {
+                    "value": ""
+                }
+            },
+            "trpNameChn": {
+                "value": "台塲刑警                                    "
+            },
+            "trpName": {
+                "value": "NETWORK LTD"
+            },
+            "hasActiveTrp": {
+                "value": "Y"
+            },
+            "electionForPA": {
+                "approvedCharitable": {
+                    "value": "123"
+                },
+                "iMarriedAndWishToInd": {
+                    "value": "Y"
+                },
+                "prevIWishToInd": {
+                    "value": ""
+                },
+                "prevIMarriedAndWishToInd": {
+                    "value": ""
+                },
+                "prevIAndSpouseWishToInd": {
+                    "value": ""
+                },
+                "iWishToInd": {
+                    "value": ""
+                },
+                "iAndSpouseWishToInd": {
+                    "value": "N"
+                },
+                "prevSpouseHadIncomeInd": {
+                    "value": ""
+                },
+                "partnerBusinessNum": {
+                    "value": ""
+                },
+                "propertiesNum": {
+                    "value": ""
+                }
+            },
+            "subscriptionBundle": {
+                "value": "3"
+            },
+            "showLateInd": {
+                "value": "N"
+            },
+            "lateApplicationInd": {
+                "value": "N"
+            },
+            "secondInstalmentInd": {
+                "value": "N"
+            },
+            "lateInd": {
+                "value": "N"
+            },
+            "rdObj": {
+                "propertyList": [
+                    {
+                        "shareOfOwnership": {
+                            "value": "80"
+                        },
+                        "loanObtainedInd": {
+                            "value": "Y"
+                        },
+                        "shareOfInterest": {
+                            "value": "44"
+                        },
+                        "remortgagedLoanInd": {
+                            "value": "N"
+                        },
+                        "locationLangInd": {
+                            "value": "E"
+                        },
+                        "location1": {
+                            "value": "AAAA"
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "remortgageProperty": {
+                            "institution2": {
+                                "value": ""
+                            },
+                            "institution3": {
+                                "value": ""
+                            },
+                            "institution4": {
+                                "value": ""
+                            },
+                            "reInterest": {
+                                "value": ""
+                            },
+                            "rePeriodFromDD": {
+                                "value": ""
+                            },
+                            "rePeriodFromMM": {
+                                "value": ""
+                            },
+                            "rePeriodFromYYYY": {
+                                "value": ""
+                            },
+                            "rePeriodToDD": {
+                                "value": ""
+                            },
+                            "rePeriodToMM": {
+                                "value": ""
+                            },
+                            "rePeriodToYYYY": {
+                                "value": ""
+                            },
+                            "rdmpDateDD": {
+                                "value": ""
+                            },
+                            "rdmpDateMM": {
+                                "value": ""
+                            },
+                            "rdmpDateYYYY": {
+                                "value": ""
+                            },
+                            "amount": {
+                                "value": ""
+                            },
+                            "interest": {
+                                "value": ""
+                            },
+                            "periodFromDD": {
+                                "value": ""
+                            },
+                            "periodFromMM": {
+                                "value": ""
+                            },
+                            "periodFromYYYY": {
+                                "value": ""
+                            },
+                            "periodToDD": {
+                                "value": ""
+                            },
+                            "periodToMM": {
+                                "value": ""
+                            },
+                            "periodToYYYY": {
+                                "value": ""
+                            },
+                            "institutionLangInd": {
+                                "value": ""
+                            },
+                            "balance": {
+                                "value": ""
+                            },
+                            "institution1": {
+                                "value": ""
+                            }
+                        }
+                    },
+                    {
+                        "shareOfOwnership": {
+                            "value": "10"
+                        },
+                        "loanObtainedInd": {
+                            "value": "Y"
+                        },
+                        "shareOfInterest": {
+                            "value": "6"
+                        },
+                        "remortgagedLoanInd": {
+                            "value": "N"
+                        },
+                        "locationLangInd": {
+                            "value": "E"
+                        },
+                        "location1": {
+                            "value": "BBB"
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "remortgageProperty": {
+                            "institution2": {
+                                "value": ""
+                            },
+                            "institution3": {
+                                "value": ""
+                            },
+                            "institution4": {
+                                "value": ""
+                            },
+                            "reInterest": {
+                                "value": ""
+                            },
+                            "rePeriodFromDD": {
+                                "value": ""
+                            },
+                            "rePeriodFromMM": {
+                                "value": ""
+                            },
+                            "rePeriodFromYYYY": {
+                                "value": ""
+                            },
+                            "rePeriodToDD": {
+                                "value": ""
+                            },
+                            "rePeriodToMM": {
+                                "value": ""
+                            },
+                            "rePeriodToYYYY": {
+                                "value": ""
+                            },
+                            "rdmpDateDD": {
+                                "value": ""
+                            },
+                            "rdmpDateMM": {
+                                "value": ""
+                            },
+                            "rdmpDateYYYY": {
+                                "value": ""
+                            },
+                            "amount": {
+                                "value": ""
+                            },
+                            "interest": {
+                                "value": ""
+                            },
+                            "periodFromDD": {
+                                "value": ""
+                            },
+                            "periodFromMM": {
+                                "value": ""
+                            },
+                            "periodFromYYYY": {
+                                "value": ""
+                            },
+                            "periodToDD": {
+                                "value": ""
+                            },
+                            "periodToMM": {
+                                "value": ""
+                            },
+                            "periodToYYYY": {
+                                "value": ""
+                            },
+                            "institutionLangInd": {
+                                "value": ""
+                            },
+                            "balance": {
+                                "value": ""
+                            },
+                            "institution1": {
+                                "value": ""
+                            }
+                        }
+                    }
+                ],
+                "propertyCount": {
+                    "value": 3
+                }
+            },
+            "osVersion": {
+                "value": "windows-10"
+            },
+            "rd": {
+                "value": "Y"
+            },
+            "browserVersion": {
+                "value": "113.0.1774.57"
+            },
+            "provisionalAssYearForENSA3Str": {
+                "value": "2023/24"
+            },
+            "assYearForENSA3Str": {
+                "value": "2022/23"
+            },
+            "formatedSubmitDateChn": {
+                "value": "2024年3月12日 11:50:35"
+            },
+            "formatedSubmitDate": {
+                "value": "12 Mar 2024 11:50:35"
+            },
+            "formatedRefNum": {
+                "value": "8752 4031 1001 9468"
+            },
+            "htmlText": {
+                "value": "<!--ddhrtujiotrpjdhm3485779039rgjklgnmmkfgjko1568jrdyerombjthkpfmvdfhjfhfhwr3q3qhftjy--><!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><title>Document</title><style>.grid{display:flex;flex-wrap:wrap;margin-right:-0.5rem;margin-left:-0.5rem;margin-top:-0.5rem;}.grid > .col,.grid > [class*=col]{box-sizing:border-box;}.grid-nogutter{margin-right:0;margin-left:0;margin-top:0;}.grid-nogutter > .col,.grid-nogutter > [class*=col-]{padding:0;}.col{flex-grow:1;flex-basis:0;padding:0.5rem;}.col-fixed{flex:0 0 auto;padding:0.5rem;}.col-1{flex:0 0 auto;padding:0.5rem;width:8.3333%;}.col-2{flex:0 0 auto;padding:0.5rem;width:16.6667%;}.col-3{flex:0 0 auto;padding:0.5rem;width:25%;}.col-4{flex:0 0 auto;padding:0.5rem;width:33.3333%;}.col-5{flex:0 0 auto;padding:0.5rem;width:41.6667%;}.col-6{flex:0 0 auto;padding:0.5rem;width:50%;}.col-7{flex:0 0 auto;padding:0.5rem;width:58.3333%;}.col-8{flex:0 0 auto;padding:0.5rem;width:66.6667%;}.col-9{flex:0 0 auto;padding:0.5rem;width:75%;}.col-10{flex:0 0 auto;padding:0.5rem;width:83.3333%;}.col-11{flex:0 0 auto;padding:0.5rem;width:91.6667%;}.col-12{flex:0 0 auto;padding:0.5rem;width:100%;}.col-offset-0{margin-left:0;}.col-offset-1{margin-left:8.3333%;}.col-offset-2{margin-left:16.6667%;}.col-offset-3{margin-left:25%;}.col-offset-4{margin-left:33.3333%;}.col-offset-5{margin-left:41.6667%;}.col-offset-6{margin-left:50%;}.col-offset-7{margin-left:58.3333%;}.col-offset-8{margin-left:66.6667%;}.col-offset-9{margin-left:75%;}.col-offset-10{margin-left:83.3333%;}.col-offset-11{margin-left:91.6667%;}.col-offset-12{margin-left:100%;}.text-0{color:var(--surface-0);}.text-50{color:var(--surface-50);}.text-100{color:var(--surface-100);}.text-200{color:var(--surface-200);}.text-300{color:var(--surface-300);}.text-400{color:var(--surface-400);}.text-500{color:var(--surface-500);}.text-600{color:var(--surface-600);}.text-700{color:var(--surface-700);}.text-800{color:var(--surface-800);}.text-900{color:var(--surface-900);}.surface-0{background-color:var(--surface-0);}.surface-50{background-color:var(--surface-50);}.surface-100{background-color:var(--surface-100);}.surface-200{background-color:var(--surface-200);}.surface-300{background-color:var(--surface-300);}.surface-400{background-color:var(--surface-400);}.surface-500{background-color:var(--surface-500);}.surface-600{background-color:var(--surface-600);}.surface-700{background-color:var(--surface-700);}.surface-800{background-color:var(--surface-800);}.surface-900{background-color:var(--surface-900);}.border-0{border-color:var(--surface-0);}.border-50{border-color:var(--surface-50);}.border-100{border-color:var(--surface-100);}.border-200{border-color:var(--surface-200);}.border-300{border-color:var(--surface-300);}.border-400{border-color:var(--surface-400);}.border-500{border-color:var(--surface-500);}.border-600{border-color:var(--surface-600);}.border-700{border-color:var(--surface-700);}.border-800{border-color:var(--surface-800);}.border-900{border-color:var(--surface-900);}.bg-transparent{background-color:transparent;}.border-transparent{border-color:transparent;}.text-blue-50{color:var(--blue-50);}.text-blue-100{color:var(--blue-100);}.text-blue-200{color:var(--blue-200);}.text-blue-300{color:var(--blue-300);}.text-blue-400{color:var(--blue-400);}.text-blue-500{color:var(--blue-500);}.text-blue-600{color:var(--blue-600);}.text-blue-700{color:var(--blue-700);}.text-blue-800{color:var(--blue-800);}.text-blue-900{color:var(--blue-900);}.text-green-50{color:var(--green-50);}.text-green-100{color:var(--green-100);}.text-green-200{color:var(--green-200);}.text-green-300{color:var(--green-300);}.text-green-400{color:var(--green-400);}.text-green-500{color:var(--green-500);}.text-green-600{color:var(--green-600);}.text-green-700{color:var(--green-700);}.text-green-800{color:var(--green-800);}.text-green-900{color:var(--green-900);}.text-yellow-50{color:var(--yellow-50);}.text-yellow-100{color:var(--yellow-100);}.text-yellow-200{color:var(--yellow-200);}.text-yellow-300{color:var(--yellow-300);}.text-yellow-400{color:var(--yellow-400);}.text-yellow-500{color:var(--yellow-500);}.text-yellow-600{color:var(--yellow-600);}.text-yellow-700{color:var(--yellow-700);}.text-yellow-800{color:var(--yellow-800);}.text-yellow-900{color:var(--yellow-900);}.text-cyan-50{color:var(--cyan-50);}.text-cyan-100{color:var(--cyan-100);}.text-cyan-200{color:var(--cyan-200);}.text-cyan-300{color:var(--cyan-300);}.text-cyan-400{color:var(--cyan-400);}.text-cyan-500{color:var(--cyan-500);}.text-cyan-600{color:var(--cyan-600);}.text-cyan-700{color:var(--cyan-700);}.text-cyan-800{color:var(--cyan-800);}.text-cyan-900{color:var(--cyan-900);}.text-pink-50{color:var(--pink-50);}.text-pink-100{color:var(--pink-100);}.text-pink-200{color:var(--pink-200);}.text-pink-300{color:var(--pink-300);}.text-pink-400{color:var(--pink-400);}.text-pink-500{color:var(--pink-500);}.text-pink-600{color:var(--pink-600);}.text-pink-700{color:var(--pink-700);}.text-pink-800{color:var(--pink-800);}.text-pink-900{color:var(--pink-900);}.text-indigo-50{color:var(--indigo-50);}.text-indigo-100{color:var(--indigo-100);}.text-indigo-200{color:var(--indigo-200);}.text-indigo-300{color:var(--indigo-300);}.text-indigo-400{color:var(--indigo-400);}.text-indigo-500{color:var(--indigo-500);}.text-indigo-600{color:var(--indigo-600);}.text-indigo-700{color:var(--indigo-700);}.text-indigo-800{color:var(--indigo-800);}.text-indigo-900{color:var(--indigo-900);}.text-teal-50{color:var(--teal-50);}.text-teal-100{color:var(--teal-100);}.text-teal-200{color:var(--teal-200);}.text-teal-300{color:var(--teal-300);}.text-teal-400{color:var(--teal-400);}.text-teal-500{color:var(--teal-500);}.text-teal-600{color:var(--teal-600);}.text-teal-700{color:var(--teal-700);}.text-teal-800{color:var(--teal-800);}.text-teal-900{color:var(--teal-900);}.text-orange-50{color:var(--orange-50);}.text-orange-100{color:var(--orange-100);}.text-orange-200{color:var(--orange-200);}.text-orange-300{color:var(--orange-300);}.text-orange-400{color:var(--orange-400);}.text-orange-500{color:var(--orange-500);}.text-orange-600{color:var(--orange-600);}.text-orange-700{color:var(--orange-700);}.text-orange-800{color:var(--orange-800);}.text-orange-900{color:var(--orange-900);}.text-bluegray-50{color:var(--bluegray-50);}.text-bluegray-100{color:var(--bluegray-100);}.text-bluegray-200{color:var(--bluegray-200);}.text-bluegray-300{color:var(--bluegray-300);}.text-bluegray-400{color:var(--bluegray-400);}.text-bluegray-500{color:var(--bluegray-500);}.text-bluegray-600{color:var(--bluegray-600);}.text-bluegray-700{color:var(--bluegray-700);}.text-bluegray-800{color:var(--bluegray-800);}.text-bluegray-900{color:var(--bluegray-900);}.text-purple-50{color:var(--purple-50);}.text-purple-100{color:var(--purple-100);}.text-purple-200{color:var(--purple-200);}.text-purple-300{color:var(--purple-300);}.text-purple-400{color:var(--purple-400);}.text-purple-500{color:var(--purple-500);}.text-purple-600{color:var(--purple-600);}.text-purple-700{color:var(--purple-700);}.text-purple-800{color:var(--purple-800);}.text-purple-900{color:var(--purple-900);}.text-gray-50{color:var(--gray-50);}.text-gray-100{color:var(--gray-100);}.text-gray-200{color:var(--gray-200);}.text-gray-300{color:var(--gray-300);}.text-gray-400{color:var(--gray-400);}.text-gray-500{color:var(--gray-500);}.text-gray-600{color:var(--gray-600);}.text-gray-700{color:var(--gray-700);}.text-gray-800{color:var(--gray-800);}.text-gray-900{color:var(--gray-900);}.text-red-50{color:var(--red-50);}.text-red-100{color:var(--red-100);}.text-red-200{color:var(--red-200);}.text-red-300{color:var(--red-300);}.text-red-400{color:var(--red-400);}.text-red-500{color:var(--red-500);}.text-red-600{color:var(--red-600);}.text-red-700{color:var(--red-700);}.text-red-800{color:var(--red-800);}.text-red-900{color:var(--red-900);}.text-primary-50{color:var(--primary-50);}.text-primary-100{color:var(--primary-100);}.text-primary-200{color:var(--primary-200);}.text-primary-300{color:var(--primary-300);}.text-primary-400{color:var(--primary-400);}.text-primary-500{color:var(--primary-500);}.text-primary-600{color:var(--primary-600);}.text-primary-700{color:var(--primary-700);}.text-primary-800{color:var(--primary-800);}.text-primary-900{color:var(--primary-900);}.bg-blue-50{background-color:var(--blue-50);}.bg-blue-100{background-color:var(--blue-100);}.bg-blue-200{background-color:var(--blue-200);}.bg-blue-300{background-color:var(--blue-300);}.bg-blue-400{background-color:var(--blue-400);}.bg-blue-500{background-color:var(--blue-500);}.bg-blue-600{background-color:var(--blue-600);}.bg-blue-700{background-color:var(--blue-700);}.bg-blue-800{background-color:var(--blue-800);}.bg-blue-900{background-color:var(--blue-900);}.bg-green-50{background-color:var(--green-50);}.bg-green-100{background-color:var(--green-100);}.bg-green-200{background-color:var(--green-200);}.bg-green-300{background-color:var(--green-300);}.bg-green-400{background-color:var(--green-400);}.bg-green-500{background-color:var(--green-500);}.bg-green-600{background-color:var(--green-600);}.bg-green-700{background-color:var(--green-700);}.bg-green-800{background-color:var(--green-800);}.bg-green-900{background-color:var(--green-900);}.bg-yellow-50{background-color:var(--yellow-50);}.bg-yellow-100{background-color:var(--yellow-100);}.bg-yellow-200{background-color:var(--yellow-200);}.bg-yellow-300{background-color:var(--yellow-300);}.bg-yellow-400{background-color:var(--yellow-400);}.bg-yellow-500{background-color:var(--yellow-500);}.bg-yellow-600{background-color:var(--yellow-600);}.bg-yellow-700{background-color:var(--yellow-700);}.bg-yellow-800{background-color:var(--yellow-800);}.bg-yellow-900{background-color:var(--yellow-900);}.bg-cyan-50{background-color:var(--cyan-50);}.bg-cyan-100{background-color:var(--cyan-100);}.bg-cyan-200{background-color:var(--cyan-200);}.bg-cyan-300{background-color:var(--cyan-300);}.bg-cyan-400{background-color:var(--cyan-400);}.bg-cyan-500{background-color:var(--cyan-500);}.bg-cyan-600{background-color:var(--cyan-600);}.bg-cyan-700{background-color:var(--cyan-700);}.bg-cyan-800{background-color:var(--cyan-800);}.bg-cyan-900{background-color:var(--cyan-900);}.bg-pink-50{background-color:var(--pink-50);}.bg-pink-100{background-color:var(--pink-100);}.bg-pink-200{background-color:var(--pink-200);}.bg-pink-300{background-color:var(--pink-300);}.bg-pink-400{background-color:var(--pink-400);}.bg-pink-500{background-color:var(--pink-500);}.bg-pink-600{background-color:var(--pink-600);}.bg-pink-700{background-color:var(--pink-700);}.bg-pink-800{background-color:var(--pink-800);}.bg-pink-900{background-color:var(--pink-900);}.bg-indigo-50{background-color:var(--indigo-50);}.bg-indigo-100{background-color:var(--indigo-100);}.bg-indigo-200{background-color:var(--indigo-200);}.bg-indigo-300{background-color:var(--indigo-300);}.bg-indigo-400{background-color:var(--indigo-400);}.bg-indigo-500{background-color:var(--indigo-500);}.bg-indigo-600{background-color:var(--indigo-600);}.bg-indigo-700{background-color:var(--indigo-700);}.bg-indigo-800{background-color:var(--indigo-800);}.bg-indigo-900{background-color:var(--indigo-900);}.bg-teal-50{background-color:var(--teal-50);}.bg-teal-100{background-color:var(--teal-100);}.bg-teal-200{background-color:var(--teal-200);}.bg-teal-300{background-color:var(--teal-300);}.bg-teal-400{background-color:var(--teal-400);}.bg-teal-500{background-color:var(--teal-500);}.bg-teal-600{background-color:var(--teal-600);}.bg-teal-700{background-color:var(--teal-700);}.bg-teal-800{background-color:var(--teal-800);}.bg-teal-900{background-color:var(--teal-900);}.bg-orange-50{background-color:var(--orange-50);}.bg-orange-100{background-color:var(--orange-100);}.bg-orange-200{background-color:var(--orange-200);}.bg-orange-300{background-color:var(--orange-300);}.bg-orange-400{background-color:var(--orange-400);}.bg-orange-500{background-color:var(--orange-500);}.bg-orange-600{background-color:var(--orange-600);}.bg-orange-700{background-color:var(--orange-700);}.bg-orange-800{background-color:var(--orange-800);}.bg-orange-900{background-color:var(--orange-900);}.bg-bluegray-50{background-color:var(--bluegray-50);}.bg-bluegray-100{background-color:var(--bluegray-100);}.bg-bluegray-200{background-color:var(--bluegray-200);}.bg-bluegray-300{background-color:var(--bluegray-300);}.bg-bluegray-400{background-color:var(--bluegray-400);}.bg-bluegray-500{background-color:var(--bluegray-500);}.bg-bluegray-600{background-color:var(--bluegray-600);}.bg-bluegray-700{background-color:var(--bluegray-700);}.bg-bluegray-800{background-color:var(--bluegray-800);}.bg-bluegray-900{background-color:var(--bluegray-900);}.bg-purple-50{background-color:var(--purple-50);}.bg-purple-100{background-color:var(--purple-100);}.bg-purple-200{background-color:var(--purple-200);}.bg-purple-300{background-color:var(--purple-300);}.bg-purple-400{background-color:var(--purple-400);}.bg-purple-500{background-color:var(--purple-500);}.bg-purple-600{background-color:var(--purple-600);}.bg-purple-700{background-color:var(--purple-700);}.bg-purple-800{background-color:var(--purple-800);}.bg-purple-900{background-color:var(--purple-900);}.bg-gray-50{background-color:var(--gray-50);}.bg-gray-100{background-color:var(--gray-100);}.bg-gray-200{background-color:var(--gray-200);}.bg-gray-300{background-color:var(--gray-300);}.bg-gray-400{background-color:var(--gray-400);}.bg-gray-500{background-color:var(--gray-500);}.bg-gray-600{background-color:var(--gray-600);}.bg-gray-700{background-color:var(--gray-700);}.bg-gray-800{background-color:var(--gray-800);}.bg-gray-900{background-color:var(--gray-900);}.bg-red-50{background-color:var(--red-50);}.bg-red-100{background-color:var(--red-100);}.bg-red-200{background-color:var(--red-200);}.bg-red-300{background-color:var(--red-300);}.bg-red-400{background-color:var(--red-400);}.bg-red-500{background-color:var(--red-500);}.bg-red-600{background-color:var(--red-600);}.bg-red-700{background-color:var(--red-700);}.bg-red-800{background-color:var(--red-800);}.bg-red-900{background-color:var(--red-900);}.bg-primary-50{background-color:var(--primary-50);}.bg-primary-100{background-color:var(--primary-100);}.bg-primary-200{background-color:var(--primary-200);}.bg-primary-300{background-color:var(--primary-300);}.bg-primary-400{background-color:var(--primary-400);}.bg-primary-500{background-color:var(--primary-500);}.bg-primary-600{background-color:var(--primary-600);}.bg-primary-700{background-color:var(--primary-700);}.bg-primary-800{background-color:var(--primary-800);}.bg-primary-900{background-color:var(--primary-900);}.border-blue-50{border-color:var(--blue-50);}.border-blue-100{border-color:var(--blue-100);}.border-blue-200{border-color:var(--blue-200);}.border-blue-300{border-color:var(--blue-300);}.border-blue-400{border-color:var(--blue-400);}.border-blue-500{border-color:var(--blue-500);}.border-blue-600{border-color:var(--blue-600);}.border-blue-700{border-color:var(--blue-700);}.border-blue-800{border-color:var(--blue-800);}.border-blue-900{border-color:var(--blue-900);}.border-green-50{border-color:var(--green-50);}.border-green-100{border-color:var(--green-100);}.border-green-200{border-color:var(--green-200);}.border-green-300{border-color:var(--green-300);}.border-green-400{border-color:var(--green-400);}.border-green-500{border-color:var(--green-500);}.border-green-600{border-color:var(--green-600);}.border-green-700{border-color:var(--green-700);}.border-green-800{border-color:var(--green-800);}.border-green-900{border-color:var(--green-900);}.border-yellow-50{border-color:var(--yellow-50);}.border-yellow-100{border-color:var(--yellow-100);}.border-yellow-200{border-color:var(--yellow-200);}.border-yellow-300{border-color:var(--yellow-300);}.border-yellow-400{border-color:var(--yellow-400);}.border-yellow-500{border-color:var(--yellow-500);}.border-yellow-600{border-color:var(--yellow-600);}.border-yellow-700{border-color:var(--yellow-700);}.border-yellow-800{border-color:var(--yellow-800);}.border-yellow-900{border-color:var(--yellow-900);}.border-cyan-50{border-color:var(--cyan-50);}.border-cyan-100{border-color:var(--cyan-100);}.border-cyan-200{border-color:var(--cyan-200);}.border-cyan-300{border-color:var(--cyan-300);}.border-cyan-400{border-color:var(--cyan-400);}.border-cyan-500{border-color:var(--cyan-500);}.border-cyan-600{border-color:var(--cyan-600);}.border-cyan-700{border-color:var(--cyan-700);}.border-cyan-800{border-color:var(--cyan-800);}.border-cyan-900{border-color:var(--cyan-900);}.border-pink-50{border-color:var(--pink-50);}.border-pink-100{border-color:var(--pink-100);}.border-pink-200{border-color:var(--pink-200);}.border-pink-300{border-color:var(--pink-300);}.border-pink-400{border-color:var(--pink-400);}.border-pink-500{border-color:var(--pink-500);}.border-pink-600{border-color:var(--pink-600);}.border-pink-700{border-color:var(--pink-700);}.border-pink-800{border-color:var(--pink-800);}.border-pink-900{border-color:var(--pink-900);}.border-indigo-50{border-color:var(--indigo-50);}.border-indigo-100{border-color:var(--indigo-100);}.border-indigo-200{border-color:var(--indigo-200);}.border-indigo-300{border-color:var(--indigo-300);}.border-indigo-400{border-color:var(--indigo-400);}.border-indigo-500{border-color:var(--indigo-500);}.border-indigo-600{border-color:var(--indigo-600);}.border-indigo-700{border-color:var(--indigo-700);}.border-indigo-800{border-color:var(--indigo-800);}.border-indigo-900{border-color:var(--indigo-900);}.border-teal-50{border-color:var(--teal-50);}.border-teal-100{border-color:var(--teal-100);}.border-teal-200{border-color:var(--teal-200);}.border-teal-300{border-color:var(--teal-300);}.border-teal-400{border-color:var(--teal-400);}.border-teal-500{border-color:var(--teal-500);}.border-teal-600{border-color:var(--teal-600);}.border-teal-700{border-color:var(--teal-700);}.border-teal-800{border-color:var(--teal-800);}.border-teal-900{border-color:var(--teal-900);}.border-orange-50{border-color:var(--orange-50);}.border-orange-100{border-color:var(--orange-100);}.border-orange-200{border-color:var(--orange-200);}.border-orange-300{border-color:var(--orange-300);}.border-orange-400{border-color:var(--orange-400);}.border-orange-500{border-color:var(--orange-500);}.border-orange-600{border-color:var(--orange-600);}.border-orange-700{border-color:var(--orange-700);}.border-orange-800{border-color:var(--orange-800);}.border-orange-900{border-color:var(--orange-900);}.border-bluegray-50{border-color:var(--bluegray-50);}.border-bluegray-100{border-color:var(--bluegray-100);}.border-bluegray-200{border-color:var(--bluegray-200);}.border-bluegray-300{border-color:var(--bluegray-300);}.border-bluegray-400{border-color:var(--bluegray-400);}.border-bluegray-500{border-color:var(--bluegray-500);}.border-bluegray-600{border-color:var(--bluegray-600);}.border-bluegray-700{border-color:var(--bluegray-700);}.border-bluegray-800{border-color:var(--bluegray-800);}.border-bluegray-900{border-color:var(--bluegray-900);}.border-purple-50{border-color:var(--purple-50);}.border-purple-100{border-color:var(--purple-100);}.border-purple-200{border-color:var(--purple-200);}.border-purple-300{border-color:var(--purple-300);}.border-purple-400{border-color:var(--purple-400);}.border-purple-500{border-color:var(--purple-500);}.border-purple-600{border-color:var(--purple-600);}.border-purple-700{border-color:var(--purple-700);}.border-purple-800{border-color:var(--purple-800);}.border-purple-900{border-color:var(--purple-900);}.border-gray-50{border-color:var(--gray-50);}.border-gray-100{border-color:var(--gray-100);}.border-gray-200{border-color:var(--gray-200);}.border-gray-300{border-color:var(--gray-300);}.border-gray-400{border-color:var(--gray-400);}.border-gray-500{border-color:var(--gray-500);}.border-gray-600{border-color:var(--gray-600);}.border-gray-700{border-color:var(--gray-700);}.border-gray-800{border-color:var(--gray-800);}.border-gray-900{border-color:var(--gray-900);}.border-red-50{border-color:var(--red-50);}.border-red-100{border-color:var(--red-100);}.border-red-200{border-color:var(--red-200);}.border-red-300{border-color:var(--red-300);}.border-red-400{border-color:var(--red-400);}.border-red-500{border-color:var(--red-500);}.border-red-600{border-color:var(--red-600);}.border-red-700{border-color:var(--red-700);}.border-red-800{border-color:var(--red-800);}.border-red-900{border-color:var(--red-900);}.border-primary-50{border-color:var(--primary-50);}.border-primary-100{border-color:var(--primary-100);}.border-primary-200{border-color:var(--primary-200);}.border-primary-300{border-color:var(--primary-300);}.border-primary-400{border-color:var(--primary-400);}.border-primary-500{border-color:var(--primary-500);}.border-primary-600{border-color:var(--primary-600);}.border-primary-700{border-color:var(--primary-700);}.border-primary-800{border-color:var(--primary-800);}.border-primary-900{border-color:var(--primary-900);}.bg-white-alpha-10{background-color:rgba(255,255,255,0.1);}.bg-white-alpha-20{background-color:rgba(255,255,255,0.2);}.bg-white-alpha-30{background-color:rgba(255,255,255,0.3);}.bg-white-alpha-40{background-color:rgba(255,255,255,0.4);}.bg-white-alpha-50{background-color:rgba(255,255,255,0.5);}.bg-white-alpha-60{background-color:rgba(255,255,255,0.6);}.bg-white-alpha-70{background-color:rgba(255,255,255,0.7);}.bg-white-alpha-80{background-color:rgba(255,255,255,0.8);}.bg-white-alpha-90{background-color:rgba(255,255,255,0.9);}.bg-black-alpha-10{background-color:rgba(0,0,0,0.1);}.bg-black-alpha-20{background-color:rgba(0,0,0,0.2);}.bg-black-alpha-30{background-color:rgba(0,0,0,0.3);}.bg-black-alpha-40{background-color:rgba(0,0,0,0.4);}.bg-black-alpha-50{background-color:rgba(0,0,0,0.5);}.bg-black-alpha-60{background-color:rgba(0,0,0,0.6);}.bg-black-alpha-70{background-color:rgba(0,0,0,0.7);}.bg-black-alpha-80{background-color:rgba(0,0,0,0.8);}.bg-black-alpha-90{background-color:rgba(0,0,0,0.9);}.border-white-alpha-10{border-color:rgba(255,255,255,0.1);}.border-white-alpha-20{border-color:rgba(255,255,255,0.2);}.border-white-alpha-30{border-color:rgba(255,255,255,0.3);}.border-white-alpha-40{border-color:rgba(255,255,255,0.4);}.border-white-alpha-50{border-color:rgba(255,255,255,0.5);}.border-white-alpha-60{border-color:rgba(255,255,255,0.6);}.border-white-alpha-70{border-color:rgba(255,255,255,0.7);}.border-white-alpha-80{border-color:rgba(255,255,255,0.8);}.border-white-alpha-90{border-color:rgba(255,255,255,0.9);}.border-black-alpha-10{border-color:rgba(0,0,0,0.1);}.border-black-alpha-20{border-color:rgba(0,0,0,0.2);}.border-black-alpha-30{border-color:rgba(0,0,0,0.3);}.border-black-alpha-40{border-color:rgba(0,0,0,0.4);}.border-black-alpha-50{border-color:rgba(0,0,0,0.5);}.border-black-alpha-60{border-color:rgba(0,0,0,0.6);}.border-black-alpha-70{border-color:rgba(0,0,0,0.7);}.border-black-alpha-80{border-color:rgba(0,0,0,0.8);}.border-black-alpha-90{border-color:rgba(0,0,0,0.9);}.text-white-alpha-10{color:rgba(255,255,255,0.1);}.text-white-alpha-20{color:rgba(255,255,255,0.2);}.text-white-alpha-30{color:rgba(255,255,255,0.3);}.text-white-alpha-40{color:rgba(255,255,255,0.4);}.text-white-alpha-50{color:rgba(255,255,255,0.5);}.text-white-alpha-60{color:rgba(255,255,255,0.6);}.text-white-alpha-70{color:rgba(255,255,255,0.7);}.text-white-alpha-80{color:rgba(255,255,255,0.8);}.text-white-alpha-90{color:rgba(255,255,255,0.9);}.text-black-alpha-10{color:rgba(0,0,0,0.1);}.text-black-alpha-20{color:rgba(0,0,0,0.2);}.text-black-alpha-30{color:rgba(0,0,0,0.3);}.text-black-alpha-40{color:rgba(0,0,0,0.4);}.text-black-alpha-50{color:rgba(0,0,0,0.5);}.text-black-alpha-60{color:rgba(0,0,0,0.6);}.text-black-alpha-70{color:rgba(0,0,0,0.7);}.text-black-alpha-80{color:rgba(0,0,0,0.8);}.text-black-alpha-90{color:rgba(0,0,0,0.9);}.text-primary{color:var(--primary-color);}.bg-primary{color:var(--primary-color-text);background-color:var(--primary-color);}.bg-primary-reverse{color:var(--primary-color);background-color:var(--primary-color-text);}.bg-white{background-color:#ffffff;}.border-primary{border-color:var(--primary-color);}.text-white{color:#ffffff;}.border-white{border-color:#ffffff;}.text-color{color:var(--text-color);}.text-color-secondary{color:var(--text-color-secondary);}.surface-ground{background-color:var(--surface-ground);}.surface-section{background-color:var(--surface-section);}.surface-card{background-color:var(--surface-card);}.surface-overlay{background-color:var(--surface-overlay);}.surface-hover{background-color:var(--surface-hover);}.surface-border{border-color:var(--surface-border);}.field{margin-bottom:1rem;}.field > label{display:inline-block;margin-bottom:0.5rem;}.field.grid > label{display:flex;align-items:center;}.field > small{margin-top:0.25rem;}.field.grid,.formgrid.grid{margin-top:0;}.field.grid .col-fixed,.formgrid.grid .col-fixed,.field.grid .col,.formgrid.grid .col,.field.grid .col-1,.formgrid.grid .col-1,.field.grid .col-2,.formgrid.grid .col-2,.field.grid .col-3,.formgrid.grid .col-3,.field.grid .col-4,.formgrid.grid .col-4,.field.grid .col-5,.formgrid.grid .col-5,.field.grid .col-6,.formgrid.grid .col-6,.field.grid .col-7,.formgrid.grid .col-7,.field.grid .col-8,.formgrid.grid .col-8,.field.grid .col-9,.formgrid.grid .col-9,.field.grid .col-10,.formgrid.grid .col-10,.field.grid .col-11,.formgrid.grid .col-11,.field.grid .col-12,.formgrid.grid .col-12{padding-top:0;padding-bottom:0;}.formgroup-inline{display:flex;flex-wrap:wrap;align-items:flex-start;}.formgroup-inline .field,.formgroup-inline .field-checkbox,.formgroup-inline .field-radiobutton{margin-right:1rem;}.formgroup-inline .field > label,.formgroup-inline .field-checkbox > label,.formgroup-inline .field-radiobutton > label{margin-right:0.5rem;margin-bottom:0;}.field-checkbox,.field-radiobutton{margin-bottom:1rem;display:flex;align-items:center;}.field-checkbox > label,.field-radiobutton > label{margin-left:0.5rem;line-height:1;}.hidden{display:none;}.block{display:block;}.inline{display:inline;}.inline-block{display:inline-block;}.flex{display:flex;}.inline-flex{display:inline-flex;}.text-center{text-align:center;}.text-justify{text-align:justify;}.text-left{text-align:left;}.text-right{text-align:right;}.underline{text-decoration:underline;}.line-through{text-decoration:line-through;}.no-underline{text-decoration:none;}.lowercase{text-transform:lowercase;}.uppercase{text-transform:uppercase;}.capitalize{text-transform:capitalize;}.text-overflow-clip{text-overflow:clip;}.text-overflow-ellipsis{text-overflow:ellipsis;}.font-light{font-weight:300;}.font-normal{font-weight:400;}.font-medium{font-weight:500;}.font-semibold{font-weight:600;}.font-bold{font-weight:700;}.font-italic{font-style:italic;}.text-xs{font-size:0.75rem;}.text-sm{font-size:0.875rem;}.text-base{font-size:1rem;}.text-lg{font-size:1.125rem;}.text-xl{font-size:1.25rem;}.text-2xl{font-size:1.5rem;}.text-3xl{font-size:1.75rem;}.text-4xl{font-size:2rem;}.text-5xl{font-size:2.5rem;}.text-6xl{font-size:3rem;}.text-7xl{font-size:4rem;}.text-8xl{font-size:6rem;}.line-height-1{line-height:1;}.line-height-2{line-height:1.25;}.line-height-3{line-height:1.5;}.line-height-4{line-height:2;}.white-space-normal{white-space:normal;}.white-space-nowrap{white-space:nowrap;}.vertical-align-baseline{vertical-align:baseline;}.vertical-align-top{vertical-align:top;}.vertical-align-middle{vertical-align:middle;}.vertical-align-bottom{vertical-align:bottom;}.vertical-align-text-top{vertical-align:text-top;}.vertical-align-text-bottom{vertical-align:text-bottom;}.vertical-align-sub{vertical-align:sub;}.vertical-align-super{vertical-align:super;}.flex-row{flex-direction:row;}.flex-row-reverse{flex-direction:row-reverse;}.flex-column{flex-direction:column;}.flex-column-reverse{flex-direction:column-reverse;}.flex-wrap{flex-wrap:wrap;}.flex-wrap-reverse{flex-wrap:wrap-reverse;}.flex-nowrap{flex-wrap:nowrap;}.justify-content-start{justify-content:flex-start;}.justify-content-end{justify-content:flex-end;}.justify-content-center{justify-content:center;}.justify-content-between{justify-content:space-between;}.justify-content-around{justify-content:space-around;}.justify-content-evenly{justify-content:space-evenly;}.align-content-start{align-content:flex-start;}.align-content-end{align-content:flex-end;}.align-content-center{align-content:center;}.align-content-between{align-content:space-between;}.align-content-around{align-content:space-around;}.align-content-evenly{align-content:space-evenly;}.align-items-stretch{align-items:stretch;}.align-items-start{align-items:flex-start;}.align-items-center{align-items:center;}.align-items-end{align-items:flex-end;}.align-items-baseline{align-items:baseline;}.align-self-auto{align-self:auto;}.align-self-start{align-self:flex-start;}.align-self-end{align-self:flex-end;}.align-self-center{align-self:center;}.align-self-stretch{align-self:stretch;}.align-self-baseline{align-self:baseline;}.flex-order-0{order:0;}.flex-order-1{order:1;}.flex-order-2{order:2;}.flex-order-3{order:3;}.flex-order-4{order:4;}.flex-order-5{order:5;}.flex-order-6{order:6;}.flex-1{flex:1 1 0%;}.flex-auto{flex:1 1 auto;}.flex-initial{flex:0 1 auto;}.flex-none{flex:none;}.flex-grow-0{flex-grow:0;}.flex-grow-1{flex-grow:1;}.flex-shrink-0{flex-shrink:0;}.flex-shrink-1{flex-shrink:1;}.gap-0{gap:0rem;}.gap-1{gap:0.25rem;}.gap-2{gap:0.5rem;}.gap-3{gap:1rem;}.gap-4{gap:1.5rem;}.gap-5{gap:2rem;}.gap-6{gap:3rem;}.gap-7{gap:4rem;}.gap-8{gap:5rem;}.row-gap-0{row-gap:0rem;}.row-gap-1{row-gap:0.25rem;}.row-gap-2{row-gap:0.5rem;}.row-gap-3{row-gap:1rem;}.row-gap-4{row-gap:1.5rem;}.row-gap-5{row-gap:2rem;}.row-gap-6{row-gap:3rem;}.row-gap-7{row-gap:4rem;}.row-gap-8{row-gap:5rem;}.column-gap-0{column-gap:0rem;}.column-gap-1{column-gap:0.25rem;}.column-gap-2{column-gap:0.5rem;}.column-gap-3{column-gap:1rem;}.column-gap-4{column-gap:1.5rem;}.column-gap-5{column-gap:2rem;}.column-gap-6{column-gap:3rem;}.column-gap-7{column-gap:4rem;}.column-gap-8{column-gap:5rem;}.p-0{padding:0rem;}.p-1{padding:0.25rem;}.p-2{padding:0.5rem;}.p-3{padding:1rem;}.p-4{padding:1.5rem;}.p-5{padding:2rem;}.p-6{padding:3rem;}.p-7{padding:4rem;}.p-8{padding:5rem;}.pt-0{padding-top:0rem;}.pt-1{padding-top:0.25rem;}.pt-2{padding-top:0.5rem;}.pt-3{padding-top:1rem;}.pt-4{padding-top:1.5rem;}.pt-5{padding-top:2rem;}.pt-6{padding-top:3rem;}.pt-7{padding-top:4rem;}.pt-8{padding-top:5rem;}.pr-0{padding-right:0rem;}.pr-1{padding-right:0.25rem;}.pr-2{padding-right:0.5rem;}.pr-3{padding-right:1rem;}.pr-4{padding-right:1.5rem;}.pr-5{padding-right:2rem;}.pr-6{padding-right:3rem;}.pr-7{padding-right:4rem;}.pr-8{padding-right:5rem;}.pl-0{padding-left:0rem;}.pl-1{padding-left:0.25rem;}.pl-2{padding-left:0.5rem;}.pl-3{padding-left:1rem;}.pl-4{padding-left:1.5rem;}.pl-5{padding-left:2rem;}.pl-6{padding-left:3rem;}.pl-7{padding-left:4rem;}.pl-8{padding-left:5rem;}.pb-0{padding-bottom:0rem;}.pb-1{padding-bottom:0.25rem;}.pb-2{padding-bottom:0.5rem;}.pb-3{padding-bottom:1rem;}.pb-4{padding-bottom:1.5rem;}.pb-5{padding-bottom:2rem;}.pb-6{padding-bottom:3rem;}.pb-7{padding-bottom:4rem;}.pb-8{padding-bottom:5rem;}.px-0{padding-left:0rem;padding-right:0rem;}.px-1{padding-left:0.25rem;padding-right:0.25rem;}.px-2{padding-left:0.5rem;padding-right:0.5rem;}.px-3{padding-left:1rem;padding-right:1rem;}.px-4{padding-left:1.5rem;padding-right:1.5rem;}.px-5{padding-left:2rem;padding-right:2rem;}.px-6{padding-left:3rem;padding-right:3rem;}.px-7{padding-left:4rem;padding-right:4rem;}.px-8{padding-left:5rem;padding-right:5rem;}.py-0{padding-top:0rem;padding-bottom:0rem;}.py-1{padding-top:0.25rem;padding-bottom:0.25rem;}.py-2{padding-top:0.5rem;padding-bottom:0.5rem;}.py-3{padding-top:1rem;padding-bottom:1rem;}.py-4{padding-top:1.5rem;padding-bottom:1.5rem;}.py-5{padding-top:2rem;padding-bottom:2rem;}.py-6{padding-top:3rem;padding-bottom:3rem;}.py-7{padding-top:4rem;padding-bottom:4rem;}.py-8{padding-top:5rem;padding-bottom:5rem;}.m-0{margin:0rem;}.m-1{margin:0.25rem;}.m-2{margin:0.5rem;}.m-3{margin:1rem;}.m-4{margin:1.5rem;}.m-5{margin:2rem;}.m-6{margin:3rem;}.m-7{margin:4rem;}.m-8{margin:5rem;}.-m-1{margin:-0.25rem;}.-m-2{margin:-0.5rem;}.-m-3{margin:-1rem;}.-m-4{margin:-1.5rem;}.-m-5{margin:-2rem;}.-m-6{margin:-3rem;}.-m-7{margin:-4rem;}.-m-8{margin:-5rem;}.m-auto{margin:auto;}.mt-0{margin-top:0rem;}.mt-1{margin-top:0.25rem;}.mt-2{margin-top:0.5rem;}.mt-3{margin-top:1rem;}.mt-4{margin-top:1.5rem;}.mt-5{margin-top:2rem;}.mt-6{margin-top:3rem;}.mt-7{margin-top:4rem;}.mt-8{margin-top:5rem;}.-mt-1{margin-top:-0.25rem;}.-mt-2{margin-top:-0.5rem;}.-mt-3{margin-top:-1rem;}.-mt-4{margin-top:-1.5rem;}.-mt-5{margin-top:-2rem;}.-mt-6{margin-top:-3rem;}.-mt-7{margin-top:-4rem;}.-mt-8{margin-top:-5rem;}.mt-auto{margin-top:auto;}.mr-0{margin-right:0rem;}.mr-1{margin-right:0.25rem;}.mr-2{margin-right:0.5rem;}.mr-3{margin-right:1rem;}.mr-4{margin-right:1.5rem;}.mr-5{margin-right:2rem;}.mr-6{margin-right:3rem;}.mr-7{margin-right:4rem;}.mr-8{margin-right:5rem;}.-mr-1{margin-right:-0.25rem;}.-mr-2{margin-right:-0.5rem;}.-mr-3{margin-right:-1rem;}.-mr-4{margin-right:-1.5rem;}.-mr-5{margin-right:-2rem;}.-mr-6{margin-right:-3rem;}.-mr-7{margin-right:-4rem;}.-mr-8{margin-right:-5rem;}.mr-auto{margin-right:auto;}.ml-0{margin-left:0rem;}.ml-1{margin-left:0.25rem;}.ml-2{margin-left:0.5rem;}.ml-3{margin-left:1rem;}.ml-4{margin-left:1.5rem;}.ml-5{margin-left:2rem;}.ml-6{margin-left:3rem;}.ml-7{margin-left:4rem;}.ml-8{margin-left:5rem;}.-ml-1{margin-left:-0.25rem;}.-ml-2{margin-left:-0.5rem;}.-ml-3{margin-left:-1rem;}.-ml-4{margin-left:-1.5rem;}.-ml-5{margin-left:-2rem;}.-ml-6{margin-left:-3rem;}.-ml-7{margin-left:-4rem;}.-ml-8{margin-left:-5rem;}.ml-auto{margin-left:auto;}.mb-0{margin-bottom:0rem;}.mb-1{margin-bottom:0.25rem;}.mb-2{margin-bottom:0.5rem;}.mb-3{margin-bottom:1rem;}.mb-4{margin-bottom:1.5rem;}.mb-5{margin-bottom:2rem;}.mb-6{margin-bottom:3rem;}.mb-7{margin-bottom:4rem;}.mb-8{margin-bottom:5rem;}.-mb-1{margin-bottom:-0.25rem;}.-mb-2{margin-bottom:-0.5rem;}.-mb-3{margin-bottom:-1rem;}.-mb-4{margin-bottom:-1.5rem;}.-mb-5{margin-bottom:-2rem;}.-mb-6{margin-bottom:-3rem;}.-mb-7{margin-bottom:-4rem;}.-mb-8{margin-bottom:-5rem;}.mb-auto{margin-bottom:auto;}.mx-0{margin-left:0rem;margin-right:0rem;}.mx-1{margin-left:0.25rem;margin-right:0.25rem;}.mx-2{margin-left:0.5rem;margin-right:0.5rem;}.mx-3{margin-left:1rem;margin-right:1rem;}.mx-4{margin-left:1.5rem;margin-right:1.5rem;}.mx-5{margin-left:2rem;margin-right:2rem;}.mx-6{margin-left:3rem;margin-right:3rem;}.mx-7{margin-left:4rem;margin-right:4rem;}.mx-8{margin-left:5rem;margin-right:5rem;}.-mx-1{margin-left:-0.25rem;margin-right:-0.25rem;}.-mx-2{margin-left:-0.5rem;margin-right:-0.5rem;}.-mx-3{margin-left:-1rem;margin-right:-1rem;}.-mx-4{margin-left:-1.5rem;margin-right:-1.5rem;}.-mx-5{margin-left:-2rem;margin-right:-2rem;}.-mx-6{margin-left:-3rem;margin-right:-3rem;}.-mx-7{margin-left:-4rem;margin-right:-4rem;}.-mx-8{margin-left:-5rem;margin-right:-5rem;}.mx-auto{margin-left:auto;margin-right:auto;}.my-0{margin-top:0rem;margin-bottom:0rem;}.my-1{margin-top:0.25rem;margin-bottom:0.25rem;}.my-2{margin-top:0.5rem;margin-bottom:0.5rem;}.my-3{margin-top:1rem;margin-bottom:1rem;}.my-4{margin-top:1.5rem;margin-bottom:1.5rem;}.my-5{margin-top:2rem;margin-bottom:2rem;}.my-6{margin-top:3rem;margin-bottom:3rem;}.my-7{margin-top:4rem;margin-bottom:4rem;}.my-8{margin-top:5rem;margin-bottom:5rem;}.-my-1{margin-top:-0.25rem;margin-bottom:-0.25rem;}.-my-2{margin-top:-0.5rem;margin-bottom:-0.5rem;}.-my-3{margin-top:-1rem;margin-bottom:-1rem;}.-my-4{margin-top:-1.5rem;margin-bottom:-1.5rem;}.-my-5{margin-top:-2rem;margin-bottom:-2rem;}.-my-6{margin-top:-3rem;margin-bottom:-3rem;}.-my-7{margin-top:-4rem;margin-bottom:-4rem;}.-my-8{margin-top:-5rem;margin-bottom:-5rem;}.my-auto{margin-top:auto;margin-bottom:auto;}.shadow-none{box-shadow:none;}.shadow-1{box-shadow:0px 3px 5px rgba(0,0,0,0.02),0px 0px 2px rgba(0,0,0,0.05),0px 1px 4px rgba(0,0,0,0.08);}.shadow-2{box-shadow:0px 4px 10px rgba(0,0,0,0.03),0px 0px 2px rgba(0,0,0,0.06),0px 2px 6px rgba(0,0,0,0.12);}.shadow-3{box-shadow:0px 1px 8px rgba(0,0,0,0.08),0px 3px 4px rgba(0,0,0,0.1),0px 1px 4px -1px rgba(0,0,0,0.1);}.shadow-4{box-shadow:0px 1px 10px rgba(0,0,0,0.12),0px 4px 5px rgba(0,0,0,0.14),0px 2px 4px -1px rgba(0,0,0,0.2);}.shadow-5{box-shadow:0px 1px 7px rgba(0,0,0,0.1),0px 4px 5px -2px rgba(0,0,0,0.12),0px 10px 15px -5px rgba(0,0,0,0.2);}.shadow-6{box-shadow:0px 3px 5px rgba(0,0,0,0.06),0px 7px 9px rgba(0,0,0,0.12),0px 20px 25px -8px rgba(0,0,0,0.18);}.shadow-7{box-shadow:0px 7px 30px rgba(0,0,0,0.08),0px 22px 30px 2px rgba(0,0,0,0.15),0px 8px 10px rgba(0,0,0,0.15);}.shadow-8{box-shadow:0px 9px 46px 8px rgba(0,0,0,0.12),0px 24px 38px 3px rgba(0,0,0,0.14),0px 11px 15px rgba(0,0,0,0.2);}.border-none{border-width:0px;border-style:none;}.border-1{border-width:1px;border-style:solid;}.border-2{border-width:2px;border-style:solid;}.border-3{border-width:3px;border-style:solid;}.border-top-none{border-top-width:0px;border-top-style:none;}.border-top-1{border-top-width:1px;border-top-style:solid;}.border-top-2{border-top-width:2px;border-top-style:solid;}.border-top-3{border-top-width:3px;border-top-style:solid;}.border-right-none{border-right-width:0px;border-right-style:none;}.border-right-1{border-right-width:1px;border-right-style:solid;}.border-right-2{border-right-width:2px;border-right-style:solid;}.border-right-3{border-right-width:3px;border-right-style:solid;}.border-left-none{border-left-width:0px;border-left-style:none;}.border-left-1{border-left-width:1px;border-left-style:solid;}.border-left-2{border-left-width:2px;border-left-style:solid;}.border-left-3{border-left-width:3px;border-left-style:solid;}.border-bottom-none{border-bottom-width:0px;border-bottom-style:none;}.border-bottom-1{border-bottom-width:1px;border-bottom-style:solid;}.border-bottom-2{border-bottom-width:2px;border-bottom-style:solid;}.border-bottom-3{border-bottom-width:3px;border-bottom-style:solid;}.border-x-none{border-left-width:0px;border-left-style:none;border-right-width:0px;border-right-style:none;}.border-x-1{border-left-width:1px;border-left-style:solid;border-right-width:1px;border-right-style:solid;}.border-x-2{border-left-width:2px;border-left-style:solid;border-right-width:2px;border-right-style:solid;}.border-x-3{border-left-width:3px;border-left-style:solid;border-right-width:3px;border-right-style:solid;}.border-y-none{border-top-width:0px;border-top-style:none;border-bottom-width:0px;border-bottom-style:none;}.border-y-1{border-top-width:1px;border-top-style:solid;border-bottom-width:1px;border-bottom-style:solid;}.border-y-2{border-top-width:2px;border-top-style:solid;border-bottom-width:2px;border-bottom-style:solid;}.border-y-3{border-top-width:3px;border-top-style:solid;border-bottom-width:3px;border-bottom-style:solid;}.border-solid{border-style:solid;}.border-dashed{border-style:dashed;}.border-dotted{border-style:dotted;}.border-double{border-style:double;}.border-noround{border-radius:0;}.border-round{border-radius:var(--border-radius);}.border-round-xs{border-radius:0.125rem;}.border-round-sm{border-radius:0.25rem;}.border-round-md{border-radius:0.375rem;}.border-round-lg{border-radius:0.5rem;}.border-round-xl{border-radius:0.75rem;}.border-round-2xl{border-radius:1rem;}.border-round-3xl{border-radius:1.5rem;}.border-circle{border-radius:50%;}.border-noround-left{border-top-left-radius:0;border-bottom-left-radius:0;}.border-noround-top{border-top-left-radius:0;border-top-right-radius:0;}.border-noround-right{border-top-right-radius:0;border-bottom-right-radius:0;}.border-noround-bottom{border-bottom-left-radius:0;border-bottom-right-radius:0;}.border-round-left{border-top-left-radius:var(--border-radius);border-bottom-left-radius:var(--border-radius);}.border-round-top{border-top-left-radius:var(--border-radius);border-top-right-radius:var(--border-radius);}.border-round-right{border-top-right-radius:var(--border-radius);border-bottom-right-radius:var(--border-radius);}.border-round-bottom{border-bottom-left-radius:var(--border-radius);border-bottom-right-radius:var(--border-radius);}.border-round-left-xs{border-top-left-radius:0.125rem;border-bottom-left-radius:0.125rem;}.border-round-top-xs{border-top-left-radius:0.125rem;border-top-right-radius:0.125rem;}.border-round-right-xs{border-top-right-radius:0.125rem;border-bottom-right-radius:0.125rem;}.border-round-bottom-xs{border-bottom-left-radius:0.125rem;border-bottom-right-radius:0.125rem;}.border-round-left-sm{border-top-left-radius:0.25rem;border-bottom-left-radius:0.25rem;}.border-round-top-sm{border-top-left-radius:0.25rem;border-top-right-radius:0.25rem;}.border-round-right-sm{border-top-right-radius:0.25rem;border-bottom-right-radius:0.25rem;}.border-round-bottom-sm{border-bottom-left-radius:0.25rem;border-bottom-right-radius:0.25rem;}.border-round-left-md{border-top-left-radius:0.375rem;border-bottom-left-radius:0.375rem;}.border-round-top-md{border-top-left-radius:0.375rem;border-top-right-radius:0.375rem;}.border-round-right-md{border-top-right-radius:0.375rem;border-bottom-right-radius:0.375rem;}.border-round-bottom-md{border-bottom-left-radius:0.375rem;border-bottom-right-radius:0.375rem;}.border-round-left-lg{border-top-left-radius:0.5rem;border-bottom-left-radius:0.5rem;}.border-round-top-lg{border-top-left-radius:0.5rem;border-top-right-radius:0.5rem;}.border-round-right-lg{border-top-right-radius:0.5rem;border-bottom-right-radius:0.5rem;}.border-round-bottom-lg{border-bottom-left-radius:0.5rem;border-bottom-right-radius:0.5rem;}.border-round-left-xl{border-top-left-radius:0.75rem;border-bottom-left-radius:0.75rem;}.border-round-top-xl{border-top-left-radius:0.75rem;border-top-right-radius:0.75rem;}.border-round-right-xl{border-top-right-radius:0.75rem;border-bottom-right-radius:0.75rem;}.border-round-bottom-xl{border-bottom-left-radius:0.75rem;border-bottom-right-radius:0.75rem;}.border-round-left-2xl{border-top-left-radius:1rem;border-bottom-left-radius:1rem;}.border-round-top-2xl{border-top-left-radius:1rem;border-top-right-radius:1rem;}.border-round-right-2xl{border-top-right-radius:1rem;border-bottom-right-radius:1rem;}.border-round-bottom-2xl{border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;}.border-round-left-3xl{border-top-left-radius:1.5rem;border-bottom-left-radius:1.5rem;}.border-round-top-3xl{border-top-left-radius:1.5rem;border-top-right-radius:1.5rem;}.border-round-right-3xl{border-top-right-radius:1.5rem;border-bottom-right-radius:1.5rem;}.border-round-bottom-3xl{border-bottom-left-radius:1.5rem;border-bottom-right-radius:1.5rem;}.border-circle-left{border-top-left-radius:50%;border-bottom-left-radius:50%;}.border-circle-top{border-top-left-radius:50%;border-top-right-radius:50%;}.border-circle-right{border-top-right-radius:50%;border-bottom-right-radius:50%;}.border-circle-bottom{border-bottom-left-radius:50%;border-bottom-right-radius:50%;}.w-full{width:100%;}.w-screen{width:100vw;}.w-auto{width:auto;}.w-1{width:8.3333%;}.w-2{width:16.6667%;}.w-3{width:25%;}.w-4{width:33.3333%;}.w-5{width:41.6667%;}.w-6{width:50%;}.w-7{width:58.3333%;}.w-8{width:66.6667%;}.w-9{width:75%;}.w-10{width:83.3333%;}.w-11{width:91.6667%;}.w-12{width:100%;}.w-min{width:min-content;}.w-max{width:max-content;}.w-fit{width:fit-content;}.w-1rem{width:1rem;}.w-2rem{width:2rem;}.w-3rem{width:3rem;}.w-4rem{width:4rem;}.w-5rem{width:5rem;}.w-6rem{width:6rem;}.w-7rem{width:7rem;}.w-8rem{width:8rem;}.w-9rem{width:9rem;}.w-10rem{width:10rem;}.w-11rem{width:11rem;}.w-12rem{width:12rem;}.w-13rem{width:13rem;}.w-14rem{width:14rem;}.w-15rem{width:15rem;}.w-16rem{width:16rem;}.w-17rem{width:17rem;}.w-18rem{width:18rem;}.w-19rem{width:19rem;}.w-20rem{width:20rem;}.w-21rem{width:21rem;}.w-22rem{width:22rem;}.w-23rem{width:23rem;}.w-24rem{width:24rem;}.w-25rem{width:25rem;}.w-26rem{width:26rem;}.w-27rem{width:27rem;}.w-28rem{width:28rem;}.w-29rem{width:29rem;}.w-30rem{width:30rem;}.h-full{height:100%;}.h-screen{height:100vh;}.h-auto{height:auto;}.h-min{height:min-content;}.h-max{height:max-content;}.h-fit{height:fit-content;}.h-1rem{height:1rem;}.h-2rem{height:2rem;}.h-3rem{height:3rem;}.h-4rem{height:4rem;}.h-5rem{height:5rem;}.h-6rem{height:6rem;}.h-7rem{height:7rem;}.h-8rem{height:8rem;}.h-9rem{height:9rem;}.h-10rem{height:10rem;}.h-11rem{height:11rem;}.h-12rem{height:12rem;}.h-13rem{height:13rem;}.h-14rem{height:14rem;}.h-15rem{height:15rem;}.h-16rem{height:16rem;}.h-17rem{height:17rem;}.h-18rem{height:18rem;}.h-19rem{height:19rem;}.h-20rem{height:20rem;}.h-21rem{height:21rem;}.h-22rem{height:22rem;}.h-23rem{height:23rem;}.h-24rem{height:24rem;}.h-25rem{height:25rem;}.h-26rem{height:26rem;}.h-27rem{height:27rem;}.h-28rem{height:28rem;}.h-29rem{height:29rem;}.h-30rem{height:30rem;}.min-w-0{min-width:0px;}.min-w-full{min-width:100%;}.min-w-screen{min-width:100vw;}.min-w-min{min-width:min-content;}.min-w-max{min-width:max-content;}.max-w-0{max-width:0px;}.max-w-full{max-width:100%;}.max-w-screen{max-width:100vw;}.max-w-min{max-width:min-content;}.max-w-max{max-width:max-content;}.max-w-fit{max-width:fit-content;}.max-w-1rem{max-width:1rem;}.max-w-2rem{max-width:2rem;}.max-w-3rem{max-width:3rem;}.max-w-4rem{max-width:4rem;}.max-w-5rem{max-width:5rem;}.max-w-6rem{max-width:6rem;}.max-w-7rem{max-width:7rem;}.max-w-8rem{max-width:8rem;}.max-w-9rem{max-width:9rem;}.max-w-10rem{max-width:10rem;}.max-w-11rem{max-width:11rem;}.max-w-12rem{max-width:12rem;}.max-w-13rem{max-width:13rem;}.max-w-14rem{max-width:14rem;}.max-w-15rem{max-width:15rem;}.max-w-16rem{max-width:16rem;}.max-w-17rem{max-width:17rem;}.max-w-18rem{max-width:18rem;}.max-w-19rem{max-width:19rem;}.max-w-20rem{max-width:20rem;}.max-w-21rem{max-width:21rem;}.max-w-22rem{max-width:22rem;}.max-w-23rem{max-width:23rem;}.max-w-24rem{max-width:24rem;}.max-w-25rem{max-width:25rem;}.max-w-26rem{max-width:26rem;}.max-w-27rem{max-width:27rem;}.max-w-28rem{max-width:28rem;}.max-w-29rem{max-width:29rem;}.max-w-30rem{max-width:30rem;}.min-h-0{min-height:0px;}.min-h-full{min-height:100%;}.min-h-screen{min-height:100vh;}.max-h-0{max-height:0px;}.max-h-full{max-height:100%;}.max-h-screen{max-height:100vh;}.max-h-min{max-height:min-content;}.max-h-max{max-height:max-content;}.max-h-fit{max-height:fit-content;}.max-h-1rem{max-height:1rem;}.max-h-2rem{max-height:2rem;}.max-h-3rem{max-height:3rem;}.max-h-4rem{max-height:4rem;}.max-h-5rem{max-height:5rem;}.max-h-6rem{max-height:6rem;}.max-h-7rem{max-height:7rem;}.max-h-8rem{max-height:8rem;}.max-h-9rem{max-height:9rem;}.max-h-10rem{max-height:10rem;}.max-h-11rem{max-height:11rem;}.max-h-12rem{max-height:12rem;}.max-h-13rem{max-height:13rem;}.max-h-14rem{max-height:14rem;}.max-h-15rem{max-height:15rem;}.max-h-16rem{max-height:16rem;}.max-h-17rem{max-height:17rem;}.max-h-18rem{max-height:18rem;}.max-h-19rem{max-height:19rem;}.max-h-20rem{max-height:20rem;}.max-h-21rem{max-height:21rem;}.max-h-22rem{max-height:22rem;}.max-h-23rem{max-height:23rem;}.max-h-24rem{max-height:24rem;}.max-h-25rem{max-height:25rem;}.max-h-26rem{max-height:26rem;}.max-h-27rem{max-height:27rem;}.max-h-28rem{max-height:28rem;}.max-h-29rem{max-height:29rem;}.max-h-30rem{max-height:30rem;}.static{position:static;}.fixed{position:fixed;}.absolute{position:absolute;}.relative{position:relative;}.sticky{position:sticky;}.top-auto{top:auto;}.top-0{top:0px;}.top-50{top:50%;}.top-100{top:100%;}.left-auto{left:auto;}.left-0{left:0px;}.left-50{left:50%;}.left-100{left:100%;}.right-auto{right:auto;}.right-0{right:0px;}.right-50{right:50%;}.right-100{right:100%;}.bottom-auto{bottom:auto;}.bottom-0{bottom:0px;}.bottom-50{bottom:50%;}.bottom-100{bottom:100%;}.overflow-auto{overflow:auto;}.overflow-hidden{overflow:hidden;}.overflow-visible{overflow:visible;}.overflow-scroll{overflow:scroll;}.overflow-x-auto{overflow-x:auto;}.overflow-x-hidden{overflow-x:hidden;}.overflow-x-visible{overflow-x:visible;}.overflow-x-scroll{overflow-x:scroll;}.overflow-y-auto{overflow-y:auto;}.overflow-y-hidden{overflow-y:hidden;}.overflow-y-visible{overflow-y:visible;}.overflow-y-scroll{overflow-y:scroll;}.z-auto{z-index:auto;}.z-0{z-index:0;}.z-1{z-index:1;}.z-2{z-index:2;}.z-3{z-index:3;}.z-4{z-index:4;}.z-5{z-index:5;}.bg-repeat{background-repeat:repeat;}.bg-no-repeat{background-repeat:no-repeat;}.bg-repeat-x{background-repeat:repeat-x;}.bg-repeat-y{background-repeat:repeat-y;}.bg-repeat-round{background-repeat:round;}.bg-repeat-space{background-repeat:space;}.bg-auto{background-size:auto;}.bg-cover{background-size:cover;}.bg-contain{background-size:contain;}.bg-bottom{background-position:bottom;}.bg-center{background-position:center;}.bg-left{background-position:left;}.bg-left-bottom{background-position:left bottom;}.bg-left-top{background-position:left top;}.bg-right{background-position:right;}.bg-right-bottom{background-position:right bottom;}.bg-right-top{background-position:right top;}.bg-top{background-position:top;}.select-none{user-select:none;}.select-text{user-select:text;}.select-all{user-select:all;}.select-auto{user-select:auto;}.list-none{list-style:none;}.list-disc{list-style:disc;}.list-decimal{list-style:decimal;}.appearance-none{appearance:none;}.outline-none{outline:none;}.pointer-events-none{pointer-events:none;}.pointer-events-auto{pointer-events:auto;}.cursor-auto{cursor:auto;}.cursor-pointer{cursor:pointer;}.cursor-wait{cursor:wait;}.cursor-move{cursor:move;}.select-none{user-select:none;}.select-text{user-select:text;}.select-all{user-select:all;}.select-auto{user-select:auto;}.opacity-0{opacity:0;}.opacity-10{opacity:.1;}.opacity-20{opacity:.2;}.opacity-30{opacity:.3;}.opacity-40{opacity:.4;}.opacity-50{opacity:.5;}.opacity-60{opacity:.6;}.opacity-70{opacity:.7;}.opacity-80{opacity:.8;}.opacity-90{opacity:.9;}.opacity-100{opacity:1;}.reset{all:unset;}.transition-none{transition-property:none;}.transition-all{transition-property:all;}.transition-colors{transition-property:background-color,border-color,color;}.transition-transform{transition-property:transform;}.transition-duration-100{transition-duration:100ms;}.transition-duration-150{transition-duration:150ms;}.transition-duration-200{transition-duration:200ms;}.transition-duration-300{transition-duration:300ms;}.transition-duration-400{transition-duration:400ms;}.transition-duration-500{transition-duration:500ms;}.transition-duration-1000{transition-duration:1000ms;}.transition-duration-2000{transition-duration:2000ms;}.transition-duration-3000{transition-duration:3000ms;}.transition-linear{transition-timing-function:linear;}.transition-ease-in{transition-timing-function:cubic-bezier(0.4,0,1,1);}.transition-ease-out{transition-timing-function:cubic-bezier(0,0,0.2,1);}.transition-ease-in-out{transition-timing-function:cubic-bezier(0.4,0,0.2,1);}.transition-delay-100{transition-delay:100ms;}.transition-delay-150{transition-delay:150ms;}.transition-delay-200{transition-delay:200ms;}.transition-delay-300{transition-delay:300ms;}.transition-delay-400{transition-delay:400ms;}.transition-delay-500{transition-delay:500ms;}.transition-delay-1000{transition-delay:1000ms;}.translate-x-0{transform:translateX(0%);}.translate-x-100{transform:translateX(100%);}.-translate-x-100{transform:translateX(-100%);}.translate-y-0{transform:translateY(0%);}.translate-y-100{transform:translateY(100%);}.-translate-y-100{transform:translateY(-100%);}.rotate-45{transform:rotate(45deg);}.-rotate-45{transform:rotate(-45deg);}.rotate-90{transform:rotate(90deg);}.-rotate-90{transform:rotate(-90deg);}.rotate-180{transform:rotate(180deg);}.-rotate-180{transform:rotate(-180deg);}.origin-center{transform-origin:center;}.origin-top{transform-origin:top;}.origin-top-right{transform-origin:top right;}.origin-right{transform-origin:right;}.origin-bottom-right{transform-origin:bottom right;}.origin-bottom{transform-origin:bottom;}.origin-bottom-left{transform-origin:bottom left;}.origin-left{transform-origin:left;}.origin-top-left{transform-origin:top-left;}@keyframes fadein{0%{opacity:0;}100%{opacity:1;}}@keyframes fadeout{0%{opacity:1;}100%{opacity:0;}}@keyframes scalein{0%{opacity:0;transform:scaleY(0.8);transition:transform 0.12s cubic-bezier(0,0,0.2,1),opacity 0.12s cubic-bezier(0,0,0.2,1);}100%{opacity:1;transform:scaleY(1);}}@keyframes slidedown{0%{max-height:0;}100%{max-height:auto;}}@keyframes slideup{0%{max-height:1000px;}100%{max-height:0;}}@keyframes fadeinleft{0%{opacity:0;transform:translateX(-100%);transition:transform 0.12s cubic-bezier(0,0,0.2,1),opacity 0.12s cubic-bezier(0,0,0.2,1);}100%{opacity:1;transform:translateX(0%);}}@keyframes fadeoutleft{0%{opacity:1;transform:translateX(0%);transition:transform 0.12s cubic-bezier(0,0,0.2,1),opacity 0.12s cubic-bezier(0,0,0.2,1);}100%{opacity:0;transform:translateX(-100%);}}@keyframes fadeinright{0%{opacity:0;transform:translateX(100%);transition:transform 0.12s cubic-bezier(0,0,0.2,1),opacity 0.12s cubic-bezier(0,0,0.2,1);}100%{opacity:1;transform:translateX(0%);}}@keyframes fadeoutright{0%{opacity:1;transform:translateX(0%);transition:transform 0.12s cubic-bezier(0,0,0.2,1),opacity 0.12s cubic-bezier(0,0,0.2,1);}100%{opacity:0;transform:translateX(100%);}}@keyframes fadeinup{0%{opacity:0;transform:translateY(-100%);transition:transform 0.12s cubic-bezier(0,0,0.2,1),opacity 0.12s cubic-bezier(0,0,0.2,1);}100%{opacity:1;transform:translateY(0%);}}@keyframes fadeoutup{0%{opacity:1;transform:translateY(0%);transition:transform 0.12s cubic-bezier(0,0,0.2,1),opacity 0.12s cubic-bezier(0,0,0.2,1);}100%{opacity:0;transform:translateY(-100%);}}@keyframes fadeindown{0%{opacity:0;transform:translateY(100%);transition:transform 0.12s cubic-bezier(0,0,0.2,1),opacity 0.12s cubic-bezier(0,0,0.2,1);}100%{opacity:1;transform:translateY(0%);}}@keyframes fadeoutdown{0%{opacity:1;transform:translateY(0%);transition:transform 0.12s cubic-bezier(0,0,0.2,1),opacity 0.12s cubic-bezier(0,0,0.2,1);}100%{opacity:0;transform:translateY(100%);}}@keyframes animate-width{0%{width:0;}100%{width:100%;}}@keyframes flip{from{transform:perspective(2000px) rotateX(-100deg);}to{transform:perspective(2000px) rotateX(0);}}@keyframes flipleft{from{transform:perspective(2000px) rotateY(-100deg);opacity:0;}to{transform:perspective(2000px) rotateY(0);opacity:1;}}@keyframes flipright{from{transform:perspective(2000px) rotateY(100deg);opacity:0;}to{transform:perspective(2000px) rotateY(0);opacity:1;}}@keyframes flipup{from{transform:perspective(2000px) rotateX(-100deg);opacity:0;}to{transform:perspective(2000px) rotateX(0);opacity:1;}}@keyframes zoomin{from{opacity:0;transform:scale3d(0.3,0.3,0.3);}50%{opacity:1;}}@keyframes zoomindown{from{opacity:0;transform:scale3d(0.1,0.1,0.1) translate3d(0,-1000px,0);}60%{opacity:1;transform:scale3d(0.475,0.475,0.475) translate3d(0,60px,0);}}@keyframes zoominleft{from{opacity:0;transform:scale3d(0.1,0.1,0.1) translate3d(-1000px,0,0);}60%{opacity:1;transform:scale3d(0.475,0.475,0.475) translate3d(10px,0,0);}}@keyframes zoominright{from{opacity:0;transform:scale3d(0.1,0.1,0.1) translate3d(1000px,0,0);}60%{opacity:1;transform:scale3d(0.475,0.475,0.475) translate3d(-10px,0,0);}}@keyframes zoominup{from{opacity:0;transform:scale3d(0.1,0.1,0.1) translate3d(0,1000px,0);}60%{opacity:1;transform:scale3d(0.475,0.475,0.475) translate3d(0,-60px,0);}}.fadein{animation:fadein 0.15s linear;}.fadeout{animation:fadeout 0.15s linear;}.slidedown{animation:slidedown 0.45s ease-in-out;}.slideup{animation:slideup 0.45s cubic-bezier(0,1,0,1);}.scalein{animation:scalein 0.15s linear;}.fadeinleft{animation:fadeinleft 0.15s linear;}.fadeoutleft{animation:fadeoutleft 0.15s linear;}.fadeinright{animation:fadeinright 0.15s linear;}.fadeoutright{animation:fadeoutright 0.15s linear;}.fadeinup{animation:fadeinup 0.15s linear;}.fadeoutup{animation:fadeoutup 0.15s linear;}.fadeindown{animation:fadeindown 0.15s linear;}.fadeoutdown{animation:fadeoutdown 0.15s linear;}.animate-width{animation:animate-width 1000ms linear;}.flip{backface-visibility:visible;animation:flip 0.15s linear;}.flipup{backface-visibility:visible;animation:flipup 0.15s linear;}.flipleft{backface-visibility:visible;animation:flipleft 0.15s linear;}.flipright{backface-visibility:visible;animation:flipright 0.15s linear;}.zoomin{animation:zoomin 0.15s linear;}.zoomindown{animation:zoomindown 0.15s linear;}.zoominleft{animation:zoominleft 0.15s linear;}.zoominright{animation:zoominright 0.15s linear;}.zoominup{animation:zoominup 0.15s linear;}.animation-duration-100{animation-duration:100ms;}.animation-duration-150{animation-duration:150ms;}.animation-duration-200{animation-duration:200ms;}.animation-duration-300{animation-duration:300ms;}.animation-duration-400{animation-duration:400ms;}.animation-duration-500{animation-duration:500ms;}.animation-duration-1000{animation-duration:1000ms;}.animation-duration-2000{animation-duration:2000ms;}.animation-duration-3000{animation-duration:3000ms;}.animation-delay-100{animation-delay:100ms;}.animation-delay-150{animation-delay:150ms;}.animation-delay-200{animation-delay:200ms;}.animation-delay-300{animation-delay:300ms;}.animation-delay-400{animation-delay:400ms;}.animation-delay-500{animation-delay:500ms;}.animation-delay-1000{animation-delay:1000ms;}.animation-iteration-1{animation-iteration-count:1;}.animation-iteration-2{animation-iteration-count:2;}.animation-iteration-infinite{animation-iteration-count:infinite;}.animation-linear{animation-timing-function:linear;}.animation-ease-in{animation-timing-function:cubic-bezier(0.4,0,1,1);}.animation-ease-out{animation-timing-function:cubic-bezier(0,0,0.2,1);}.animation-ease-in-out{animation-timing-function:cubic-bezier(0.4,0,0.2,1);}.animation-fill-none{animation-fill-mode:none;}.animation-fill-forwards{animation-fill-mode:forwards;}.animation-fill-backwards{animation-fill-mode:backwards;}.animation-fill-both{animation-fill-mode:both;}*{padding: 0;margin: 0;}.label-title1 {font-size: 1.75rem;font-weight: 700;}.font-bold {font-weight: 700!important;}.detail-content, .further-detials {color: #202627;font-size: 20px;white-space: pre;text-wrap: wrap;word-wrap: break-word;}.text-xl {font-size: 1.25rem!important;}.bg-outline {background-color: #F0F6F3;border-radius: 10px;}.etax-line {list-style: none;display: flex;flex-wrap: wrap;padding: 8px 0 8px 0;}.half.text.plain-text {transform: translateY(0px);}.ack-body {width: 1190px;}.emsg-hide {display: none;}</style></head><body><div class=\"ack-body\"><section  id=\"printArea\" class=\"bg-outline p-5\"><h2  title=\"\" class=\"CTR_EMSG\">確認</h2><div  class=\"content-detail\"><h2  class=\"mt-5 ng-star-inserted\"><div >CHONG, BING YIN</div><div >莊秉賢</div></h2><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >交易參考編號：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"> 8752 4031 1001 9468 </div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >交易日期／時間：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"> 2024年3月12日 11:50:35 </div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >課税年度：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >2022/</span><span  >23</span></div></div></div></div><div  class=\"allowance-details mt-5 ng-star-inserted\"><div  class=\"election-for-pa mt-5 ng-star-inserted\"><h3 >個人入息課税</h3><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人符合選擇個人入息課税資格，並願意選擇自行／與配偶分開以個人入息課税方式評税。</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >是</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人／本人的配偶符合選擇個人入息課税資格。我們兩人於本年度內均有按《税務條例》須予評税的入息，並願意共同選擇以個人入息課税方式評税。</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >否</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >在薪俸税及利得税未提出申索的認可慈善捐款。</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >$123</span></div></div></div></div><h3  class=\"mt-5 ng-star-inserted\">本人現申請在報税表內漏報的免税額本人現申請在報税表內漏報的免税額</h3><div  class=\"child-and-sibling-allowance ng-star-inserted\"><h3  class=\"mt-5\">子女／供養兄弟姊妹免税額</h3><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人申請子女／供養兄弟姊妹免税額：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"> 是 </div></div></div><div  class=\"dependant-list-wrapper\"><div  class=\"dependant-list-item ng-star-inserted\"><h4  class=\"mt-4\">受養人&nbsp;1</h4><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >受養人姓名：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"> AA </div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >與本人／本人配偶的關係：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  ng-reflect-ng-switch=\"1\">子女</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >出生日期：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  > 11/11/1996 </span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >如受養人在本年度內年滿18歲：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  ng-reflect-ng-switch=\"2\">年滿18歲，但因殘疾而不能工作</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >受養人在本年度內有資格按政府傷殘津貼計劃申索津貼，本人擬就受養人申請傷殘受養人免税額：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >否</span></div></div></div></div><h4  class=\"mt-4\">受養兄弟／姊妹的父母資料</h4><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >父親姓名：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\">  </div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >香港身分證號碼：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >母親姓名：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\">  </div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >香港身分證號碼：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"></div></div></div></div></div><div  class=\"sing-parent-allowance ng-star-inserted\"><h3  class=\"mt-5\">單親免税額</h3><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人申請單親人士免税額：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"> 是 </div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人在本年度內獨力或主力撫養本人的子女：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  ng-reflect-ng-switch=\"1\">是，全年</span></div></div></div></div><div  class=\"dependant-ascendent-allowance ng-star-inserted\"><h3  class=\"mt-5\">供養父母／祖父母／外祖父母免税額及長者住宿照顧開支</h3><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人申請供養父母／祖父母／外祖父母免税額及長者住宿照顧開支：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"> 是 </div></div></div><div  class=\"dependant-list-wrapper\"><div  class=\"dependant-list-item ng-star-inserted\"><h4  class=\"mt-4\">受養人&nbsp;1</h4><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >受養人姓名：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"> FAFADSFASF </div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >香港身分證號碼：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >X152487(4)</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >出生日期：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >01/</span><span  >1950</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >與本人／本人配偶的關係：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  ng-reflect-ng-switch=\"1\">父母</span></div></div></div><h5  class=\"mt-4\">申索供養父母／祖父母／外祖父母免税額</h5><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >受養人在本年度內通常在香港居住：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >否</span></div></div></div><h5  class=\"mt-4\">申請扣除長者住宿照顧開支</h5><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人或本人的配偶在本年度內所支付給院舍的開支款額：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"> $100 </div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >受養人居住的院舍名稱：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"> AFDFA<br > FFFF<br >  </div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >受養人在本年度內有資格按政府傷殘津貼計劃申索津貼，本人擬就受養人申請傷殘受養人免税額：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >否</span></div></div></div></div></div></div><div  class=\"dependant-ascendent-allowance ng-star-inserted\"><h3  class=\"mt-5\">傷殘受養人免税額</h3><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >受養人在本年度內有資格按政府傷殘津貼計劃申索津貼，本人擬就受養人申請傷殘受養人免税額：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"> 是 </div></div></div><div  class=\"dependant-list-wrapper\"><div  class=\"dependant-list-item ng-star-inserted\"><h4  class=\"mt-4\">受養人&nbsp;1</h4><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >受養人姓名：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"> AA </div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >與本人／本人配偶的關係：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  ng-reflect-ng-switch=\"2\">子女</span></div></div></div></div><div  class=\"dependant-list-item ng-star-inserted\"><h4  class=\"mt-4\">受養人&nbsp;2</h4><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >受養人姓名：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"> BBBBB </div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >與本人／本人配偶的關係：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  ng-reflect-ng-switch=\"3\">兄弟／姊妹</span></div></div></div></div><div  class=\"dependant-list-item ng-star-inserted\"><h4  class=\"mt-4\">受養人&nbsp;3</h4><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >受養人姓名：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"> CC </div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >與本人／本人配偶的關係：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  ng-reflect-ng-switch=\"1\">配偶</span></div></div></div></div><div  class=\"dependant-list-item ng-star-inserted\"><h4  class=\"mt-4\">受養人&nbsp;4</h4><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >受養人姓名：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"> DD </div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >與本人／本人配偶的關係：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  ng-reflect-ng-switch=\"4\">父母</span></div></div></div></div></div></div><div  class=\"dependant-ascendent-allowance ng-star-inserted\"><h3  class=\"mt-5\">傷殘人士免税額</h3><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人在本年度內有資格按政府傷殘津貼計劃申索津貼，並擬申請傷殘人士免税額：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"> 是 </div></div></div></div><div  class=\"dependant-ascendent-allowance mt-5 ng-star-inserted\"><h3 >為獲取物業出租收入而支付的利息</h3><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >為獲取物業出租收入而支付的利息」只適用於選擇個人入息課税的人士：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >是</span></div></div></div><div  class=\"property-involved-wrapper mt-4\"><h4 >有關物業的詳情</h4><div  class=\"property-list-wrapper ng-star-inserted\"><div  class=\"property-item-wrapper mt-4 ng-star-inserted\"><h5 >物業&nbsp;1</h5><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >物業地點：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  > AAAA<br > <br > <br >  </span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人所佔業權：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >80%</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >貸款用於購入上述物業，並以物業作按揭或押記：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >是</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人為獲取出租收入所佔的利息支出：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >$44</span></div></div></div></div><div  class=\"property-item-wrapper mt-4 ng-star-inserted\"><h5 >物業&nbsp;2</h5><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >物業地點：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  > BBB<br > <br > <br >  </span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人所佔業權：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >10%</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >貸款用於購入上述物業，並以物業作按揭或押記：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >是</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人為獲取出租收入所佔的利息支出：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >$6</span></div></div></div></div></div></div></div><div  class=\"hli-wrapper mt-5 ng-star-inserted\"><h3 >居所貸款利息扣除</h3><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人現申請在報税表內漏報的居所貸款利息扣除：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >是</span></div></div></div><div  class=\"property-involved-wrapper mt-4\"><h4 >有關物業的詳情</h4><div  class=\"property-list-wrapper ng-star-inserted\"><div  class=\"property-item-wrapper mt-4 ng-star-inserted\"><h5 >物業&nbsp;1</h5><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >物業地點：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  > AA<br > <br > <br >  </span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人所佔業權：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >50%</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >貸款用於購入上述物業，並以物業作按揭或押記：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >是</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >居所貸款利息支出總額：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >$111</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人所佔已付的居所貸款利息數額：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >$1</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人獲配偶提名申請扣除本年度他／她所繳付的居所貸款利息：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >是</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人的配偶所佔業權：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >30%</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人的配偶所佔已付的居所貸款利息數額：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >$1</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人全年以上述物業作居所用途：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >是</span></div></div></div><div  class=\"re-mort-wrapper mt-4 ng-star-inserted\"><div  class=\"dept6\">借入貸款屬再次按揭貸款</div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >再次按揭貸款的貸款機構名稱：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >再次按揭貸款額：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >$1,111</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >於本年度就再次按揭貸款所支付的利息：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >$11</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >支付前次按揭貸款利息的期間：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >11/11/2022 - 11/12/2022</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >前次按揭貸款的贖回日期：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >10/</span><span  >10/</span><span  >2022</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >前次按揭貸款贖回時的餘額：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >$558</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >於本年度內就前次按揭貸款所支付的利息：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >$100</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >支付前次按揭貸款利息的期間：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >01/05/2022 - 11/09/2022</span></div></div></div></div></div><div  class=\"property-item-wrapper mt-4 ng-star-inserted\"><h5 >物業&nbsp;2</h5><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >物業地點：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  > BBB<br > <br > <br >  </span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人所佔業權：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >60%</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >貸款用於購入上述物業，並以物業作按揭或押記：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >是</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >居所貸款利息支出總額：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >$200</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人所佔已付的居所貸款利息數額：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >$22</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人獲配偶提名申請扣除本年度他／她所繳付的居所貸款利息：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >是</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人的配偶所佔業權：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >30%</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人的配偶所佔已付的居所貸款利息數額：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >$11</span></div></div></div><div  class=\"etax-line ml-8 ml-2 mt-1\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >本人全年以上述物業作居所用途：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><span  >否</span></div></div></div></div></div></div></div><div  class=\"others-confirmation ng-star-inserted\"><h3  class=\"mt-5\">其他</h3><h5  class=\"further-detials-title mt-4\">請於以下空格內註明有關報税表內的錯誤或遺漏，以及你擬作出的修訂。</h5><div  class=\"further-detials mt-4\">1288</div></div></div><div  class=\"file-list-wrapper mt-5\"><h4 >現傳遞以下附件以支持該要求。</h4><div  class=\"file-list ng-star-inserted\"><div  tabindex=\"0\" class=\"file-list-item mt-2 ng-star-inserted\"><span  class=\"order-number\">1. </span><span  class=\"file-name\">eee.pdf (Checksum: 30553e5ed42ad22c4a2c8e81e69cb79c)</span></div></div></div><div  class=\"etax-line ml-8 mb-3 ml-2 mt-5\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >配偶姓名：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"><div ><div ></div><div ></div></div></div></div></div><div  class=\"etax-line ml-8 mb-3 ml-2 mt-4\"><div   class=\"half text col-6 mr-3 ng-star-inserted\"><div  >  <span  >配偶身分證號碼：</span></div></div><div  class=\"col-5 ex-input-content half text\"><div  class=\"ex-validation-tip\"></div></div></div><div  class=\"mt-5 ng-star-inserted\"><p  class=\"mb-1\">請將此申請的副本以電子方式發給本人的税務代表（如適用的話）：</p><p  >台塲刑警                                    </p></div></section></div></body></html><!--ddhrtujiotrpjdhm3485779039rgjklgnmmkfgjko1568jrdyerombjthkpfmvdfhjfhfhwr3q3qhftjy-->"
+            },
+            "copyTrpInd": {
+                "value": "Y"
+            },
+            "businessCeasedIndPF": {
+                "value": ""
+            },
+            "signTerminate": {
+                "value": false
+            },
+            "paAckDetails": {
+                "value": ""
+            },
+            "ackDetails": {
+                "value": ""
+            },
+            "userSpouseMyIdPass": {
+                "value": ""
+            },
+            "signCount": {
+                "value": 0
+            },
+            "ensaForObjectionAndHoldoverFlag": {
+                "value": ""
+            },
+            "drPart": {
+                "propertyList": [
+                    {
+                        "tenancyToYYYY": {
+                            "value": ""
+                        },
+                        "noOfTenants": {
+                            "value": ""
+                        },
+                        "selfTenantInd": {
+                            "value": ""
+                        },
+                        "spseTenantInd": {
+                            "value": ""
+                        },
+                        "amountDr": {
+                            "value": ""
+                        },
+                        "nominated": {
+                            "value": "N"
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "tenancyFromDD": {
+                            "value": ""
+                        },
+                        "tenancyFromMM": {
+                            "value": ""
+                        },
+                        "tenancyFromYYYY": {
+                            "value": ""
+                        },
+                        "tenancyToDD": {
+                            "value": ""
+                        },
+                        "tenancyToMM": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "tenancyToYYYY": {
+                            "value": ""
+                        },
+                        "noOfTenants": {
+                            "value": ""
+                        },
+                        "selfTenantInd": {
+                            "value": ""
+                        },
+                        "spseTenantInd": {
+                            "value": ""
+                        },
+                        "amountDr": {
+                            "value": ""
+                        },
+                        "nominated": {
+                            "value": "N"
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "tenancyFromDD": {
+                            "value": ""
+                        },
+                        "tenancyFromMM": {
+                            "value": ""
+                        },
+                        "tenancyFromYYYY": {
+                            "value": ""
+                        },
+                        "tenancyToDD": {
+                            "value": ""
+                        },
+                        "tenancyToMM": {
+                            "value": ""
+                        }
+                    }
+                ],
+                "rentDeduction": {
+                    "value": ""
+                }
+            },
+            "hliPart": {
+                "propertyList": [
+                    {
+                        "totalInterestPay": {
+                            "value": "111"
+                        },
+                        "itShare": {
+                            "value": "30"
+                        },
+                        "obtained": {
+                            "value": "Y"
+                        },
+                        "mySharePay": {
+                            "value": "1"
+                        },
+                        "nominated": {
+                            "value": "Y"
+                        },
+                        "locationLangInd": {
+                            "value": "E"
+                        },
+                        "location1": {
+                            "value": "AA"
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "itSharePay": {
+                            "value": "1"
+                        },
+                        "occupied": {
+                            "value": "Y"
+                        },
+                        "reMortgaged": {
+                            "value": "Y"
+                        },
+                        "remortgageProperty": {
+                            "institution2": {
+                                "value": ""
+                            },
+                            "institution3": {
+                                "value": ""
+                            },
+                            "institution4": {
+                                "value": ""
+                            },
+                            "reInterest": {
+                                "value": "11"
+                            },
+                            "rePeriodFromDD": {
+                                "value": "11"
+                            },
+                            "rePeriodFromMM": {
+                                "value": "11"
+                            },
+                            "rePeriodFromYYYY": {
+                                "value": "2022"
+                            },
+                            "rePeriodToDD": {
+                                "value": "11"
+                            },
+                            "rePeriodToMM": {
+                                "value": "12"
+                            },
+                            "rePeriodToYYYY": {
+                                "value": "2022"
+                            },
+                            "rdmpDateDD": {
+                                "value": "10"
+                            },
+                            "rdmpDateMM": {
+                                "value": "10"
+                            },
+                            "rdmpDateYYYY": {
+                                "value": "2022"
+                            },
+                            "amount": {
+                                "value": "1111"
+                            },
+                            "interest": {
+                                "value": "100"
+                            },
+                            "periodFromDD": {
+                                "value": "01"
+                            },
+                            "periodFromMM": {
+                                "value": "05"
+                            },
+                            "periodFromYYYY": {
+                                "value": "2022"
+                            },
+                            "periodToDD": {
+                                "value": "11"
+                            },
+                            "periodToMM": {
+                                "value": "09"
+                            },
+                            "periodToYYYY": {
+                                "value": "2022"
+                            },
+                            "institutionLangInd": {
+                                "value": ""
+                            },
+                            "balance": {
+                                "value": "558"
+                            },
+                            "institution1": {
+                                "value": "AAA"
+                            }
+                        },
+                        "myShare": {
+                            "value": "50"
+                        }
+                    },
+                    {
+                        "totalInterestPay": {
+                            "value": "200"
+                        },
+                        "itShare": {
+                            "value": "30"
+                        },
+                        "obtained": {
+                            "value": "Y"
+                        },
+                        "mySharePay": {
+                            "value": "22"
+                        },
+                        "nominated": {
+                            "value": "Y"
+                        },
+                        "locationLangInd": {
+                            "value": "E"
+                        },
+                        "location1": {
+                            "value": "BBB"
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        },
+                        "itSharePay": {
+                            "value": "11"
+                        },
+                        "occupied": {
+                            "value": "N"
+                        },
+                        "reMortgaged": {
+                            "value": "N"
+                        },
+                        "remortgageProperty": {
+                            "institution2": {
+                                "value": ""
+                            },
+                            "institution3": {
+                                "value": ""
+                            },
+                            "institution4": {
+                                "value": ""
+                            },
+                            "reInterest": {
+                                "value": ""
+                            },
+                            "rePeriodFromDD": {
+                                "value": ""
+                            },
+                            "rePeriodFromMM": {
+                                "value": ""
+                            },
+                            "rePeriodFromYYYY": {
+                                "value": ""
+                            },
+                            "rePeriodToDD": {
+                                "value": ""
+                            },
+                            "rePeriodToMM": {
+                                "value": ""
+                            },
+                            "rePeriodToYYYY": {
+                                "value": ""
+                            },
+                            "rdmpDateDD": {
+                                "value": ""
+                            },
+                            "rdmpDateMM": {
+                                "value": ""
+                            },
+                            "rdmpDateYYYY": {
+                                "value": ""
+                            },
+                            "amount": {
+                                "value": ""
+                            },
+                            "interest": {
+                                "value": ""
+                            },
+                            "periodFromDD": {
+                                "value": ""
+                            },
+                            "periodFromMM": {
+                                "value": ""
+                            },
+                            "periodFromYYYY": {
+                                "value": ""
+                            },
+                            "periodToDD": {
+                                "value": ""
+                            },
+                            "periodToMM": {
+                                "value": ""
+                            },
+                            "periodToYYYY": {
+                                "value": ""
+                            },
+                            "institutionLangInd": {
+                                "value": ""
+                            },
+                            "balance": {
+                                "value": ""
+                            },
+                            "institution1": {
+                                "value": ""
+                            }
+                        },
+                        "myShare": {
+                            "value": "60"
+                        }
+                    }
+                ]
+            },
+            "allowanceCheckBoxFlag": {
+                "value": "Y"
+            },
+            "premiums2": {
+                "value": "N"
+            },
+            "premiums": {
+                "value": "N"
+            },
+            "dr": {
+                "value": "N"
+            },
+            "personalDisability": {
+                "value": ""
+            },
+            "brotherSister": {
+                "value": ""
+            },
+            "cessationDDPF": {
+                "value": ""
+            },
+            "disposalDDPT": {
+                "value": ""
+            },
+            "propertyDisposalIndPT": {
+                "value": ""
+            },
+            "userLang": {
+                "value": "zh"
+            },
+            "personalPart": {
+                "enFullName": {
+                    "value": "CHONG, BING YIN"
+                },
+                "enSurname": {
+                    "value": ""
+                },
+                "enOtherName": {
+                    "value": ""
+                },
+                "cnName": {
+                    "value": "莊秉賢"
+                },
+                "hkicNum": {
+                    "value": ""
+                },
+                "hkicNew": {
+                    "value": ""
+                },
+                "hkicNewChks": {
+                    "value": ""
+                },
+                "nationality": {
+                    "value": ""
+                },
+                "passportNo": {
+                    "value": ""
+                },
+                "hkicChks": {
+                    "value": ""
+                },
+                "prevMaritalStatus": {
+                    "value": ""
+                },
+                "spouseNamePrefix": {
+                    "value": "1"
+                },
+                "spouseEnSurname": {
+                    "value": "AA"
+                },
+                "spouseEnOtherName": {
+                    "value": "BB"
+                },
+                "spouseCnName": {
+                    "value": ""
+                },
+                "spouseHkicNum": {
+                    "value": "Y371507"
+                },
+                "spouseHkicChks": {
+                    "value": "6"
+                },
+                "spouseNationality": {
+                    "value": ""
+                },
+                "spouseHasHkicInd": {
+                    "value": "Y"
+                },
+                "hasHkicInd": {
+                    "value": ""
+                },
+                "spouseNationalityLangInd": {
+                    "value": ""
+                },
+                "nationalityLangInd": {
+                    "value": ""
+                },
+                "spousePassportNo": {
+                    "value": ""
+                },
+                "maritalStatus": {
+                    "value": ""
+                },
+                "namePrefix": {
+                    "value": ""
+                }
+            },
+            "dpaDgaHkicST": {
+                "value": ""
+            }
+        },
+        "router": {
+            "findForward": {
+                "value": "this"
+            }
+        }
+    }
+}

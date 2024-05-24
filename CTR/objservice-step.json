@@ -1,0 +1,1602 @@
+{
+    "data": {
+        "form": {
+            "vhisObj": {
+                "vhisRelatives": [
+                    {
+                        "birthDateMM": {
+                            "value": ""
+                        },
+                        "birthDateYY": {
+                            "value": ""
+                        },
+                        "cbsEdu": {
+                            "value": ""
+                        },
+                        "cbsParentHkicNum": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "disParentInd": {
+                            "value": "N"
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "cbsParentHkicChks": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "birthDateDD": {
+                            "value": ""
+                        },
+                        "hkicNum": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "birthDateMM": {
+                            "value": ""
+                        },
+                        "birthDateYY": {
+                            "value": ""
+                        },
+                        "cbsEdu": {
+                            "value": ""
+                        },
+                        "cbsParentHkicNum": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "disParentInd": {
+                            "value": "N"
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "cbsParentHkicChks": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "birthDateDD": {
+                            "value": ""
+                        },
+                        "hkicNum": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "birthDateMM": {
+                            "value": ""
+                        },
+                        "birthDateYY": {
+                            "value": ""
+                        },
+                        "cbsEdu": {
+                            "value": ""
+                        },
+                        "cbsParentHkicNum": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "disParentInd": {
+                            "value": "N"
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "cbsParentHkicChks": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "birthDateDD": {
+                            "value": ""
+                        },
+                        "hkicNum": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "birthDateMM": {
+                            "value": ""
+                        },
+                        "birthDateYY": {
+                            "value": ""
+                        },
+                        "cbsEdu": {
+                            "value": ""
+                        },
+                        "cbsParentHkicNum": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "disParentInd": {
+                            "value": "N"
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "cbsParentHkicChks": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "birthDateDD": {
+                            "value": ""
+                        },
+                        "hkicNum": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    }
+                ],
+                "selfAmount": {
+                    "value": ""
+                }
+            },
+            "child": {
+                "value": ""
+            },
+            "mpftvcObj": {
+                "annuitySelf": {
+                    "value": ""
+                },
+                "annuitySpouse": {
+                    "value": ""
+                },
+                "mpftvcAcHolderInd": {
+                    "value": ""
+                },
+                "mpf": {
+                    "value": ""
+                }
+            },
+            "allowanceCheckBoxFlag": {
+                "value": "N"
+            },
+            "hliPart": {
+                "propertyList": {}
+            },
+            "drPart": {
+                "rentDeduction": {
+                    "value": ""
+                },
+                "propertyList": {}
+            },
+            "signCount": {
+                "value": 0
+            },
+            "signTerminate": {
+                "value": false
+            },
+            "copyTrpInd": {
+                "value": "N"
+            },
+            "submitAction": {
+                "value": "continue"
+            },
+            "objection": {
+                "assNotices": [
+                    {
+                        "brn": {
+                            "value": "0"
+                        },
+                        "formattedChargeNo": {
+                            "value": "9-0003857-20-8"
+                        },
+                        "assYear": {
+                            "value": "2020"
+                        },
+                        "noticeTypeEng": {
+                            "value": "Notice of Salaries Tax Revised Assessment"
+                        },
+                        "noticeTypeChn": {
+                            "value": "薪俸税修訂評税通知書"
+                        },
+                        "assessYrDisplay": {
+                            "value": "2019/20"
+                        },
+                        "issueDate": {
+                            "value": "2020-11-21T16:00:00Z"
+                        },
+                        "assessType": {
+                            "value": "3"
+                        },
+                        "chargeNum": {
+                            "value": "00038578"
+                        },
+                        "taxType": {
+                            "value": "9"
+                        },
+                        "returnType": {
+                            "value": "R"
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": "0"
+                        },
+                        "formattedChargeNo": {
+                            "value": "---"
+                        },
+                        "assYear": {
+                            "value": "2020"
+                        },
+                        "noticeTypeEng": {
+                            "value": "Notice of Property Tax Revised Assessment"
+                        },
+                        "noticeTypeChn": {
+                            "value": "物業税修訂評税通知書"
+                        },
+                        "assessYrDisplay": {
+                            "value": "2019/20"
+                        },
+                        "issueDate": {
+                            "value": "2020-11-21T16:00:00Z"
+                        },
+                        "assessType": {
+                            "value": "3"
+                        },
+                        "chargeNum": {
+                            "value": "00000000"
+                        },
+                        "taxType": {
+                            "value": "7"
+                        },
+                        "returnType": {
+                            "value": "R"
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": "8677825"
+                        },
+                        "formattedChargeNo": {
+                            "value": "---"
+                        },
+                        "assYear": {
+                            "value": "2020"
+                        },
+                        "noticeTypeEng": {
+                            "value": "Notice of Profits Tax Revised Assessment"
+                        },
+                        "noticeTypeChn": {
+                            "value": "利得税修訂評税通知書"
+                        },
+                        "assessYrDisplay": {
+                            "value": "2019/20"
+                        },
+                        "issueDate": {
+                            "value": "2020-11-21T16:00:00Z"
+                        },
+                        "assessType": {
+                            "value": "3"
+                        },
+                        "chargeNum": {
+                            "value": "00000000"
+                        },
+                        "taxType": {
+                            "value": "3"
+                        },
+                        "returnType": {
+                            "value": "R"
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": "0"
+                        },
+                        "formattedChargeNo": {
+                            "value": "6-0003858-20-A"
+                        },
+                        "assYear": {
+                            "value": "2020"
+                        },
+                        "noticeTypeEng": {
+                            "value": "Notice of Revised  Personal Assessment"
+                        },
+                        "noticeTypeChn": {
+                            "value": "個人入息課税修訂評税通知書"
+                        },
+                        "assessYrDisplay": {
+                            "value": "2019/20"
+                        },
+                        "issueDate": {
+                            "value": "2020-11-21T16:00:00Z"
+                        },
+                        "assessType": {
+                            "value": "3"
+                        },
+                        "chargeNum": {
+                            "value": "0003858A"
+                        },
+                        "taxType": {
+                            "value": "6"
+                        },
+                        "returnType": {
+                            "value": "R"
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": "8677825"
+                        },
+                        "formattedChargeNo": {
+                            "value": "---"
+                        },
+                        "assYear": {
+                            "value": "2020"
+                        },
+                        "noticeTypeEng": {
+                            "value": "Notice of Profits Tax Revised Assessment"
+                        },
+                        "noticeTypeChn": {
+                            "value": "利得税修訂評税通知書"
+                        },
+                        "assessYrDisplay": {
+                            "value": "2019/20"
+                        },
+                        "issueDate": {
+                            "value": "2020-11-04T16:00:00Z"
+                        },
+                        "assessType": {
+                            "value": "3"
+                        },
+                        "chargeNum": {
+                            "value": "00000000"
+                        },
+                        "taxType": {
+                            "value": "3"
+                        },
+                        "returnType": {
+                            "value": "R"
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": "0"
+                        },
+                        "formattedChargeNo": {
+                            "value": "6-0003241-20-2"
+                        },
+                        "assYear": {
+                            "value": "2020"
+                        },
+                        "noticeTypeEng": {
+                            "value": "Notice of  Personal Assessment"
+                        },
+                        "noticeTypeChn": {
+                            "value": "個人入息課税評税通知書"
+                        },
+                        "assessYrDisplay": {
+                            "value": "2019/20"
+                        },
+                        "issueDate": {
+                            "value": "2020-11-03T16:00:00Z"
+                        },
+                        "assessType": {
+                            "value": "3"
+                        },
+                        "chargeNum": {
+                            "value": "00032412"
+                        },
+                        "taxType": {
+                            "value": "6"
+                        },
+                        "returnType": {
+                            "value": "O"
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": "0"
+                        },
+                        "formattedChargeNo": {
+                            "value": "9-0003101-20-0"
+                        },
+                        "assYear": {
+                            "value": "2020"
+                        },
+                        "noticeTypeEng": {
+                            "value": "Notice of Salaries Tax Assessment"
+                        },
+                        "noticeTypeChn": {
+                            "value": "薪俸税評税通知書"
+                        },
+                        "assessYrDisplay": {
+                            "value": "2019/20"
+                        },
+                        "issueDate": {
+                            "value": "2020-11-02T16:00:00Z"
+                        },
+                        "assessType": {
+                            "value": "1"
+                        },
+                        "chargeNum": {
+                            "value": "00031010"
+                        },
+                        "taxType": {
+                            "value": "9"
+                        },
+                        "returnType": {
+                            "value": "O"
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": "0"
+                        },
+                        "formattedChargeNo": {
+                            "value": "7-0003100-20-8"
+                        },
+                        "assYear": {
+                            "value": "2020"
+                        },
+                        "noticeTypeEng": {
+                            "value": "Notice of Property Tax Assessment"
+                        },
+                        "noticeTypeChn": {
+                            "value": "物業税評税通知書"
+                        },
+                        "assessYrDisplay": {
+                            "value": "2019/20"
+                        },
+                        "issueDate": {
+                            "value": "2020-11-02T16:00:00Z"
+                        },
+                        "assessType": {
+                            "value": "1"
+                        },
+                        "chargeNum": {
+                            "value": "00031008"
+                        },
+                        "taxType": {
+                            "value": "7"
+                        },
+                        "returnType": {
+                            "value": "O"
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": "8677825"
+                        },
+                        "formattedChargeNo": {
+                            "value": "3-0003102-20-8"
+                        },
+                        "assYear": {
+                            "value": "2020"
+                        },
+                        "noticeTypeEng": {
+                            "value": "Notice of Profits Tax Assessment"
+                        },
+                        "noticeTypeChn": {
+                            "value": "利得税評税通知書"
+                        },
+                        "assessYrDisplay": {
+                            "value": "2019/20"
+                        },
+                        "issueDate": {
+                            "value": "2020-11-02T16:00:00Z"
+                        },
+                        "assessType": {
+                            "value": "1"
+                        },
+                        "chargeNum": {
+                            "value": "00031028"
+                        },
+                        "taxType": {
+                            "value": "3"
+                        },
+                        "returnType": {
+                            "value": "O"
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": "0"
+                        },
+                        "formattedChargeNo": {
+                            "value": "7-0018847-18-5"
+                        },
+                        "assYear": {
+                            "value": "2018"
+                        },
+                        "noticeTypeEng": {
+                            "value": "Notice of Property Tax Assessment"
+                        },
+                        "noticeTypeChn": {
+                            "value": "物業税評税通知書"
+                        },
+                        "assessYrDisplay": {
+                            "value": "2017/18"
+                        },
+                        "issueDate": {
+                            "value": "2019-11-27T16:00:00Z"
+                        },
+                        "assessType": {
+                            "value": "3"
+                        },
+                        "chargeNum": {
+                            "value": "00188475"
+                        },
+                        "taxType": {
+                            "value": "7"
+                        },
+                        "returnType": {
+                            "value": "O"
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": "8677825"
+                        },
+                        "formattedChargeNo": {
+                            "value": "3-0018848-18-9"
+                        },
+                        "assYear": {
+                            "value": "2018"
+                        },
+                        "noticeTypeEng": {
+                            "value": "Notice of Profits Tax Assessment"
+                        },
+                        "noticeTypeChn": {
+                            "value": "利得税評税通知書"
+                        },
+                        "assessYrDisplay": {
+                            "value": "2017/18"
+                        },
+                        "issueDate": {
+                            "value": "2019-11-27T16:00:00Z"
+                        },
+                        "assessType": {
+                            "value": "3"
+                        },
+                        "chargeNum": {
+                            "value": "00188489"
+                        },
+                        "taxType": {
+                            "value": "3"
+                        },
+                        "returnType": {
+                            "value": "O"
+                        }
+                    }
+                ],
+                "selectedObjAss": {
+                    "value": ""
+                },
+                "yearOfAssPart1": {
+                    "value": ""
+                },
+                "yearOfAssPart2": {
+                    "value": ""
+                },
+                "taxType": {
+                    "value": ""
+                },
+                "chargeNoPart1": {
+                    "value": ""
+                },
+                "chargeNoPart2": {
+                    "value": ""
+                },
+                "rtnSts": {
+                    "value": false
+                },
+                "curAssYear": {
+                    "value": 2023
+                },
+                "brn": {
+                    "value": ""
+                },
+                "selectedWish": {
+                    "value": ""
+                },
+                "options": {},
+                "details": {
+                    "value": ""
+                },
+                "chargeNoPart4": {
+                    "value": ""
+                },
+                "chargeNoPart3": {
+                    "value": ""
+                }
+            },
+            "taxType": {
+                "value": ""
+            },
+            "brn": {
+                "value": ""
+            },
+            "screenId": {
+                "value": "SC-874-0001"
+            },
+            "uploadFileArray": {},
+            "disabledAllow": {},
+            "userLang": {
+                "value": "en"
+            },
+            "targetPartIndex": {
+                "value": ""
+            },
+            "accountObjectId": {
+                "value": "1000027588"
+            },
+            "refNum": {
+                "value": "5572312221052523"
+            },
+            "loginMechan": {
+                "value": "1"
+            },
+            "osName": {
+                "value": "Windows"
+            },
+            "browserVersion": {
+                "value": "120.0.0.0"
+            },
+            "browserName": {
+                "value": "Chrome"
+            },
+            "certRegName": {
+                "value": "郭＊新蓮"
+            },
+            "accessMode": {
+                "value": "L"
+            },
+            "ssoTokenId": {
+                "value": "N/A"
+            },
+            "appName": {
+                "value": "obj"
+            },
+            "prn": {
+                "value": "XE7770047"
+            },
+            "tin": {
+                "value": "3338879276"
+            },
+            "smartIDLogin": {
+                "value": ""
+            },
+            "certId": {
+                "value": ""
+            },
+            "certMediaType": {
+                "value": ""
+            },
+            "orgName": {
+                "value": ""
+            },
+            "certPath": {
+                "value": ""
+            },
+            "assessYear": {
+                "value": ""
+            },
+            "yearOfAssess": {
+                "value": ""
+            },
+            "yearOfAssess2": {
+                "value": ""
+            },
+            "chargeNumber": {
+                "value": ""
+            },
+            "formattedChargeNum": {
+                "value": ""
+            },
+            "assessTypeDMS": {
+                "value": ""
+            },
+            "assessType": {
+                "value": ""
+            },
+            "appStartDate": {
+                "value": "2023-12-22 15:01:29"
+            },
+            "paDetailContent": {
+                "value": ""
+            },
+            "electPAOption": {
+                "value": ""
+            },
+            "spouseElectOption": {
+                "value": ""
+            },
+            "numOfPartnerBusiness": {
+                "value": ""
+            },
+            "numOfProperty": {
+                "value": ""
+            },
+            "charity": {
+                "value": ""
+            },
+            "allowanceOption1": {
+                "value": ""
+            },
+            "allowanceOption2": {
+                "value": ""
+            },
+            "allowanceOption3": {
+                "value": ""
+            },
+            "allowanceOption4": {
+                "value": ""
+            },
+            "allowanceOption5": {
+                "value": ""
+            },
+            "allowanceOption6": {
+                "value": ""
+            },
+            "allowanceOption7": {
+                "value": ""
+            },
+            "allowanceOption8": {
+                "value": ""
+            },
+            "deductOption1": {
+                "value": ""
+            },
+            "deductOption2": {
+                "value": ""
+            },
+            "deductOption3": {
+                "value": ""
+            },
+            "spouseSubmissionOption": {
+                "value": ""
+            },
+            "osVersion": {
+                "value": "windows-10"
+            },
+            "userSpouseTin": {
+                "value": ""
+            },
+            "userSpouseTinPass": {
+                "value": ""
+            },
+            "userSpouseHkic": {
+                "value": ""
+            },
+            "userSpouseHkicChk": {
+                "value": ""
+            },
+            "spouseECertSignInd": {
+                "value": ""
+            },
+            "spousePin": {
+                "value": ""
+            },
+            "userName": {
+                "value": "KWOK, SUN LIN*NP IS CHANGED"
+            },
+            "userNameChn": {
+                "value": "郭＊新蓮"
+            },
+            "spouseName": {
+                "value": ""
+            },
+            "spouseNameChn": {
+                "value": ""
+            },
+            "formatedAssessYear4Holdover": {
+                "value": ""
+            },
+            "incomeReductIndST": {
+                "value": ""
+            },
+            "incomeAmtST": {
+                "value": ""
+            },
+            "allowanceClaimIndST": {
+                "value": ""
+            },
+            "mpaIndST": {
+                "value": ""
+            },
+            "marriageDDST": {
+                "value": ""
+            },
+            "marriageMMST": {
+                "value": ""
+            },
+            "marriageYYYYST": {
+                "value": ""
+            },
+            "caIndST": {
+                "value": ""
+            },
+            "bsaIndST": {
+                "value": ""
+            },
+            "caBsaBirthDDST": {
+                "value": ""
+            },
+            "caBsaBirthMMST": {
+                "value": ""
+            },
+            "caBsaBirthYYYYST": {
+                "value": ""
+            },
+            "dpaDgaIndST": {
+                "value": ""
+            },
+            "dpaDgaHkicST": {
+                "value": ""
+            },
+            "dpaDgaHkicCDST": {
+                "value": ""
+            },
+            "dpaDgaBirthDDST": {
+                "value": ""
+            },
+            "dpaDgaBirthMMST": {
+                "value": ""
+            },
+            "dpaDgaBirthYYYYST": {
+                "value": ""
+            },
+            "dpaDgaResidingIndST": {
+                "value": ""
+            },
+            "dddmaIndST": {
+                "value": ""
+            },
+            "ddmaNameST": {
+                "value": ""
+            },
+            "pdaIndST": {
+                "value": ""
+            },
+            "reductionClaimIndST": {
+                "value": ""
+            },
+            "hliIndST": {
+                "value": ""
+            },
+            "hliAmtST": {
+                "value": ""
+            },
+            "drIndST": {
+                "value": ""
+            },
+            "drAmtST": {
+                "value": ""
+            },
+            "othersIndST": {
+                "value": ""
+            },
+            "othersAmtST": {
+                "value": ""
+            },
+            "personalPart": {
+                "hasHkicInd": {
+                    "value": ""
+                },
+                "spouseHasHkicInd": {
+                    "value": ""
+                },
+                "namePrefix": {
+                    "value": ""
+                },
+                "hkicChks": {
+                    "value": ""
+                },
+                "hkicNum": {
+                    "value": ""
+                },
+                "enFullName": {
+                    "value": "KWOK, SUN LIN*NP IS CHANGED"
+                },
+                "enSurname": {
+                    "value": ""
+                },
+                "enOtherName": {
+                    "value": ""
+                },
+                "cnName": {
+                    "value": "郭＊新蓮"
+                },
+                "hkicNew": {
+                    "value": ""
+                },
+                "hkicNewChks": {
+                    "value": ""
+                },
+                "nationality": {
+                    "value": ""
+                },
+                "passportNo": {
+                    "value": ""
+                },
+                "maritalStatus": {
+                    "value": ""
+                },
+                "prevMaritalStatus": {
+                    "value": ""
+                },
+                "spouseNamePrefix": {
+                    "value": ""
+                },
+                "spouseEnSurname": {
+                    "value": ""
+                },
+                "spouseEnOtherName": {
+                    "value": ""
+                },
+                "spouseCnName": {
+                    "value": ""
+                },
+                "spouseHkicNum": {
+                    "value": ""
+                },
+                "spouseHkicChks": {
+                    "value": ""
+                },
+                "spouseNationality": {
+                    "value": ""
+                },
+                "spousePassportNo": {
+                    "value": ""
+                },
+                "nationalityLangInd": {
+                    "value": ""
+                },
+                "spouseNationalityLangInd": {
+                    "value": ""
+                }
+            },
+            "filingAvailableFlag": {
+                "value": false
+            },
+            "currentStep": {
+                "value": 1
+            },
+            "requester": {
+                "value": 0
+            },
+            "comeFromScreen": {
+                "value": ""
+            },
+            "allowance": {
+                "motherNameLangInd": {
+                    "value": ""
+                },
+                "fatherNameLangInd": {
+                    "value": ""
+                },
+                "fatherName": {
+                    "value": ""
+                },
+                "fatherHkic": {
+                    "value": ""
+                },
+                "fatherHkicChks": {
+                    "value": ""
+                },
+                "motherName": {
+                    "value": ""
+                },
+                "motherHkic": {
+                    "value": ""
+                },
+                "parentAllow": [
+                    {
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "hkic": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "resided": {
+                            "value": ""
+                        },
+                        "residedSelected": {
+                            "value": ""
+                        },
+                        "liveHK": {
+                            "value": ""
+                        },
+                        "contributed": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "residential1": {
+                            "value": ""
+                        },
+                        "residential2": {
+                            "value": ""
+                        },
+                        "residential3": {
+                            "value": ""
+                        },
+                        "residentialLangInd": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "hkic": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "resided": {
+                            "value": ""
+                        },
+                        "residedSelected": {
+                            "value": ""
+                        },
+                        "liveHK": {
+                            "value": ""
+                        },
+                        "contributed": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "residential1": {
+                            "value": ""
+                        },
+                        "residential2": {
+                            "value": ""
+                        },
+                        "residential3": {
+                            "value": ""
+                        },
+                        "residentialLangInd": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "hkic": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "resided": {
+                            "value": ""
+                        },
+                        "residedSelected": {
+                            "value": ""
+                        },
+                        "liveHK": {
+                            "value": ""
+                        },
+                        "contributed": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "residential1": {
+                            "value": ""
+                        },
+                        "residential2": {
+                            "value": ""
+                        },
+                        "residential3": {
+                            "value": ""
+                        },
+                        "residentialLangInd": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "hkic": {
+                            "value": ""
+                        },
+                        "hkicChks": {
+                            "value": ""
+                        },
+                        "resided": {
+                            "value": ""
+                        },
+                        "residedSelected": {
+                            "value": ""
+                        },
+                        "liveHK": {
+                            "value": ""
+                        },
+                        "contributed": {
+                            "value": ""
+                        },
+                        "amount": {
+                            "value": ""
+                        },
+                        "residential1": {
+                            "value": ""
+                        },
+                        "residential2": {
+                            "value": ""
+                        },
+                        "residential3": {
+                            "value": ""
+                        },
+                        "residentialLangInd": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    }
+                ],
+                "childAllow": [
+                    {
+                        "dobDD": {
+                            "value": ""
+                        },
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "over18": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "dobDD": {
+                            "value": ""
+                        },
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "over18": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "dobDD": {
+                            "value": ""
+                        },
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "over18": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "dobDD": {
+                            "value": ""
+                        },
+                        "dobMM": {
+                            "value": ""
+                        },
+                        "dobYYYY": {
+                            "value": ""
+                        },
+                        "over18": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "disabled": {
+                            "value": "N"
+                        },
+                        "relationship": {
+                            "value": ""
+                        },
+                        "name": {
+                            "value": ""
+                        }
+                    }
+                ],
+                "claimMarried": {
+                    "value": "N"
+                },
+                "spouseIncome": {
+                    "value": ""
+                },
+                "claimDisabled": {
+                    "value": ""
+                },
+                "claimPersonal": {
+                    "value": "N"
+                },
+                "claimChild": {
+                    "value": "N"
+                },
+                "claimSingle": {
+                    "value": "N"
+                },
+                "careOfChild": {
+                    "value": ""
+                },
+                "claimElder": {
+                    "value": "N"
+                },
+                "motherHkicChks": {
+                    "value": ""
+                }
+            },
+            "htmlText": {
+                "value": ""
+            },
+            "businessCeasedIndPF": {
+                "value": ""
+            },
+            "paAckDetails": {
+                "value": ""
+            },
+            "marriedPerson": {
+                "value": ""
+            },
+            "singleParent": {
+                "value": ""
+            },
+            "parentGrandparent": {
+                "value": ""
+            },
+            "elderlyResidentalCare": {
+                "value": ""
+            },
+            "brotherSister": {
+                "value": ""
+            },
+            "disabledDependent": {
+                "value": ""
+            },
+            "personalDisability": {
+                "value": ""
+            },
+            "propertyAddressPT": {
+                "value": ""
+            },
+            "incomeReductIndPT": {
+                "value": ""
+            },
+            "rentReductIndPT": {
+                "value": ""
+            },
+            "vacantIndPT": {
+                "value": ""
+            },
+            "selfOccupiedIndPT": {
+                "value": ""
+            },
+            "riRentalIncomePT": {
+                "value": ""
+            },
+            "propertyDisposalIndPT": {
+                "value": ""
+            },
+            "disposalDDPT": {
+                "value": ""
+            },
+            "disposalMMPT": {
+                "value": ""
+            },
+            "disposalYYYYPT": {
+                "value": ""
+            },
+            "dpRentalIncomePT": {
+                "value": ""
+            },
+            "othersIndPT": {
+                "value": ""
+            },
+            "businessNamePF": {
+                "value": ""
+            },
+            "profitIndPF": {
+                "value": ""
+            },
+            "profitAmtPF": {
+                "value": ""
+            },
+            "cessationDDPF": {
+                "value": ""
+            },
+            "cessationMMPF": {
+                "value": ""
+            },
+            "cessationYYYYPF": {
+                "value": ""
+            },
+            "ceasedBusinessProfitPF": {
+                "value": ""
+            },
+            "othersIndPF": {
+                "value": ""
+            },
+            "ackDetails": {
+                "value": ""
+            },
+            "userSpouseMyIdPass": {
+                "value": ""
+            },
+            "spouseDisabled": {
+                "value": ""
+            },
+            "spouseIncomeChargeable": {
+                "value": ""
+            },
+            "drObj": {
+                "propertyList": [
+                    {
+                        "tenancyFromDD": {
+                            "value": ""
+                        },
+                        "tenancyFromMM": {
+                            "value": ""
+                        },
+                        "tenancyFromYYYY": {
+                            "value": ""
+                        },
+                        "tenancyToDD": {
+                            "value": ""
+                        },
+                        "tenancyToMM": {
+                            "value": ""
+                        },
+                        "tenancyToYYYY": {
+                            "value": ""
+                        },
+                        "noOfTenants": {
+                            "value": ""
+                        },
+                        "selfTenantInd": {
+                            "value": ""
+                        },
+                        "spseTenantInd": {
+                            "value": ""
+                        },
+                        "amountDr": {
+                            "value": ""
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "tenancyFromDD": {
+                            "value": ""
+                        },
+                        "tenancyFromMM": {
+                            "value": ""
+                        },
+                        "tenancyFromYYYY": {
+                            "value": ""
+                        },
+                        "tenancyToDD": {
+                            "value": ""
+                        },
+                        "tenancyToMM": {
+                            "value": ""
+                        },
+                        "tenancyToYYYY": {
+                            "value": ""
+                        },
+                        "noOfTenants": {
+                            "value": ""
+                        },
+                        "selfTenantInd": {
+                            "value": ""
+                        },
+                        "spseTenantInd": {
+                            "value": ""
+                        },
+                        "amountDr": {
+                            "value": ""
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "location4": {
+                            "value": ""
+                        }
+                    }
+                ]
+            },
+            "ensaForObjectionAndHoldoverFlag": {
+                "value": ""
+            },
+            "premiums2": {
+                "value": ""
+            },
+            "premiums": {
+                "value": ""
+            },
+            "dr": {
+                "value": ""
+            },
+            "hli": {
+                "value": ""
+            }
+        },
+        "router": {
+            "findForward": {
+                "value": "continue"
+            }
+        }
+    },
+    "code": {
+        "value": "0"
+    },
+    "errors": {},
+    "msg": {
+        "value": "success"
+    }
+}

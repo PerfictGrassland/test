@@ -1,0 +1,55 @@
+{
+    "errors": {},
+    "code": {
+        "value": "0"
+    },
+    "data": {
+        "router": {
+            "findForward": {
+                "value": "continue"
+            }
+        },
+        "form": {
+            "screenId": {
+                "value": "SC-546-0010"
+            },
+            "copInfo": {
+                "tranTimeDisplay": {
+                    "value": "17:43:13"
+                },
+                "tranDateChDisplay": {
+                    "value": "2024&#x5E74;2&#x6708;4&#x65E5;"
+                },
+                "trn": {
+                    "value": "5462402041072380"
+                },
+                "trnDisplay": {
+                    "value": "5462 4020 4107 2360"
+                },
+                "tranDateDisplay": {
+                    "value": "04 Feb 2024"
+                },
+                "shroffAcctNum": {
+                    "chkDigit": {
+                        "value": "6"
+                    },
+                    "assessYr": {
+                        "value": "13"
+                    },
+                    "taxType": {
+                        "value": "7"
+                    },
+                    "serialNum": {
+                        "value": "0001106"
+                    }
+                }
+            },
+            "copRtnCode": {
+                "value": "0"
+            },
+            "eMsgId": {
+                "value": "123"
+            }
+        }
+    }
+}

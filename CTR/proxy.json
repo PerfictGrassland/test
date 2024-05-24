@@ -1,0 +1,15 @@
+{
+    "code": 0,
+    "data": {
+        "code": "0",
+        "message": "success",
+        "data": {
+            "flag_ALL_Suspend_Flag": {
+                "flag_ALL_Suspend_Flag": "F"
+            },
+            "flag_MSG_Suspend_Flag": {
+                "flag_MSG_Suspend_Flag": "F"
+            }
+        }
+    }
+}

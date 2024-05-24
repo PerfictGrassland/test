@@ -1,0 +1,2548 @@
+{
+    "msg": {
+        "value": "success"
+    },
+    "code": {
+        "value": "0"
+    },
+    "errors": {},
+    "data": {
+        "router": {
+            "findForward": {
+                "value": "ok"
+            }
+        },
+        "form": {
+            "shroffAcctNum": {
+                "value": "NULL"
+            },
+            "netFstInstal": {
+                "value": "NULL"
+            },
+            "netSecInstal": {
+                "value": "NULL"
+            },
+            "amtFstInstal": {
+                "value": "NULL"
+            },
+            "amtSecInstal": {
+                "value": "NULL"
+            },
+            "totAmtSurchrg": {
+                "value": "NULL"
+            },
+            "totAmtTaxSurchrg": {
+                "value": "NULL"
+            },
+            "chrgNumCps": {
+                "value": "NULL"
+            },
+            "secAmt": {
+                "value": "NULL"
+            },
+            "amt": {
+                "value": "NULL"
+            },
+            "amtPayable": {
+                "value": "NULL"
+            },
+            "amtOsOverpaid": {
+                "value": "NULL"
+            },
+            "loginmeans": {
+                "value": "L"
+            },
+            "chrgDue1Dt": {
+                "value": "NULL"
+            },
+            "chrgDue2Dt": {
+                "value": "NULL"
+            },
+            "chrgDue1DtEng": {
+                "value": ""
+            },
+            "chrgDue1DtChn": {
+                "value": ""
+            },
+            "chrgDue2DtEng": {
+                "value": ""
+            },
+            "chrgDue2DtChn": {
+                "value": ""
+            },
+            "COPSuspend": {
+                "value": false
+            },
+            "emessageToEnp": {
+                "value": false
+            },
+            "sessionNumber": {
+                "value": "IReR9f0ot_6L_MZ-3eZjlbdV04"
+            },
+            "payInfoArray": [
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "7-0000239-23-A"
+                    },
+                    "chrgNumCps": {
+                        "value": "7000023923A"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.properties"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "3-0000239-23-7"
+                    },
+                    "chrgNumCps": {
+                        "value": "30000239237"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "brnCps": {
+                        "value": "53566"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.profits"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "1996&#x5E74;3&#x6708;9&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "09 Mar 1996"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0500039-95-3"
+                    },
+                    "chrgNumCps": {
+                        "value": "90500039953"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "1994/95"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "1996-03-09"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "09 MAR 1996"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "1995&#x5E74;1&#x6708;16&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "16 Jan 1995"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0400326-94-2"
+                    },
+                    "chrgNumCps": {
+                        "value": "90400326942"
+                    },
+                    "signOsChrg": {
+                        "value": "-"
+                    },
+                    "osChrg": {
+                        "value": "                 100.00"
+                    },
+                    "fieldColor": {
+                        "value": "no change"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "1993/94"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "1995-01-16"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "16 JAN 1995"
+                    }
+                }
+            ],
+            "overPaidpayInfoArray": [
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "1995&#x5E74;1&#x6708;16&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "16 Jan 1995"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0400326-94-2"
+                    },
+                    "chrgNumCps": {
+                        "value": "90400326942"
+                    },
+                    "signOsChrg": {
+                        "value": "-"
+                    },
+                    "osChrg": {
+                        "value": "                 100.00"
+                    },
+                    "fieldColor": {
+                        "value": "no change"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "1993/94"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "1995-01-16"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "16 JAN 1995"
+                    }
+                }
+            ],
+            "outStandpayInfoArray": [
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0000239-23-6"
+                    },
+                    "chrgNumCps": {
+                        "value": "90000239236"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "7-0000239-23-A"
+                    },
+                    "chrgNumCps": {
+                        "value": "7000023923A"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.properties"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "2023&#x5E74;7&#x6708;22&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "22 Jul 2023"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "3-0000239-23-7"
+                    },
+                    "chrgNumCps": {
+                        "value": "30000239237"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "brnCps": {
+                        "value": "53566"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "2022/23"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.profits"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "2023-07-22"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "22 JUL 2023"
+                    }
+                },
+                {
+                    "issueDtCpsStrChn": {
+                        "value": "1996&#x5E74;3&#x6708;9&#x65E5;"
+                    },
+                    "issueDtCpsStrEng": {
+                        "value": "09 Mar 1996"
+                    },
+                    "chrgNumCpsDisplayStr": {
+                        "value": "9-0500039-95-3"
+                    },
+                    "chrgNumCps": {
+                        "value": "90500039953"
+                    },
+                    "signOsChrg": {
+                        "value": "+"
+                    },
+                    "osChrg": {
+                        "value": "              12,700.00"
+                    },
+                    "fieldColor": {
+                        "value": "red"
+                    },
+                    "collectionAcctType": {
+                        "value": "01"
+                    },
+                    "chargeNumInd": {
+                        "value": "0"
+                    },
+                    "eMessage": {
+                        "value": false
+                    },
+                    "assessYrCps": {
+                        "value": "1994/95"
+                    },
+                    "chrgNumCpsStr": {
+                        "value": "enp541.label.salary"
+                    },
+                    "shroffAcctNumStr": {
+                        "value": "enp541.label.nothing"
+                    },
+                    "issueDtCps": {
+                        "value": "1996-03-09"
+                    },
+                    "issueDtCpsStr": {
+                        "value": "09 MAR 1996"
+                    }
+                }
+            ],
+            "settledpayInfoArray": {},
+            "mapAttribute": {
+                "CNAME": "莊秉賢",
+                "CCCBN": "Chrome",
+                "CERTNAME": "",
+                "HKICIND": "1",
+                "SESSIONID": "N/A",
+                "TRP_EMPNAME": "NETWORK LTD",
+                "ACCESSMODE": "L",
+                "CCCOV": "windows-10",
+                "TRP_ACTIVE": "Y",
+                "CERTPATH": "",
+                "ACCOUNTOBJECTID": "1000035199",
+                "SESSION": "N/A",
+                "CCCON": "Windows",
+                "NAME": "CHONG, BING YIN",
+                "LOGINMECHANISM": "1",
+                "USERID": "2534522011",
+                "CERTSN": "",
+                "CCCBV": "122.0.0.0",
+                "ESAN": "",
+                "HKIC": "B8175182",
+                "TRP_BRN": "00255635",
+                "CERTISSUER": "",
+                "TRP_EMPCNAME": "台塲刑警                                    "
+            },
+            "userCountry": {
+                "value": "us"
+            },
+            "phaseConstant": {
+                "value": "phase 4"
+            },
+            "paymentInfo": {
+                "prnbrn": {
+                    "value": "B8175182"
+                },
+                "eMessage": {
+                    "value": false
+                }
+            },
+            "assessYrCps": {
+                "value": "NULL"
+            },
+            "userLang": {
+                "value": "EN_US"
+            },
+            "fstAmt": {
+                "value": "NULL"
+            },
+            "paymentStatus": {
+                "value": "NULL"
+            },
+            "displayStr": {
+                "value": "NULL"
+            }
+        }
+    }
+}

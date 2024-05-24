@@ -1,0 +1,3955 @@
+{
+    "code": {
+        "value": "0"
+    },
+    "msg": {
+        "value": "success"
+    },
+    "data": {
+        "router": {
+            "findForward": {
+                "value": "continue"
+            }
+        },
+        "form": {
+            "trn": {
+                "value": ""
+            },
+            "accountObjectId": {
+                "value": "1000035246"
+            },
+            "authMedia": {
+                "value": "T"
+            },
+            "loginMeans": {
+                "value": "L"
+            },
+            "screenId": {
+                "value": ""
+            },
+            "startDateTime": {
+                "value": "2023-08-05T07:30:39.231Z"
+            },
+            "adhocMessage2": {
+                "value": ""
+            },
+            "adhocMessage2Chn": {
+                "value": ""
+            },
+            "adhocMessageSelectParts": {
+                "value": ""
+            },
+            "adhocMessageSelectPartsChn": {
+                "value": ""
+            },
+            "attentionCurrentYear": {
+                "value": ""
+            },
+            "attentionCurrentYearChn": {
+                "value": ""
+            },
+            "assessYear": {
+                "value": 2022
+            },
+            "assessYearString": {
+                "value": "2021/22"
+            },
+            "assessEndDate": {
+                "value": "2022-03-31T15:59:59.999Z"
+            },
+            "preFillingFlag": {
+                "value": "4"
+            },
+            "attentionNote": [
+                {
+                    "value": ""
+                },
+                {
+                    "value": ""
+                },
+                {
+                    "value": ""
+                },
+                {
+                    "value": ""
+                }
+            ],
+            "attentionNoteChn": [
+                {
+                    "value": ""
+                },
+                {
+                    "value": ""
+                },
+                {
+                    "value": ""
+                },
+                {
+                    "value": ""
+                }
+            ],
+            "explanatoryNotes": {
+                "value": ""
+            },
+            "explanatoryNotesChn": {
+                "value": ""
+            },
+            "suppInfoNote": {
+                "value": ""
+            },
+            "suppInfoNoteChn": {
+                "value": ""
+            },
+            "backYrRtn": {
+                "value": true
+            },
+            "checkIfOEExecuted": {
+                "value": false
+            },
+            "checkIfVHISExecuted": {
+                "value": false
+            },
+            "checkIfMPFTVCExecuted": {
+                "value": false
+            },
+            "puaPassedFlag": {
+                "value": "0"
+            },
+            "msFlag": {
+                "value": ""
+            },
+            "doubleSign": {
+                "value": "N"
+            },
+            "prevDoubleSign": {
+                "value": ""
+            },
+            "confirmBoxFlag": {
+                "value": "N"
+            },
+            "rtnType": {
+                "value": "1"
+            },
+            "returnIssDate": {
+                "value": "2022-05-09T16:00:00Z"
+            },
+            "personalPart": {
+                "spouseHkicNum": {
+                    "value": "A134758"
+                },
+                "spouseHkicChks": {
+                    "value": "9"
+                },
+                "spouseNationality": {
+                    "value": ""
+                },
+                "spousePassportNo": {
+                    "value": ""
+                },
+                "namePrefix": {
+                    "value": "1"
+                },
+                "enFullName": {
+                    "value": ""
+                },
+                "enSurname": {
+                    "value": "KWOK"
+                },
+                "enOtherName": {
+                    "value": "CHEE"
+                },
+                "cnName": {
+                    "value": "郭芝"
+                },
+                "hkicNum": {
+                    "value": "A120887"
+                },
+                "hkicChks": {
+                    "value": "2"
+                },
+                "hkicNew": {
+                    "value": ""
+                },
+                "hkicNewChks": {
+                    "value": ""
+                },
+                "nationality": {
+                    "value": ""
+                },
+                "passportNo": {
+                    "value": ""
+                },
+                "maritalStatus": {
+                    "value": "2"
+                },
+                "prevMaritalStatus": {
+                    "value": ""
+                },
+                "spouseNamePrefix": {
+                    "value": ""
+                },
+                "spouseEnSurname": {
+                    "value": "HO"
+                },
+                "spouseNationalityLangInd": {
+                    "value": ""
+                },
+                "spouseEnOtherName": {
+                    "value": "FUNG TAI"
+                },
+                "nationalityLangInd": {
+                    "value": ""
+                },
+                "spouseCnName": {
+                    "value": "何鳳帶"
+                }
+            },
+            "profitTaxObj": {
+                "eligibleTwoTieredRate": {
+                    "value": false
+                },
+                "currStage": {
+                    "value": 1
+                },
+                "businessList": [
+                    {
+                        "proceed": {
+                            "value": ""
+                        },
+                        "sp3Table2UndertakeInd": {
+                            "value": ""
+                        },
+                        "sp3Table3UndertakeInd": {
+                            "value": ""
+                        },
+                        "totTable1Exp": {
+                            "value": ""
+                        },
+                        "totTable2Exp": {
+                            "value": ""
+                        },
+                        "totTable3Exp": {
+                            "value": ""
+                        },
+                        "supportFileInfos": {},
+                        "eligibleTwoTieredRate": {
+                            "value": false
+                        },
+                        "profitTaxProjectCount": {
+                            "value": 4
+                        },
+                        "profitTaxProjectList": [
+                            {
+                                "typeAOutSrcInst": {
+                                    "value": ""
+                                },
+                                "name": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstName": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpEmp": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpConsum": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcInst": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcAmt": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstNameInd": {
+                                    "value": ""
+                                },
+                                "rndCat": {
+                                    "value": ""
+                                },
+                                "typeAInHouInHK": {
+                                    "value": ""
+                                },
+                                "typeAInHouOutHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcOutHK": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "typeAOutSrcInst": {
+                                    "value": ""
+                                },
+                                "name": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstName": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpEmp": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpConsum": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcInst": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcAmt": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstNameInd": {
+                                    "value": ""
+                                },
+                                "rndCat": {
+                                    "value": ""
+                                },
+                                "typeAInHouInHK": {
+                                    "value": ""
+                                },
+                                "typeAInHouOutHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcOutHK": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "typeAOutSrcInst": {
+                                    "value": ""
+                                },
+                                "name": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstName": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpEmp": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpConsum": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcInst": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcAmt": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstNameInd": {
+                                    "value": ""
+                                },
+                                "rndCat": {
+                                    "value": ""
+                                },
+                                "typeAInHouInHK": {
+                                    "value": ""
+                                },
+                                "typeAInHouOutHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcOutHK": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "typeAOutSrcInst": {
+                                    "value": ""
+                                },
+                                "name": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstName": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpEmp": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpConsum": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcInst": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcAmt": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstNameInd": {
+                                    "value": ""
+                                },
+                                "rndCat": {
+                                    "value": ""
+                                },
+                                "typeAInHouInHK": {
+                                    "value": ""
+                                },
+                                "typeAInHouOutHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcOutHK": {
+                                    "value": ""
+                                }
+                            }
+                        ],
+                        "brn": {
+                            "value": ""
+                        },
+                        "profitTaxEEBITable3Count": {
+                            "value": 3
+                        },
+                        "profitTaxEEBITable2Count": {
+                            "value": 3
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "grossIncome": {
+                            "value": ""
+                        },
+                        "profitTaxEEBITable1Count": {
+                            "value": 3
+                        },
+                        "turnover": {
+                            "value": ""
+                        },
+                        "totEEBIExp": {
+                            "value": ""
+                        },
+                        "grossProfit": {
+                            "value": ""
+                        },
+                        "profitTaxActivityCount": {
+                            "value": 3
+                        },
+                        "profitTaxActivityList": [
+                            {
+                                "nature": {
+                                    "value": ""
+                                },
+                                "natureLangInd": {
+                                    "value": ""
+                                },
+                                "amount": {
+                                    "value": ""
+                                },
+                                "descriptLangInd": {
+                                    "value": ""
+                                },
+                                "descript": {
+                                    "value": ""
+                                },
+                                "code": {
+                                    "value": ""
+                                },
+                                "incomeNature": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "nature": {
+                                    "value": ""
+                                },
+                                "natureLangInd": {
+                                    "value": ""
+                                },
+                                "amount": {
+                                    "value": ""
+                                },
+                                "descriptLangInd": {
+                                    "value": ""
+                                },
+                                "descript": {
+                                    "value": ""
+                                },
+                                "code": {
+                                    "value": ""
+                                },
+                                "incomeNature": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "nature": {
+                                    "value": ""
+                                },
+                                "natureLangInd": {
+                                    "value": ""
+                                },
+                                "amount": {
+                                    "value": ""
+                                },
+                                "descriptLangInd": {
+                                    "value": ""
+                                },
+                                "descript": {
+                                    "value": ""
+                                },
+                                "code": {
+                                    "value": ""
+                                },
+                                "incomeNature": {
+                                    "value": ""
+                                }
+                            }
+                        ],
+                        "netProfit": {
+                            "value": ""
+                        },
+                        "envVeh": {
+                            "value": ""
+                        },
+                        "netLoss": {
+                            "value": ""
+                        },
+                        "assessProfit": {
+                            "value": ""
+                        },
+                        "adjustedLoss": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        },
+                        "donationAmount": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "profitTaxEEBITable1List": [
+                            {
+                                "exp": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "effDateDD": {
+                                    "value": ""
+                                },
+                                "effDateMM": {
+                                    "value": ""
+                                },
+                                "effDateYYYY": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "cert": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "exp": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "effDateDD": {
+                                    "value": ""
+                                },
+                                "effDateMM": {
+                                    "value": ""
+                                },
+                                "effDateYYYY": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "cert": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "exp": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "effDateDD": {
+                                    "value": ""
+                                },
+                                "effDateMM": {
+                                    "value": ""
+                                },
+                                "effDateYYYY": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "cert": {
+                                    "value": ""
+                                }
+                            }
+                        ],
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "hadTransWithInd": {
+                            "value": "N"
+                        },
+                        "rdEnvIpInd": {
+                            "value": "N"
+                        },
+                        "electedTwoTieredRateInd": {
+                            "value": ""
+                        },
+                        "rcvIncomeInd": {
+                            "value": "N"
+                        },
+                        "paidFeesInd": {
+                            "value": "N"
+                        },
+                        "feesAmount": {
+                            "value": ""
+                        },
+                        "totTypeBInhouExpConsum": {
+                            "value": ""
+                        },
+                        "rdAmount": {
+                            "value": ""
+                        },
+                        "envInst": {
+                            "value": ""
+                        },
+                        "envMach": {
+                            "value": ""
+                        },
+                        "profitTaxEEBITable2List": [
+                            {
+                                "exp": {
+                                    "value": ""
+                                },
+                                "dateAppDD": {
+                                    "value": ""
+                                },
+                                "dateAppMM": {
+                                    "value": ""
+                                },
+                                "dateAppYYYY": {
+                                    "value": ""
+                                },
+                                "refNum": {
+                                    "value": ""
+                                },
+                                "antiDateRegDD": {
+                                    "value": ""
+                                },
+                                "antiDateRegMM": {
+                                    "value": ""
+                                },
+                                "antiDateRegYYYY": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "exp": {
+                                    "value": ""
+                                },
+                                "dateAppDD": {
+                                    "value": ""
+                                },
+                                "dateAppMM": {
+                                    "value": ""
+                                },
+                                "dateAppYYYY": {
+                                    "value": ""
+                                },
+                                "refNum": {
+                                    "value": ""
+                                },
+                                "antiDateRegDD": {
+                                    "value": ""
+                                },
+                                "antiDateRegMM": {
+                                    "value": ""
+                                },
+                                "antiDateRegYYYY": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "exp": {
+                                    "value": ""
+                                },
+                                "dateAppDD": {
+                                    "value": ""
+                                },
+                                "dateAppMM": {
+                                    "value": ""
+                                },
+                                "dateAppYYYY": {
+                                    "value": ""
+                                },
+                                "refNum": {
+                                    "value": ""
+                                },
+                                "antiDateRegDD": {
+                                    "value": ""
+                                },
+                                "antiDateRegMM": {
+                                    "value": ""
+                                },
+                                "antiDateRegYYYY": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                }
+                            }
+                        ],
+                        "ipAmount": {
+                            "value": ""
+                        },
+                        "ipNature": {
+                            "value": ""
+                        },
+                        "hksicc": {
+                            "value": ""
+                        },
+                        "totTypeAInhouInHK": {
+                            "value": ""
+                        },
+                        "totTypeAInhouOutHK": {
+                            "value": ""
+                        },
+                        "totTypeAOutSrcInHK": {
+                            "value": ""
+                        },
+                        "totTypeAOutSrcOutHK": {
+                            "value": ""
+                        },
+                        "totTypeBInhouExpEmp": {
+                            "value": ""
+                        },
+                        "profitTaxEEBITable3List": [
+                            {
+                                "prate": {
+                                    "value": ""
+                                },
+                                "antiIssDateDD": {
+                                    "value": ""
+                                },
+                                "antiIssDateMM": {
+                                    "value": ""
+                                },
+                                "antiIssDateYYYY": {
+                                    "value": ""
+                                },
+                                "othersLangInd": {
+                                    "value": ""
+                                },
+                                "others": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "dateAppDD": {
+                                    "value": ""
+                                },
+                                "dateAppMM": {
+                                    "value": ""
+                                },
+                                "dateAppYYYY": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "exp": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "stdLangInd": {
+                                    "value": ""
+                                },
+                                "std": {
+                                    "value": ""
+                                },
+                                "antiDateAppDD": {
+                                    "value": ""
+                                },
+                                "antiDateAppMM": {
+                                    "value": ""
+                                },
+                                "antiDateAppYYYY": {
+                                    "value": ""
+                                },
+                                "prateLangInd": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "prate": {
+                                    "value": ""
+                                },
+                                "antiIssDateDD": {
+                                    "value": ""
+                                },
+                                "antiIssDateMM": {
+                                    "value": ""
+                                },
+                                "antiIssDateYYYY": {
+                                    "value": ""
+                                },
+                                "othersLangInd": {
+                                    "value": ""
+                                },
+                                "others": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "dateAppDD": {
+                                    "value": ""
+                                },
+                                "dateAppMM": {
+                                    "value": ""
+                                },
+                                "dateAppYYYY": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "exp": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "stdLangInd": {
+                                    "value": ""
+                                },
+                                "std": {
+                                    "value": ""
+                                },
+                                "antiDateAppDD": {
+                                    "value": ""
+                                },
+                                "antiDateAppMM": {
+                                    "value": ""
+                                },
+                                "antiDateAppYYYY": {
+                                    "value": ""
+                                },
+                                "prateLangInd": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "prate": {
+                                    "value": ""
+                                },
+                                "antiIssDateDD": {
+                                    "value": ""
+                                },
+                                "antiIssDateMM": {
+                                    "value": ""
+                                },
+                                "antiIssDateYYYY": {
+                                    "value": ""
+                                },
+                                "othersLangInd": {
+                                    "value": ""
+                                },
+                                "others": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "dateAppDD": {
+                                    "value": ""
+                                },
+                                "dateAppMM": {
+                                    "value": ""
+                                },
+                                "dateAppYYYY": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "exp": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "stdLangInd": {
+                                    "value": ""
+                                },
+                                "std": {
+                                    "value": ""
+                                },
+                                "antiDateAppDD": {
+                                    "value": ""
+                                },
+                                "antiDateAppMM": {
+                                    "value": ""
+                                },
+                                "antiDateAppYYYY": {
+                                    "value": ""
+                                },
+                                "prateLangInd": {
+                                    "value": ""
+                                }
+                            }
+                        ],
+                        "totTypeBOutSrcAmt": {
+                            "value": ""
+                        },
+                        "totTypeAExp": {
+                            "value": ""
+                        },
+                        "totTypeBExp": {
+                            "value": ""
+                        },
+                        "MPFContribution": {
+                            "value": ""
+                        },
+                        "royaltiesIpRd": {
+                            "value": ""
+                        },
+                        "grossLoss": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "proceed": {
+                            "value": ""
+                        },
+                        "sp3Table2UndertakeInd": {
+                            "value": ""
+                        },
+                        "sp3Table3UndertakeInd": {
+                            "value": ""
+                        },
+                        "totTable1Exp": {
+                            "value": ""
+                        },
+                        "totTable2Exp": {
+                            "value": ""
+                        },
+                        "totTable3Exp": {
+                            "value": ""
+                        },
+                        "supportFileInfos": {},
+                        "eligibleTwoTieredRate": {
+                            "value": false
+                        },
+                        "profitTaxProjectCount": {
+                            "value": 4
+                        },
+                        "profitTaxProjectList": [
+                            {
+                                "typeAOutSrcInst": {
+                                    "value": ""
+                                },
+                                "name": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstName": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpEmp": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpConsum": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcInst": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcAmt": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstNameInd": {
+                                    "value": ""
+                                },
+                                "rndCat": {
+                                    "value": ""
+                                },
+                                "typeAInHouInHK": {
+                                    "value": ""
+                                },
+                                "typeAInHouOutHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcOutHK": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "typeAOutSrcInst": {
+                                    "value": ""
+                                },
+                                "name": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstName": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpEmp": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpConsum": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcInst": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcAmt": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstNameInd": {
+                                    "value": ""
+                                },
+                                "rndCat": {
+                                    "value": ""
+                                },
+                                "typeAInHouInHK": {
+                                    "value": ""
+                                },
+                                "typeAInHouOutHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcOutHK": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "typeAOutSrcInst": {
+                                    "value": ""
+                                },
+                                "name": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstName": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpEmp": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpConsum": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcInst": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcAmt": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstNameInd": {
+                                    "value": ""
+                                },
+                                "rndCat": {
+                                    "value": ""
+                                },
+                                "typeAInHouInHK": {
+                                    "value": ""
+                                },
+                                "typeAInHouOutHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcOutHK": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "typeAOutSrcInst": {
+                                    "value": ""
+                                },
+                                "name": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstName": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpEmp": {
+                                    "value": ""
+                                },
+                                "typeBInHouExpConsum": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcInst": {
+                                    "value": ""
+                                },
+                                "typeBOutSrcAmt": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInstNameInd": {
+                                    "value": ""
+                                },
+                                "rndCat": {
+                                    "value": ""
+                                },
+                                "typeAInHouInHK": {
+                                    "value": ""
+                                },
+                                "typeAInHouOutHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcInHK": {
+                                    "value": ""
+                                },
+                                "typeAOutSrcOutHK": {
+                                    "value": ""
+                                }
+                            }
+                        ],
+                        "brn": {
+                            "value": ""
+                        },
+                        "profitTaxEEBITable3Count": {
+                            "value": 3
+                        },
+                        "profitTaxEEBITable2Count": {
+                            "value": 3
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "grossIncome": {
+                            "value": ""
+                        },
+                        "profitTaxEEBITable1Count": {
+                            "value": 3
+                        },
+                        "turnover": {
+                            "value": ""
+                        },
+                        "totEEBIExp": {
+                            "value": ""
+                        },
+                        "grossProfit": {
+                            "value": ""
+                        },
+                        "profitTaxActivityCount": {
+                            "value": 3
+                        },
+                        "profitTaxActivityList": [
+                            {
+                                "nature": {
+                                    "value": ""
+                                },
+                                "natureLangInd": {
+                                    "value": ""
+                                },
+                                "amount": {
+                                    "value": ""
+                                },
+                                "descriptLangInd": {
+                                    "value": ""
+                                },
+                                "descript": {
+                                    "value": ""
+                                },
+                                "code": {
+                                    "value": ""
+                                },
+                                "incomeNature": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "nature": {
+                                    "value": ""
+                                },
+                                "natureLangInd": {
+                                    "value": ""
+                                },
+                                "amount": {
+                                    "value": ""
+                                },
+                                "descriptLangInd": {
+                                    "value": ""
+                                },
+                                "descript": {
+                                    "value": ""
+                                },
+                                "code": {
+                                    "value": ""
+                                },
+                                "incomeNature": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "nature": {
+                                    "value": ""
+                                },
+                                "natureLangInd": {
+                                    "value": ""
+                                },
+                                "amount": {
+                                    "value": ""
+                                },
+                                "descriptLangInd": {
+                                    "value": ""
+                                },
+                                "descript": {
+                                    "value": ""
+                                },
+                                "code": {
+                                    "value": ""
+                                },
+                                "incomeNature": {
+                                    "value": ""
+                                }
+                            }
+                        ],
+                        "netProfit": {
+                            "value": ""
+                        },
+                        "envVeh": {
+                            "value": ""
+                        },
+                        "netLoss": {
+                            "value": ""
+                        },
+                        "assessProfit": {
+                            "value": ""
+                        },
+                        "adjustedLoss": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        },
+                        "donationAmount": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "profitTaxEEBITable1List": [
+                            {
+                                "exp": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "effDateDD": {
+                                    "value": ""
+                                },
+                                "effDateMM": {
+                                    "value": ""
+                                },
+                                "effDateYYYY": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "cert": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "exp": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "effDateDD": {
+                                    "value": ""
+                                },
+                                "effDateMM": {
+                                    "value": ""
+                                },
+                                "effDateYYYY": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "cert": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "exp": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "effDateDD": {
+                                    "value": ""
+                                },
+                                "effDateMM": {
+                                    "value": ""
+                                },
+                                "effDateYYYY": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "cert": {
+                                    "value": ""
+                                }
+                            }
+                        ],
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "hadTransWithInd": {
+                            "value": "N"
+                        },
+                        "rdEnvIpInd": {
+                            "value": "N"
+                        },
+                        "electedTwoTieredRateInd": {
+                            "value": ""
+                        },
+                        "rcvIncomeInd": {
+                            "value": "N"
+                        },
+                        "paidFeesInd": {
+                            "value": "N"
+                        },
+                        "feesAmount": {
+                            "value": ""
+                        },
+                        "totTypeBInhouExpConsum": {
+                            "value": ""
+                        },
+                        "rdAmount": {
+                            "value": ""
+                        },
+                        "envInst": {
+                            "value": ""
+                        },
+                        "envMach": {
+                            "value": ""
+                        },
+                        "profitTaxEEBITable2List": [
+                            {
+                                "exp": {
+                                    "value": ""
+                                },
+                                "dateAppDD": {
+                                    "value": ""
+                                },
+                                "dateAppMM": {
+                                    "value": ""
+                                },
+                                "dateAppYYYY": {
+                                    "value": ""
+                                },
+                                "refNum": {
+                                    "value": ""
+                                },
+                                "antiDateRegDD": {
+                                    "value": ""
+                                },
+                                "antiDateRegMM": {
+                                    "value": ""
+                                },
+                                "antiDateRegYYYY": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "exp": {
+                                    "value": ""
+                                },
+                                "dateAppDD": {
+                                    "value": ""
+                                },
+                                "dateAppMM": {
+                                    "value": ""
+                                },
+                                "dateAppYYYY": {
+                                    "value": ""
+                                },
+                                "refNum": {
+                                    "value": ""
+                                },
+                                "antiDateRegDD": {
+                                    "value": ""
+                                },
+                                "antiDateRegMM": {
+                                    "value": ""
+                                },
+                                "antiDateRegYYYY": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "exp": {
+                                    "value": ""
+                                },
+                                "dateAppDD": {
+                                    "value": ""
+                                },
+                                "dateAppMM": {
+                                    "value": ""
+                                },
+                                "dateAppYYYY": {
+                                    "value": ""
+                                },
+                                "refNum": {
+                                    "value": ""
+                                },
+                                "antiDateRegDD": {
+                                    "value": ""
+                                },
+                                "antiDateRegMM": {
+                                    "value": ""
+                                },
+                                "antiDateRegYYYY": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                }
+                            }
+                        ],
+                        "ipAmount": {
+                            "value": ""
+                        },
+                        "ipNature": {
+                            "value": ""
+                        },
+                        "hksicc": {
+                            "value": ""
+                        },
+                        "totTypeAInhouInHK": {
+                            "value": ""
+                        },
+                        "totTypeAInhouOutHK": {
+                            "value": ""
+                        },
+                        "totTypeAOutSrcInHK": {
+                            "value": ""
+                        },
+                        "totTypeAOutSrcOutHK": {
+                            "value": ""
+                        },
+                        "totTypeBInhouExpEmp": {
+                            "value": ""
+                        },
+                        "profitTaxEEBITable3List": [
+                            {
+                                "prate": {
+                                    "value": ""
+                                },
+                                "antiIssDateDD": {
+                                    "value": ""
+                                },
+                                "antiIssDateMM": {
+                                    "value": ""
+                                },
+                                "antiIssDateYYYY": {
+                                    "value": ""
+                                },
+                                "othersLangInd": {
+                                    "value": ""
+                                },
+                                "others": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "dateAppDD": {
+                                    "value": ""
+                                },
+                                "dateAppMM": {
+                                    "value": ""
+                                },
+                                "dateAppYYYY": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "exp": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "stdLangInd": {
+                                    "value": ""
+                                },
+                                "std": {
+                                    "value": ""
+                                },
+                                "antiDateAppDD": {
+                                    "value": ""
+                                },
+                                "antiDateAppMM": {
+                                    "value": ""
+                                },
+                                "antiDateAppYYYY": {
+                                    "value": ""
+                                },
+                                "prateLangInd": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "prate": {
+                                    "value": ""
+                                },
+                                "antiIssDateDD": {
+                                    "value": ""
+                                },
+                                "antiIssDateMM": {
+                                    "value": ""
+                                },
+                                "antiIssDateYYYY": {
+                                    "value": ""
+                                },
+                                "othersLangInd": {
+                                    "value": ""
+                                },
+                                "others": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "dateAppDD": {
+                                    "value": ""
+                                },
+                                "dateAppMM": {
+                                    "value": ""
+                                },
+                                "dateAppYYYY": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "exp": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "stdLangInd": {
+                                    "value": ""
+                                },
+                                "std": {
+                                    "value": ""
+                                },
+                                "antiDateAppDD": {
+                                    "value": ""
+                                },
+                                "antiDateAppMM": {
+                                    "value": ""
+                                },
+                                "antiDateAppYYYY": {
+                                    "value": ""
+                                },
+                                "prateLangInd": {
+                                    "value": ""
+                                }
+                            },
+                            {
+                                "prate": {
+                                    "value": ""
+                                },
+                                "antiIssDateDD": {
+                                    "value": ""
+                                },
+                                "antiIssDateMM": {
+                                    "value": ""
+                                },
+                                "antiIssDateYYYY": {
+                                    "value": ""
+                                },
+                                "othersLangInd": {
+                                    "value": ""
+                                },
+                                "others": {
+                                    "value": ""
+                                },
+                                "buildLangInd": {
+                                    "value": ""
+                                },
+                                "building": {
+                                    "value": ""
+                                },
+                                "cat": {
+                                    "value": ""
+                                },
+                                "eebi": {
+                                    "value": ""
+                                },
+                                "dateAppDD": {
+                                    "value": ""
+                                },
+                                "dateAppMM": {
+                                    "value": ""
+                                },
+                                "dateAppYYYY": {
+                                    "value": ""
+                                },
+                                "name3": {
+                                    "value": ""
+                                },
+                                "exp": {
+                                    "value": ""
+                                },
+                                "name2": {
+                                    "value": ""
+                                },
+                                "name1": {
+                                    "value": ""
+                                },
+                                "nameLangInd": {
+                                    "value": ""
+                                },
+                                "stdLangInd": {
+                                    "value": ""
+                                },
+                                "std": {
+                                    "value": ""
+                                },
+                                "antiDateAppDD": {
+                                    "value": ""
+                                },
+                                "antiDateAppMM": {
+                                    "value": ""
+                                },
+                                "antiDateAppYYYY": {
+                                    "value": ""
+                                },
+                                "prateLangInd": {
+                                    "value": ""
+                                }
+                            }
+                        ],
+                        "totTypeBOutSrcAmt": {
+                            "value": ""
+                        },
+                        "totTypeAExp": {
+                            "value": ""
+                        },
+                        "totTypeBExp": {
+                            "value": ""
+                        },
+                        "MPFContribution": {
+                            "value": ""
+                        },
+                        "royaltiesIpRd": {
+                            "value": ""
+                        },
+                        "grossLoss": {
+                            "value": ""
+                        }
+                    }
+                ],
+                "connectedEntityList": [
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "brn": {
+                            "value": ""
+                        },
+                        "name2": {
+                            "value": ""
+                        },
+                        "name3": {
+                            "value": ""
+                        },
+                        "nameLangInd": {
+                            "value": ""
+                        },
+                        "name1": {
+                            "value": ""
+                        }
+                    }
+                ],
+                "currBus": {
+                    "value": 0
+                },
+                "noDeemedProfits": {
+                    "value": ""
+                }
+            },
+            "fromSelectParts": {
+                "value": false
+            },
+            "signBack": {
+                "value": false
+            },
+            "subsequentEffected": {
+                "value": false
+            },
+            "fillingStatus": {
+                "value": "1"
+            },
+            "largeScreen": {
+                "value": false
+            },
+            "taxCompNotes": {},
+            "displayCompute": {
+                "value": false
+            },
+            "signTerminate": {
+                "value": false
+            },
+            "pdfPassword": {
+                "value": ""
+            },
+            "prefillSrcOfEmp": {
+                "value": ""
+            },
+            "prefillSrcOfResid": {
+                "value": ""
+            },
+            "prefillSrcOfDeduct": {
+                "value": ""
+            },
+            "prefillSrcOfProperty": {
+                "value": ""
+            },
+            "prefillSrcOfProfit": {
+                "value": ""
+            },
+            "prefillSrcOfRD": {
+                "value": ""
+            },
+            "prefillSrcOfHLI": {
+                "value": ""
+            },
+            "prefillSrcOfDR": {
+                "value": ""
+            },
+            "prefillSrcOfAllow": {
+                "value": ""
+            },
+            "prefillSrcOfChild": {
+                "value": ""
+            },
+            "prefillSrcOfParent": {
+                "value": ""
+            },
+            "prefillSrcOfPersonalPart": {
+                "value": "2"
+            },
+            "prefillSrcOfSelectPart": {
+                "value": ""
+            },
+            "prefillSrcOfVHIS": {
+                "value": ""
+            },
+            "prefillSrcOfMPFTVC": {
+                "value": ""
+            },
+            "selfCnNameAlert": {
+                "value": false
+            },
+            "spouseCnNameAlert": {
+                "value": false
+            },
+            "selfFileNo": {
+                "value": ""
+            },
+            "hliLetterXML": {
+                "value": ""
+            },
+            "displayContent": {},
+            "notification": {
+                "b60MartialStatus": {
+                    "value": "2"
+                },
+                "eftDateDD": {
+                    "value": ""
+                },
+                "eftDateMM": {
+                    "value": ""
+                },
+                "eftDateYYYY": {
+                    "value": ""
+                },
+                "amendMaritalStatus": {
+                    "value": "N"
+                }
+            },
+            "subscriptionBundle": {
+                "value": ""
+            },
+            "suspendMessageZh": {
+                "value": ""
+            },
+            "suspendMessageEn": {
+                "value": ""
+            },
+            "suspendFlag": {
+                "value": false
+            },
+            "errorCode": {
+                "value": ""
+            },
+            "vhisObj": {
+                "selfAmount": {
+                    "value": ""
+                },
+                "vhisRelatives": {}
+            },
+            "selectedParts": [
+                {
+                    "value": ""
+                },
+                {
+                    "value": ""
+                },
+                {
+                    "value": ""
+                },
+                {
+                    "value": ""
+                }
+            ],
+            "signMethod": {
+                "value": false
+            },
+            "counterForSpouseSignRetry": {
+                "value": 0
+            },
+            "prevSelectedParts": {},
+            "hkic": {
+                "value": ""
+            },
+            "department": {
+                "value": ""
+            },
+            "documentName": {
+                "value": ""
+            },
+            "rdObj": {
+                "propertyList": {}
+            },
+            "salaries": {
+                "pension": {
+                    "periodFromYYYY": {
+                        "value": ""
+                    },
+                    "periodToDD": {
+                        "value": ""
+                    },
+                    "periodToMM": {
+                        "value": ""
+                    },
+                    "periodToYYYY": {
+                        "value": ""
+                    },
+                    "amountAccrued": {
+                        "value": ""
+                    },
+                    "periodFromDD": {
+                        "value": ""
+                    },
+                    "periodFromMM": {
+                        "value": ""
+                    }
+                },
+                "income": {
+                    "commission": {
+                        "value": ""
+                    },
+                    "overseaIncome": {
+                        "value": "N"
+                    },
+                    "empPaid": {
+                        "value": "N"
+                    },
+                    "relatingBack": {
+                        "value": "N"
+                    },
+                    "empPlace": {
+                        "value": "N"
+                    },
+                    "shareOption": {
+                        "value": ""
+                    },
+                    "lumpSum": {
+                        "value": ""
+                    }
+                },
+                "residences": [
+                    {
+                        "employerName1": {
+                            "value": ""
+                        },
+                        "employerName2": {
+                            "value": ""
+                        },
+                        "employerName3": {
+                            "value": ""
+                        },
+                        "assessYear": {
+                            "value": 2022
+                        },
+                        "periodFromMM": {
+                            "value": "04"
+                        },
+                        "periodFromYYYY": {
+                            "value": "2021"
+                        },
+                        "periodToDD": {
+                            "value": "31"
+                        },
+                        "periodToMM": {
+                            "value": "03"
+                        },
+                        "address1": {
+                            "value": ""
+                        },
+                        "address2": {
+                            "value": ""
+                        },
+                        "address3": {
+                            "value": ""
+                        },
+                        "natureSelected": {
+                            "value": ""
+                        },
+                        "rentPaid1": {
+                            "value": ""
+                        },
+                        "rentPaid2": {
+                            "value": ""
+                        },
+                        "rentPaid3": {
+                            "value": ""
+                        },
+                        "rentPaid4": {
+                            "value": ""
+                        },
+                        "rentPaid5": {
+                            "value": ""
+                        },
+                        "periodToYYYY": {
+                            "value": "2022"
+                        },
+                        "periodFromDD": {
+                            "value": "01"
+                        }
+                    },
+                    {
+                        "employerName1": {
+                            "value": ""
+                        },
+                        "employerName2": {
+                            "value": ""
+                        },
+                        "employerName3": {
+                            "value": ""
+                        },
+                        "assessYear": {
+                            "value": 2022
+                        },
+                        "periodFromMM": {
+                            "value": "04"
+                        },
+                        "periodFromYYYY": {
+                            "value": "2021"
+                        },
+                        "periodToDD": {
+                            "value": "31"
+                        },
+                        "periodToMM": {
+                            "value": "03"
+                        },
+                        "address1": {
+                            "value": ""
+                        },
+                        "address2": {
+                            "value": ""
+                        },
+                        "address3": {
+                            "value": ""
+                        },
+                        "natureSelected": {
+                            "value": ""
+                        },
+                        "rentPaid1": {
+                            "value": ""
+                        },
+                        "rentPaid2": {
+                            "value": ""
+                        },
+                        "rentPaid3": {
+                            "value": ""
+                        },
+                        "rentPaid4": {
+                            "value": ""
+                        },
+                        "rentPaid5": {
+                            "value": ""
+                        },
+                        "periodToYYYY": {
+                            "value": "2022"
+                        },
+                        "periodFromDD": {
+                            "value": "01"
+                        }
+                    },
+                    {
+                        "employerName1": {
+                            "value": ""
+                        },
+                        "employerName2": {
+                            "value": ""
+                        },
+                        "employerName3": {
+                            "value": ""
+                        },
+                        "assessYear": {
+                            "value": 2022
+                        },
+                        "periodFromMM": {
+                            "value": "04"
+                        },
+                        "periodFromYYYY": {
+                            "value": "2021"
+                        },
+                        "periodToDD": {
+                            "value": "31"
+                        },
+                        "periodToMM": {
+                            "value": "03"
+                        },
+                        "address1": {
+                            "value": ""
+                        },
+                        "address2": {
+                            "value": ""
+                        },
+                        "address3": {
+                            "value": ""
+                        },
+                        "natureSelected": {
+                            "value": ""
+                        },
+                        "rentPaid1": {
+                            "value": ""
+                        },
+                        "rentPaid2": {
+                            "value": ""
+                        },
+                        "rentPaid3": {
+                            "value": ""
+                        },
+                        "rentPaid4": {
+                            "value": ""
+                        },
+                        "rentPaid5": {
+                            "value": ""
+                        },
+                        "periodToYYYY": {
+                            "value": "2022"
+                        },
+                        "periodFromDD": {
+                            "value": "01"
+                        }
+                    },
+                    {
+                        "employerName1": {
+                            "value": ""
+                        },
+                        "employerName2": {
+                            "value": ""
+                        },
+                        "employerName3": {
+                            "value": ""
+                        },
+                        "assessYear": {
+                            "value": 2022
+                        },
+                        "periodFromMM": {
+                            "value": "04"
+                        },
+                        "periodFromYYYY": {
+                            "value": "2021"
+                        },
+                        "periodToDD": {
+                            "value": "31"
+                        },
+                        "periodToMM": {
+                            "value": "03"
+                        },
+                        "address1": {
+                            "value": ""
+                        },
+                        "address2": {
+                            "value": ""
+                        },
+                        "address3": {
+                            "value": ""
+                        },
+                        "natureSelected": {
+                            "value": ""
+                        },
+                        "rentPaid1": {
+                            "value": ""
+                        },
+                        "rentPaid2": {
+                            "value": ""
+                        },
+                        "rentPaid3": {
+                            "value": ""
+                        },
+                        "rentPaid4": {
+                            "value": ""
+                        },
+                        "rentPaid5": {
+                            "value": ""
+                        },
+                        "periodToYYYY": {
+                            "value": "2022"
+                        },
+                        "periodFromDD": {
+                            "value": "01"
+                        }
+                    }
+                ],
+                "empOverflow": {
+                    "value": 0
+                },
+                "deduct": {
+                    "particulars": [
+                        {
+                            "amount": {
+                                "value": ""
+                            },
+                            "name1": {
+                                "value": ""
+                            },
+                            "nameLangInd": {
+                                "value": ""
+                            },
+                            "name2": {
+                                "value": ""
+                            }
+                        },
+                        {
+                            "amount": {
+                                "value": ""
+                            },
+                            "name1": {
+                                "value": ""
+                            },
+                            "nameLangInd": {
+                                "value": ""
+                            },
+                            "name2": {
+                                "value": ""
+                            }
+                        },
+                        {
+                            "amount": {
+                                "value": ""
+                            },
+                            "name1": {
+                                "value": ""
+                            },
+                            "nameLangInd": {
+                                "value": ""
+                            },
+                            "name2": {
+                                "value": ""
+                            }
+                        }
+                    ],
+                    "donations": {
+                        "value": ""
+                    },
+                    "contributions": {
+                        "value": ""
+                    },
+                    "joint": {
+                        "value": "N"
+                    },
+                    "particulars1LangInd": {
+                        "value": ""
+                    },
+                    "particulars2LangInd": {
+                        "value": ""
+                    },
+                    "particulars3LangInd": {
+                        "value": ""
+                    },
+                    "education": {
+                        "value": ""
+                    }
+                },
+                "lumpSumBack": {
+                    "employerName1": {
+                        "value": ""
+                    },
+                    "employerName2": {
+                        "value": ""
+                    },
+                    "employerName3": {
+                        "value": ""
+                    },
+                    "rcvDateDD": {
+                        "value": ""
+                    },
+                    "rcvDateMM": {
+                        "value": ""
+                    },
+                    "rcvDateYYYY": {
+                        "value": ""
+                    },
+                    "periodFromMM": {
+                        "value": ""
+                    },
+                    "periodFromYYYY": {
+                        "value": ""
+                    },
+                    "periodToDD": {
+                        "value": ""
+                    },
+                    "periodToMM": {
+                        "value": ""
+                    },
+                    "periodToYYYY": {
+                        "value": ""
+                    },
+                    "amountAccrued": {
+                        "value": ""
+                    },
+                    "amountBack": {
+                        "value": ""
+                    },
+                    "periodFromDD": {
+                        "value": ""
+                    },
+                    "nature2": {
+                        "value": ""
+                    },
+                    "nature1": {
+                        "value": ""
+                    }
+                },
+                "empSalaries": [
+                    {
+                        "employerName1": {
+                            "value": ""
+                        },
+                        "employerName2": {
+                            "value": ""
+                        },
+                        "employerName3": {
+                            "value": ""
+                        },
+                        "capacityEmployed": {
+                            "value": ""
+                        },
+                        "assessYear": {
+                            "value": 0
+                        },
+                        "periodFromMM": {
+                            "value": ""
+                        },
+                        "periodFromYYYY": {
+                            "value": ""
+                        },
+                        "periodToDD": {
+                            "value": ""
+                        },
+                        "periodToMM": {
+                            "value": ""
+                        },
+                        "periodToYYYY": {
+                            "value": ""
+                        },
+                        "capacityEmployedLangInd": {
+                            "value": ""
+                        },
+                        "amountAccrued": {
+                            "value": ""
+                        },
+                        "periodFromDD": {
+                            "value": ""
+                        },
+                        "employerNameLangInd": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "employerName1": {
+                            "value": ""
+                        },
+                        "employerName2": {
+                            "value": ""
+                        },
+                        "employerName3": {
+                            "value": ""
+                        },
+                        "capacityEmployed": {
+                            "value": ""
+                        },
+                        "assessYear": {
+                            "value": 0
+                        },
+                        "periodFromMM": {
+                            "value": ""
+                        },
+                        "periodFromYYYY": {
+                            "value": ""
+                        },
+                        "periodToDD": {
+                            "value": ""
+                        },
+                        "periodToMM": {
+                            "value": ""
+                        },
+                        "periodToYYYY": {
+                            "value": ""
+                        },
+                        "capacityEmployedLangInd": {
+                            "value": ""
+                        },
+                        "amountAccrued": {
+                            "value": ""
+                        },
+                        "periodFromDD": {
+                            "value": ""
+                        },
+                        "employerNameLangInd": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "employerName1": {
+                            "value": ""
+                        },
+                        "employerName2": {
+                            "value": ""
+                        },
+                        "employerName3": {
+                            "value": ""
+                        },
+                        "capacityEmployed": {
+                            "value": ""
+                        },
+                        "assessYear": {
+                            "value": 0
+                        },
+                        "periodFromMM": {
+                            "value": ""
+                        },
+                        "periodFromYYYY": {
+                            "value": ""
+                        },
+                        "periodToDD": {
+                            "value": ""
+                        },
+                        "periodToMM": {
+                            "value": ""
+                        },
+                        "periodToYYYY": {
+                            "value": ""
+                        },
+                        "capacityEmployedLangInd": {
+                            "value": ""
+                        },
+                        "amountAccrued": {
+                            "value": ""
+                        },
+                        "periodFromDD": {
+                            "value": ""
+                        },
+                        "employerNameLangInd": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "employerName1": {
+                            "value": ""
+                        },
+                        "employerName2": {
+                            "value": ""
+                        },
+                        "employerName3": {
+                            "value": ""
+                        },
+                        "capacityEmployed": {
+                            "value": ""
+                        },
+                        "assessYear": {
+                            "value": 0
+                        },
+                        "periodFromMM": {
+                            "value": ""
+                        },
+                        "periodFromYYYY": {
+                            "value": ""
+                        },
+                        "periodToDD": {
+                            "value": ""
+                        },
+                        "periodToMM": {
+                            "value": ""
+                        },
+                        "periodToYYYY": {
+                            "value": ""
+                        },
+                        "capacityEmployedLangInd": {
+                            "value": ""
+                        },
+                        "amountAccrued": {
+                            "value": ""
+                        },
+                        "periodFromDD": {
+                            "value": ""
+                        },
+                        "employerNameLangInd": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "employerName1": {
+                            "value": ""
+                        },
+                        "employerName2": {
+                            "value": ""
+                        },
+                        "employerName3": {
+                            "value": ""
+                        },
+                        "capacityEmployed": {
+                            "value": ""
+                        },
+                        "assessYear": {
+                            "value": 0
+                        },
+                        "periodFromMM": {
+                            "value": ""
+                        },
+                        "periodFromYYYY": {
+                            "value": ""
+                        },
+                        "periodToDD": {
+                            "value": ""
+                        },
+                        "periodToMM": {
+                            "value": ""
+                        },
+                        "periodToYYYY": {
+                            "value": ""
+                        },
+                        "capacityEmployedLangInd": {
+                            "value": ""
+                        },
+                        "amountAccrued": {
+                            "value": ""
+                        },
+                        "periodFromDD": {
+                            "value": ""
+                        },
+                        "employerNameLangInd": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "employerName1": {
+                            "value": ""
+                        },
+                        "employerName2": {
+                            "value": ""
+                        },
+                        "employerName3": {
+                            "value": ""
+                        },
+                        "capacityEmployed": {
+                            "value": ""
+                        },
+                        "assessYear": {
+                            "value": 0
+                        },
+                        "periodFromMM": {
+                            "value": ""
+                        },
+                        "periodFromYYYY": {
+                            "value": ""
+                        },
+                        "periodToDD": {
+                            "value": ""
+                        },
+                        "periodToMM": {
+                            "value": ""
+                        },
+                        "periodToYYYY": {
+                            "value": ""
+                        },
+                        "capacityEmployedLangInd": {
+                            "value": ""
+                        },
+                        "amountAccrued": {
+                            "value": ""
+                        },
+                        "periodFromDD": {
+                            "value": ""
+                        },
+                        "employerNameLangInd": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "employerName1": {
+                            "value": ""
+                        },
+                        "employerName2": {
+                            "value": ""
+                        },
+                        "employerName3": {
+                            "value": ""
+                        },
+                        "capacityEmployed": {
+                            "value": ""
+                        },
+                        "assessYear": {
+                            "value": 0
+                        },
+                        "periodFromMM": {
+                            "value": ""
+                        },
+                        "periodFromYYYY": {
+                            "value": ""
+                        },
+                        "periodToDD": {
+                            "value": ""
+                        },
+                        "periodToMM": {
+                            "value": ""
+                        },
+                        "periodToYYYY": {
+                            "value": ""
+                        },
+                        "capacityEmployedLangInd": {
+                            "value": ""
+                        },
+                        "amountAccrued": {
+                            "value": ""
+                        },
+                        "periodFromDD": {
+                            "value": ""
+                        },
+                        "employerNameLangInd": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "employerName1": {
+                            "value": ""
+                        },
+                        "employerName2": {
+                            "value": ""
+                        },
+                        "employerName3": {
+                            "value": ""
+                        },
+                        "capacityEmployed": {
+                            "value": ""
+                        },
+                        "assessYear": {
+                            "value": 0
+                        },
+                        "periodFromMM": {
+                            "value": ""
+                        },
+                        "periodFromYYYY": {
+                            "value": ""
+                        },
+                        "periodToDD": {
+                            "value": ""
+                        },
+                        "periodToMM": {
+                            "value": ""
+                        },
+                        "periodToYYYY": {
+                            "value": ""
+                        },
+                        "capacityEmployedLangInd": {
+                            "value": ""
+                        },
+                        "amountAccrued": {
+                            "value": ""
+                        },
+                        "periodFromDD": {
+                            "value": ""
+                        },
+                        "employerNameLangInd": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "employerName1": {
+                            "value": ""
+                        },
+                        "employerName2": {
+                            "value": ""
+                        },
+                        "employerName3": {
+                            "value": ""
+                        },
+                        "capacityEmployed": {
+                            "value": ""
+                        },
+                        "assessYear": {
+                            "value": 0
+                        },
+                        "periodFromMM": {
+                            "value": ""
+                        },
+                        "periodFromYYYY": {
+                            "value": ""
+                        },
+                        "periodToDD": {
+                            "value": ""
+                        },
+                        "periodToMM": {
+                            "value": ""
+                        },
+                        "periodToYYYY": {
+                            "value": ""
+                        },
+                        "capacityEmployedLangInd": {
+                            "value": ""
+                        },
+                        "amountAccrued": {
+                            "value": ""
+                        },
+                        "periodFromDD": {
+                            "value": ""
+                        },
+                        "employerNameLangInd": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "employerName1": {
+                            "value": ""
+                        },
+                        "employerName2": {
+                            "value": ""
+                        },
+                        "employerName3": {
+                            "value": ""
+                        },
+                        "capacityEmployed": {
+                            "value": ""
+                        },
+                        "assessYear": {
+                            "value": 0
+                        },
+                        "periodFromMM": {
+                            "value": ""
+                        },
+                        "periodFromYYYY": {
+                            "value": ""
+                        },
+                        "periodToDD": {
+                            "value": ""
+                        },
+                        "periodToMM": {
+                            "value": ""
+                        },
+                        "periodToYYYY": {
+                            "value": ""
+                        },
+                        "capacityEmployedLangInd": {
+                            "value": ""
+                        },
+                        "amountAccrued": {
+                            "value": ""
+                        },
+                        "periodFromDD": {
+                            "value": ""
+                        },
+                        "employerNameLangInd": {
+                            "value": ""
+                        }
+                    }
+                ]
+            },
+            "dr": {
+                "propertyList": [
+                    {
+                        "location4": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "tenancyFromMM": {
+                            "value": ""
+                        },
+                        "tenancyToYYYY": {
+                            "value": ""
+                        },
+                        "noOfTenants": {
+                            "value": ""
+                        },
+                        "selfTenantInd": {
+                            "value": ""
+                        },
+                        "spseTenantInd": {
+                            "value": ""
+                        },
+                        "amountDr": {
+                            "value": ""
+                        },
+                        "nominated": {
+                            "value": "N"
+                        },
+                        "tenancyToDD": {
+                            "value": ""
+                        },
+                        "tenancyToMM": {
+                            "value": ""
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "tenancyFromYYYY": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "tenancyFromDD": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "location4": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "tenancyFromMM": {
+                            "value": ""
+                        },
+                        "tenancyToYYYY": {
+                            "value": ""
+                        },
+                        "noOfTenants": {
+                            "value": ""
+                        },
+                        "selfTenantInd": {
+                            "value": ""
+                        },
+                        "spseTenantInd": {
+                            "value": ""
+                        },
+                        "amountDr": {
+                            "value": ""
+                        },
+                        "nominated": {
+                            "value": "N"
+                        },
+                        "tenancyToDD": {
+                            "value": ""
+                        },
+                        "tenancyToMM": {
+                            "value": ""
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "tenancyFromYYYY": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "tenancyFromDD": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        }
+                    }
+                ],
+                "rentDeduction": {
+                    "value": ""
+                },
+                "pptyDrCnt": {
+                    "value": ""
+                }
+            },
+            "DRPart": {
+                "propertyList": [
+                    {
+                        "location4": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "tenancyFromMM": {
+                            "value": ""
+                        },
+                        "tenancyToYYYY": {
+                            "value": ""
+                        },
+                        "noOfTenants": {
+                            "value": ""
+                        },
+                        "selfTenantInd": {
+                            "value": ""
+                        },
+                        "spseTenantInd": {
+                            "value": ""
+                        },
+                        "amountDr": {
+                            "value": ""
+                        },
+                        "nominated": {
+                            "value": "N"
+                        },
+                        "tenancyToDD": {
+                            "value": ""
+                        },
+                        "tenancyToMM": {
+                            "value": ""
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "tenancyFromYYYY": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "tenancyFromDD": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "location4": {
+                            "value": ""
+                        },
+                        "location3": {
+                            "value": ""
+                        },
+                        "tenancyFromMM": {
+                            "value": ""
+                        },
+                        "tenancyToYYYY": {
+                            "value": ""
+                        },
+                        "noOfTenants": {
+                            "value": ""
+                        },
+                        "selfTenantInd": {
+                            "value": ""
+                        },
+                        "spseTenantInd": {
+                            "value": ""
+                        },
+                        "amountDr": {
+                            "value": ""
+                        },
+                        "nominated": {
+                            "value": "N"
+                        },
+                        "tenancyToDD": {
+                            "value": ""
+                        },
+                        "tenancyToMM": {
+                            "value": ""
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "tenancyFromYYYY": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "tenancyFromDD": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        }
+                    }
+                ],
+                "rentDeduction": {
+                    "value": ""
+                },
+                "pptyDrCnt": {
+                    "value": ""
+                }
+            },
+            "checkIfNoCreateAmendCTRCDRecord": {
+                "value": false
+            },
+            "rcdExistFlag": {
+                "value": false
+            },
+            "tmpSaveFlag": {
+                "value": false
+            },
+            "tmpSaveWithRefreshSTFlag": {
+                "value": true
+            },
+            "tmpSaveWithRefreshVHISFlag": {
+                "value": true
+            },
+            "tmpSaveWithRefreshMPFTVCFlag": {
+                "value": true
+            },
+            "attentionSTOeFlag": {
+                "value": false
+            },
+            "attentionSTSeeFlag": {
+                "value": false
+            },
+            "attentionSTAcdFlag": {
+                "value": false
+            },
+            "attentionSTOrsoMpfFlag": {
+                "value": false
+            },
+            "attentionVHISSelfFlag": {
+                "value": false
+            },
+            "attentionVHISRelFlag": {
+                "value": false
+            },
+            "attentionMPFTVCFlag": {
+                "value": false
+            },
+            "attentionQAPFlag": {
+                "value": false
+            },
+            "lastYrHaveFilingFlag": {
+                "value": false
+            },
+            "attentionItemsFlag": {
+                "value": false
+            },
+            "attentionIndFlag": {
+                "value": false
+            },
+            "tranID": {
+                "value": "5472308051000061"
+            },
+            "adhocMessage1": {
+                "value": ""
+            },
+            "adhocMessage1Chn": {
+                "value": ""
+            },
+            "oeParticular1List": {},
+            "oeParticular1TotalAmtList": {},
+            "oeParticular2List": {},
+            "oeParticular2TotalAmtList": {},
+            "oeParticular3List": {},
+            "oeParticular4TotalAmtList": {},
+            "oeParticular4List": {},
+            "oeParticular3TotalAmtList": {},
+            "oeParticular5List": {},
+            "oeParticular5TotalAmtList": {},
+            "oeParticular6List": {},
+            "oeParticular6TotalAmtList": {},
+            "seeList": {},
+            "acdList": {},
+            "acdTotalAmtList": {},
+            "orsoMpfList": {},
+            "orsoMpfTotalAmtList": {},
+            "vhisSelfList": {},
+            "vhisSelfTotalAmtList": {},
+            "vhisRelList": {},
+            "vhisRelTotalAmtList": {},
+            "mpftvcList": {},
+            "mpftvcTotalAmtList": {},
+            "qapList": {},
+            "qapTotalAmtList": {},
+            "seeTotalAmtList": {},
+            "supplementFileInfos": {},
+            "serviceName": {
+                "value": ""
+            },
+            "mpftvcObj": {
+                "annuitySpouse": {
+                    "value": ""
+                },
+                "mpf": {
+                    "value": ""
+                },
+                "annuitySelf": {
+                    "value": ""
+                }
+            },
+            "counterForSelfSignRetry": {
+                "value": 0
+            },
+            "spouseAccountObjectId": {
+                "value": ""
+            },
+            "inputSupplement": {
+                "value": ""
+            },
+            "ctrRetryCount": {
+                "value": 0
+            },
+            "showUserCertificateFilePath": {
+                "value": ""
+            },
+            "myID": {
+                "value": ""
+            },
+            "allowance": {
+                "claimPersonal": {
+                    "value": ""
+                },
+                "claimChild": {
+                    "value": "N"
+                },
+                "claimSingle": {
+                    "value": "N"
+                },
+                "careOfChild": {
+                    "value": ""
+                },
+                "claimElder": {
+                    "value": "N"
+                },
+                "childAllow": {},
+                "parentAllow": {},
+                "fatherName": {
+                    "value": ""
+                },
+                "fatherHkic": {
+                    "value": ""
+                },
+                "fatherHkicChks": {
+                    "value": ""
+                },
+                "motherName": {
+                    "value": ""
+                },
+                "motherHkic": {
+                    "value": ""
+                },
+                "motherHkicChks": {
+                    "value": ""
+                },
+                "fatherNameLangInd": {
+                    "value": ""
+                },
+                "motherNameLangInd": {
+                    "value": ""
+                },
+                "claimMarried": {
+                    "value": "Y"
+                },
+                "spouseIncome": {
+                    "value": ""
+                },
+                "claimDisabled": {
+                    "value": "N"
+                }
+            },
+            "preHLINominate": {
+                "value": ""
+            },
+            "hli": {
+                "propertyList": {}
+            },
+            "electionForPA": {
+                "prevSpouseHadIncomeInd": {
+                    "value": ""
+                },
+                "partnerBusinessNum": {
+                    "value": ""
+                },
+                "propertiesNum": {
+                    "value": ""
+                },
+                "approvedCharitable": {
+                    "value": "0"
+                },
+                "iMarriedAndWishToInd": {
+                    "value": ""
+                },
+                "iWishToInd": {
+                    "value": ""
+                },
+                "iAndSpouseWishToInd": {
+                    "value": ""
+                }
+            },
+            "propertyTaxObj": {
+                "propertyList": [
+                    {
+                        "location3": {
+                            "value": ""
+                        },
+                        "letFromDay": {
+                            "value": ""
+                        },
+                        "letFromMon": {
+                            "value": ""
+                        },
+                        "letFromYr": {
+                            "value": ""
+                        },
+                        "letToDay": {
+                            "value": ""
+                        },
+                        "letToMon": {
+                            "value": ""
+                        },
+                        "letToYr": {
+                            "value": ""
+                        },
+                        "rentalIncome": {
+                            "value": ""
+                        },
+                        "ratePaidByMe": {
+                            "value": ""
+                        },
+                        "irrecoverableRent": {
+                            "value": ""
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "location3": {
+                            "value": ""
+                        },
+                        "letFromDay": {
+                            "value": ""
+                        },
+                        "letFromMon": {
+                            "value": ""
+                        },
+                        "letFromYr": {
+                            "value": ""
+                        },
+                        "letToDay": {
+                            "value": ""
+                        },
+                        "letToMon": {
+                            "value": ""
+                        },
+                        "letToYr": {
+                            "value": ""
+                        },
+                        "rentalIncome": {
+                            "value": ""
+                        },
+                        "ratePaidByMe": {
+                            "value": ""
+                        },
+                        "irrecoverableRent": {
+                            "value": ""
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        }
+                    },
+                    {
+                        "location3": {
+                            "value": ""
+                        },
+                        "letFromDay": {
+                            "value": ""
+                        },
+                        "letFromMon": {
+                            "value": ""
+                        },
+                        "letFromYr": {
+                            "value": ""
+                        },
+                        "letToDay": {
+                            "value": ""
+                        },
+                        "letToMon": {
+                            "value": ""
+                        },
+                        "letToYr": {
+                            "value": ""
+                        },
+                        "rentalIncome": {
+                            "value": ""
+                        },
+                        "ratePaidByMe": {
+                            "value": ""
+                        },
+                        "irrecoverableRent": {
+                            "value": ""
+                        },
+                        "locationLangInd": {
+                            "value": ""
+                        },
+                        "location1": {
+                            "value": ""
+                        },
+                        "location2": {
+                            "value": ""
+                        }
+                    }
+                ]
+            },
+            "selfSign": {
+                "confirmPass": {
+                    "value": ""
+                },
+                "pin": {
+                    "value": ""
+                },
+                "confirmPin": {
+                    "value": ""
+                },
+                "file": {
+                    "value": ""
+                },
+                "type": {
+                    "value": ""
+                },
+                "password": {
+                    "value": ""
+                },
+                "identify": {
+                    "value": ""
+                }
+            },
+            "showHLILetter": {
+                "value": ""
+            }
+        }
+    },
+    "errors": {}
+}

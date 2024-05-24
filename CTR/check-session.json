@@ -1,0 +1,14 @@
+{
+    "valid": {
+        "value": false
+    },
+    "message": {
+        "value": "server error, can not find activity cache by jwt info"
+    },
+    "lastActiveTime": {
+        "value": ""
+    },
+    "serverTime": {
+        "value": "2024-05-22 14:23:22"
+    }
+}

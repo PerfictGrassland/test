@@ -1,0 +1,324 @@
+{
+    "errors": [
+        {
+            "errorField": {
+                "value": "hasSPErr"
+            },
+            "errorCodes": [
+                {
+                    "args": [
+                        {
+                            "value": "超過25個漢字且含有不可接受的字符 中文檔案 ◉①ⓐ㋐.pdf"
+                        }
+                    ],
+                    "errorCode": {
+                        "value": "811-E-56201"
+                    },
+                    "argsMixed": {},
+                    "isPrefix": {
+                        "value": false
+                    }
+                }
+            ]
+        },
+        {
+            "errorField": {
+                "value": "fileLengthErr"
+            },
+            "errorCodes": [
+                {
+                    "args": [
+                        {
+                            "value": "超過25個漢字且含有不可接受的字符 中文檔案 ◉①ⓐ㋐.pdf"
+                        }
+                    ],
+                    "errorCode": {
+                        "value": "811-E-6024"
+                    },
+                    "argsMixed": {},
+                    "isPrefix": {
+                        "value": false
+                    }
+                }
+            ]
+        },
+        {
+            "errorField": {
+                "value": "paymentDateErr"
+            },
+            "errorCodes": [
+                {
+                    "args": {},
+                    "errorCode": {
+                        "value": "811-E-1002"
+                    },
+                    "argsMixed": {},
+                    "isPrefix": {
+                        "value": false
+                    }
+                }
+            ]
+        }
+    ],
+    "code": {
+        "value": "1"
+    },
+    "data": {
+        "router": {
+            "findForward": {
+                "value": "this"
+            }
+        },
+        "form": {
+            "institutionName1": {
+                "value": ""
+            },
+            "institutionName2": {
+                "value": ""
+            },
+            "oeParticular3List": {},
+            "oeParticular3TotalAmtList": {},
+            "oeParticular4List": {},
+            "oeParticular4TotalAmtList": {},
+            "oeParticular5List": {},
+            "oeParticular5TotalAmtList": {},
+            "oeParticular6List": {},
+            "oeParticular6TotalAmtList": {},
+            "seeList": {},
+            "seeTotalAmtList": {},
+            "acdList": {},
+            "acdTotalAmtList": {},
+            "orsoMpfList": {},
+            "orsoMpfTotalAmtList": {},
+            "vhisSelfList": {},
+            "vhisSelfTotalAmtList": {},
+            "vhisRelList": {},
+            "vhisRelTotalAmtList": {},
+            "mpftvcList": {},
+            "mpftvcTotalAmtList": {},
+            "qapList": {},
+            "qapTotalAmtList": {},
+            "charityName1": {
+                "value": ""
+            },
+            "charityName2": {
+                "value": ""
+            },
+            "osName": {
+                "value": "Windows"
+            },
+            "browserName": {
+                "value": "Chrome"
+            },
+            "authMedia": {
+                "value": "T"
+            },
+            "loginMeans": {
+                "value": ""
+            },
+            "changeAssessYear": {
+                "value": false
+            },
+            "configChangeAssessYear": {
+                "value": false
+            },
+            "leftArrow": {
+                "value": false
+            },
+            "dobCalendarDay": {
+                "value": ""
+            },
+            "dobCalendarMonth": {
+                "value": ""
+            },
+            "dobCalendarYear": {
+                "value": ""
+            },
+            "submitAction": {
+                "value": "add"
+            },
+            "orsoRetireMpfscheme2": {
+                "value": ""
+            },
+            "selfVhispolicyName1": {
+                "value": ""
+            },
+            "selfVhispolicyName2": {
+                "value": ""
+            },
+            "relativePrn": {
+                "value": ""
+            },
+            "relativePrnCheckDigit": {
+                "value": ""
+            },
+            "relVhispolicyName1": {
+                "value": ""
+            },
+            "relVhispolicyName2": {
+                "value": ""
+            },
+            "elderGovDisAllowInd": {
+                "value": ""
+            },
+            "mpftvcNameLangInd": {
+                "value": "E"
+            },
+            "relativeName": {
+                "value": ""
+            },
+            "refNum": {
+                "value": ""
+            },
+            "filingAvailableFlag": {
+                "value": false
+            },
+            "loginMechan": {
+                "value": "1"
+            },
+            "ssoTokenId": {
+                "value": "df1_f1_u7j-b0o89xovruhhweb72b3"
+            },
+            "accountObjectId": {
+                "value": 1000027477
+            },
+            "supplementFileInfos": [
+                {
+                    "fileSize": {
+                        "value": 1377608
+                    },
+                    "fileType": {
+                        "value": ""
+                    },
+                    "bucketId": {
+                        "value": "fea2be_CWriqXyRS"
+                    },
+                    "fileUid": {
+                        "value": "fea2be_CWriqXyRS_59ti2391cnWjC7Ufj4vTm8io6mQjBN7YE"
+                    },
+                    "contentMd5": {
+                        "value": "fb88bda09b28556a7602710093072c2a"
+                    },
+                    "fileName": {
+                        "value": "超過25個漢字且含有不可接受的字符 中文檔案 ◉①ⓐ㋐.pdf"
+                    }
+                }
+            ],
+            "oeParticular1List": {},
+            "oeParticular1TotalAmtList": {},
+            "oeParticular2List": {},
+            "oeParticular2TotalAmtList": {},
+            "currentStep": {
+                "value": 0
+            },
+            "paidFor": {
+                "value": ""
+            },
+            "qapName1": {
+                "value": ""
+            },
+            "qapName2": {
+                "value": ""
+            },
+            "currentAssessmentYear": {
+                "value": "2024"
+            },
+            "assessmentYear": {
+                "value": "2025"
+            },
+            "osVersion": {
+                "value": "Windows 10/11"
+            },
+            "mpftvcName1": {
+                "value": "11"
+            },
+            "browserVersion": {
+                "value": "125.0.0.0"
+            },
+            "relationship": {
+                "value": ""
+            },
+            "rightArrow": {
+                "value": false
+            },
+            "userMyId": {
+                "value": ""
+            },
+            "checkIfNoCreateAmendCTRCDRecord": {
+                "value": false
+            },
+            "checkIfCTRFillingRecord": {
+                "value": false
+            },
+            "ctrCdOeRecordNum": {
+                "value": 0
+            },
+            "ctrCdSeerecordNum": {
+                "value": 0
+            },
+            "prn": {
+                "value": "A1237007"
+            },
+            "ctrCdOrsoMpfRecordNum": {
+                "value": 0
+            },
+            "ctrCdVhisSelfrecordNum": {
+                "value": 0
+            },
+            "ctrCdVhisRelrecordNum": {
+                "value": 0
+            },
+            "ctrCdQaprecordNum": {
+                "value": 0
+            },
+            "ctrCdMpfTvcrecordNum": {
+                "value": 0
+            },
+            "originalAssessmentYear": {
+                "value": "2025"
+            },
+            "item": {
+                "value": "1"
+            },
+            "paymentCalendarDay": {
+                "value": ""
+            },
+            "paymentCalendarMonth": {
+                "value": ""
+            },
+            "paymentCalendarYear": {
+                "value": ""
+            },
+            "ctrCdOeAmt": {
+                "value": "1"
+            },
+            "ctrCdMpfTvccdAmt": {
+                "value": "1"
+            },
+            "ctrCdMpfTvclastSts": {
+                "value": "C"
+            },
+            "particular": {
+                "value": "1"
+            },
+            "screenId": {
+                "value": "SC-811-0001"
+            },
+            "trn": {
+                "value": "8112405230200392"
+            },
+            "mpftvcName2": {
+                "value": "11"
+            },
+            "orsoRetireMpfscheme1": {
+                "value": ""
+            },
+            "ctrCdAcdrecordNum": {
+                "value": 0
+            },
+            "tin": {
+                "value": "5193881015"
+            }
+        }
+    }
+}

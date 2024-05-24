@@ -1,0 +1,4411 @@
+{
+  "data": {
+    "form": {
+      "screenId": {
+        "value": "SC-811-0010"
+      },
+      "trn": {
+        "value": "8112311271037395"
+      },
+      "authMedia": {
+        "value": "T"
+      },
+      "loginMeans": {
+        "value": ""
+      },
+      "changeAssessYear": {
+        "value": false
+      },
+      "configChangeAssessYear": {
+        "value": false
+      },
+      "filingAvailableFlag": {
+        "value": false
+      },
+      "leftArrow": {
+        "value": false
+      },
+      "rightArrow": {
+        "value": false
+      },
+      "checkIfNoCreateAmendCTRCDRecord": {
+        "value": false
+      },
+      "checkIfCTRFillingRecord": {
+        "value": false
+      },
+      "currentStep": {
+        "value": 0
+      },
+      "loginMechan": {
+        "value": "1"
+      },
+      "osName": {
+        "value": "Windows"
+      },
+      "browserName": {
+        "value": "Chrome"
+      },
+      "ssoTokenId": {
+        "value": "N/A"
+      },
+      "prn": {
+        "value": "XE7770047"
+      },
+      "tin": {
+        "value": "3338879276"
+      },
+      "ctrCdOeRecordNum": {
+        "value": 0
+      },
+      "ctrCdSeerecordNum": {
+        "value": 0
+      },
+      "ctrCdAcdrecordNum": {
+        "value": 0
+      },
+      "ctrCdOrsoMpfRecordNum": {
+        "value": 0
+      },
+      "ctrCdVhisSelfrecordNum": {
+        "value": 0
+      },
+      "ctrCdVhisRelrecordNum": {
+        "value": 0
+      },
+      "ctrCdQaprecordNum": {
+        "value": 0
+      },
+      "ctrCdMpfTvcrecordNum": {
+        "value": 0
+      },
+      "supplementFileInfos": [
+				{
+					"fileSize": {
+						"value": 32606
+					},
+					"fileName": {
+						"value": "pexels-tobi-620337 (1).jpg"
+					},
+					"contentType": {
+						"value": "jpeg"
+					},
+					"fileUid": {
+						"value": "devntp_nbSTZPmSw_Ah8HHrmigdoJQu7WR2mrff2DJZDM9CTxE"
+					},
+					"bucketId": {
+						"value": "devntp_UGFnzjjtG"
+					},
+					"contentMd5": {
+						"value": "9185fd9de5fb06e5e55ef6065ae12176"
+					}
+				},
+				{
+					"fileSize": {
+						"value": 32606
+					},
+					"fileName": {
+						"value": "pexels-tobi-620337 (2).jpg"
+					},
+					"contentType": {
+						"value": "jpeg"
+					},
+					"fileUid": {
+						"value": "devntp_nbSTZPmSw_3baZo2YKoXDLB4HCuYoLTDfSAkPAb5U85"
+					},
+					"bucketId": {
+						"value": "devntp_UGFnzjjtG"
+					},
+					"contentMd5": {
+						"value": "9185fd9de5fb06e5e55ef6065ae12176"
+					}
+				},
+				{
+					"fileSize": {
+						"value": 32606
+					},
+					"fileName": {
+						"value": "pexels-tobi-620337 (3).jpg"
+					},
+					"contentType": {
+						"value": "jpeg"
+					},
+					"fileUid": {
+						"value": "devntp_nbSTZPmSw_A5oYMJVPCwu1KxCiEgu891JfMuAtLHPei"
+					},
+					"bucketId": {
+						"value": "devntp_UGFnzjjtG"
+					},
+					"contentMd5": {
+						"value": "9185fd9de5fb06e5e55ef6065ae12176"
+					}
+				}
+			],
+      "oeParticular1List": [
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T111935"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "1"
+          },
+          "supplementFileInfos": [
+				{
+					"fileSize": {
+						"value": 32606
+					},
+					"fileName": {
+						"value": "pexels-tobi-620337 (1).jpg"
+					},
+					"contentType": {
+						"value": "jpeg"
+					},
+					"fileUid": {
+						"value": "devntp_nbSTZPmSw_Ah8HHrmigdoJQu7WR2mrff2DJZDM9CTxE"
+					},
+					"bucketId": {
+						"value": "devntp_UGFnzjjtG"
+					},
+					"contentMd5": {
+						"value": "9185fd9de5fb06e5e55ef6065ae12176"
+					}
+				},
+				{
+					"fileSize": {
+						"value": 32606
+					},
+					"fileName": {
+						"value": "pexels-tobi-620337 (2).jpg"
+					},
+					"contentType": {
+						"value": "jpeg"
+					},
+					"fileUid": {
+						"value": "devntp_nbSTZPmSw_3baZo2YKoXDLB4HCuYoLTDfSAkPAb5U85"
+					},
+					"bucketId": {
+						"value": "devntp_UGFnzjjtG"
+					},
+					"contentMd5": {
+						"value": "9185fd9de5fb06e5e55ef6065ae12176"
+					}
+				},
+				{
+					"fileSize": {
+						"value": 32606
+					},
+					"fileName": {
+						"value": "pexels-tobi-620337 (3).jpg"
+					},
+					"contentType": {
+						"value": "jpeg"
+					},
+					"fileUid": {
+						"value": "devntp_nbSTZPmSw_A5oYMJVPCwu1KxCiEgu891JfMuAtLHPei"
+					},
+					"bucketId": {
+						"value": "devntp_UGFnzjjtG"
+					},
+					"contentMd5": {
+						"value": "9185fd9de5fb06e5e55ef6065ae12176"
+					}
+				}
+			]
+        },
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T111935"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "1"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T111934"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "1"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T111934"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "1"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T111933"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "1"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T111933"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "1"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F112083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "1"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F112083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "1"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F112082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "1"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F112082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "1"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F112081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "1"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F112081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "1"
+          },
+          "supplementFileInfos": {}
+        }
+      ],
+      "oeParticular1TotalAmtList": [
+        {
+          "totalAmt": {
+            "value": "37,536"
+          }
+        }
+      ],
+      "oeParticular2List": [
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T121935"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "2"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T121935"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "2"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T121934"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "2"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T121934"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "2"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T121933"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "2"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T121933"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "2"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F122083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "2"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F122083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "2"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F122082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "2"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F122082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "2"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F122081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "2"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F122081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "2"
+          },
+          "supplementFileInfos": {}
+        }
+      ],
+      "oeParticular2TotalAmtList": [
+        {
+          "totalAmt": {
+            "value": "37,536"
+          }
+        }
+      ],
+      "oeParticular3List": [
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T131935"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "3"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T131935"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "3"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T131934"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "3"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T131934"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "3"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T131933"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "3"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T131933"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "3"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F132083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "3"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F132083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "3"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F132082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "3"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F132082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "3"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F132081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "3"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F132081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "3"
+          },
+          "supplementFileInfos": {}
+        }
+      ],
+      "oeParticular3TotalAmtList": [
+        {
+          "totalAmt": {
+            "value": "37,536"
+          }
+        }
+      ],
+      "oeParticular4List": [
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T141935"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "4"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T141935"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "4"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T141934"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "4"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T141934"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "4"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T141933"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "4"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T141933"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "4"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F142083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "4"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F142083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "4"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F142082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "4"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F142082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "4"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F142081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "4"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F142081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "4"
+          },
+          "supplementFileInfos": {}
+        }
+      ],
+      "oeParticular4TotalAmtList": [
+        {
+          "totalAmt": {
+            "value": "37,536"
+          }
+        }
+      ],
+      "oeParticular5List": [
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T151935"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "5"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T151935"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "5"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T151934"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "5"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T151934"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "5"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T151933"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "5"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T151933"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "5"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F152083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "5"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F152083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "5"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F152082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "5"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F152082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "5"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F152081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "5"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F152081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "5"
+          },
+          "supplementFileInfos": {}
+        }
+      ],
+      "oeParticular5TotalAmtList": [
+        {
+          "totalAmt": {
+            "value": "37,536"
+          }
+        }
+      ],
+      "oeParticular6List": [
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T161935"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "6"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T161935"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "6"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T161934"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "6"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T161934"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "6"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T161933"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "6"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T161933"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "6"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F162083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "6"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F162083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "6"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F162082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "6"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F162082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "6"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F162081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "6"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F162081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "particular": {
+            "value": "6"
+          },
+          "supplementFileInfos": {}
+        }
+      ],
+      "oeParticular6TotalAmtList": [
+        {
+          "totalAmt": {
+            "value": "37,536"
+          }
+        }
+      ],
+      "seeList": [
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "institutionName2": {
+            "value": "eklkjljljljljljl"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T201935"
+          },
+          "institutionName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "institutionName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T201935"
+          },
+          "institutionName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "institutionName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T201934"
+          },
+          "institutionName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "institutionName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T201934"
+          },
+          "institutionName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "institutionName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T201933"
+          },
+          "institutionName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "institutionName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T201933"
+          },
+          "institutionName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "institutionName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F202083"
+          },
+          "institutionName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "institutionName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F202083"
+          },
+          "institutionName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "institutionName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F202082"
+          },
+          "institutionName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "institutionName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F202082"
+          },
+          "institutionName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "institutionName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F202081"
+          },
+          "institutionName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "institutionName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F202081"
+          },
+          "institutionName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "supplementFileInfos": {}
+        }
+      ],
+      "seeTotalAmtList": [
+        {
+          "totalAmt": {
+            "value": "37,536"
+          }
+        }
+      ],
+      "acdList": [
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "charityName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T301935"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "charityName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "charityName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T301935"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "charityName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "charityName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T301934"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "charityName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "charityName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T301934"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "charityName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "charityName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T301933"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "charityName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "charityName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T301933"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "charityName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "charityName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F302083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "charityName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "charityName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F302083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "charityName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "charityName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F302082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "charityName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "charityName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F302082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "charityName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "charityName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F302081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "charityName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "charityName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F302081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "charityName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "supplementFileInfos": {}
+        }
+      ],
+      "acdTotalAmtList": [
+        {
+          "totalAmt": {
+            "value": "37,536"
+          }
+        }
+      ],
+      "orsoMpfList": [
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "orsoRetireMpfScheme1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T401935"
+          },
+          "orsoRetireMpfScheme2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "orsoRetireMpfScheme1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T401935"
+          },
+          "orsoRetireMpfScheme2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "orsoRetireMpfScheme1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T401934"
+          },
+          "orsoRetireMpfScheme2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "orsoRetireMpfScheme1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T401934"
+          },
+          "orsoRetireMpfScheme2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "orsoRetireMpfScheme1": {
+            "value": "123456789012345678901234567890"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T401933"
+          },
+          "orsoRetireMpfScheme2": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "orsoRetireMpfScheme1": {
+            "value": "123456789012345678901234567890"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T401933"
+          },
+          "orsoRetireMpfScheme2": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "orsoRetireMpfScheme1": {
+            "value": "123456789012345678901234567890"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F402083"
+          },
+          "orsoRetireMpfScheme2": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "orsoRetireMpfScheme1": {
+            "value": "123456789012345678901234567890"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F402083"
+          },
+          "orsoRetireMpfScheme2": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "orsoRetireMpfScheme1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F402082"
+          },
+          "orsoRetireMpfScheme2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "orsoRetireMpfScheme1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F402082"
+          },
+          "orsoRetireMpfScheme2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "orsoRetireMpfScheme1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F402081"
+          },
+          "orsoRetireMpfScheme2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "orsoRetireMpfScheme1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F402081"
+          },
+          "orsoRetireMpfScheme2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "supplementFileInfos": {}
+        }
+      ],
+      "orsoMpfTotalAmtList": [
+        {
+          "totalAmt": {
+            "value": "37,536"
+          }
+        }
+      ],
+      "vhisSelfList": [
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "selfVhisPolicyName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T501935"
+          },
+          "selfVhisPolicyName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "selfVhisPolicyName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T501935"
+          },
+          "selfVhisPolicyName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "selfVhisPolicyName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T501934"
+          },
+          "selfVhisPolicyName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "selfVhisPolicyName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T501934"
+          },
+          "selfVhisPolicyName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "selfVhisPolicyName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T501933"
+          },
+          "selfVhisPolicyName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "selfVhisPolicyName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T501933"
+          },
+          "selfVhisPolicyName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "selfVhisPolicyName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F502083"
+          },
+          "selfVhisPolicyName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "selfVhisPolicyName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F502083"
+          },
+          "selfVhisPolicyName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "selfVhisPolicyName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F502082"
+          },
+          "selfVhisPolicyName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "selfVhisPolicyName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F502082"
+          },
+          "selfVhisPolicyName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "selfVhisPolicyName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F502081"
+          },
+          "selfVhisPolicyName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "selfVhisPolicyName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F502081"
+          },
+          "selfVhisPolicyName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "supplementFileInfos": {}
+        }
+      ],
+      "vhisSelfTotalAmtList": [
+        {
+          "totalAmt": {
+            "value": "37,536"
+          }
+        }
+      ],
+      "vhisRelList": [
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "elderGovDisAllowrInd": {
+            "value": "0"
+          },
+          "hkid": {
+            "value": "G530527(5)"
+          },
+          "relationship": {
+            "value": "2"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "relVhisPolicyName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "relVhisPolicyName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "relativeName": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T601935"
+          },
+          "dateOfBirth": {
+            "value": "01/01/1970"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "supplementFileInfos": [
+				{
+					"fileSize": {
+						"value": 32606
+					},
+					"fileName": {
+						"value": "pexels-tobi-620337 (1).jpg"
+					},
+					"contentType": {
+						"value": "jpeg"
+					},
+					"fileUid": {
+						"value": "devntp_nbSTZPmSw_Ah8HHrmigdoJQu7WR2mrff2DJZDM9CTxE"
+					},
+					"bucketId": {
+						"value": "devntp_UGFnzjjtG"
+					},
+					"contentMd5": {
+						"value": "9185fd9de5fb06e5e55ef6065ae12176"
+					}
+				},
+				{
+					"fileSize": {
+						"value": 32606
+					},
+					"fileName": {
+						"value": "pexels-tobi-620337 (2).jpg"
+					},
+					"contentType": {
+						"value": "jpeg"
+					},
+					"fileUid": {
+						"value": "devntp_nbSTZPmSw_3baZo2YKoXDLB4HCuYoLTDfSAkPAb5U85"
+					},
+					"bucketId": {
+						"value": "devntp_UGFnzjjtG"
+					},
+					"contentMd5": {
+						"value": "9185fd9de5fb06e5e55ef6065ae12176"
+					}
+				},
+				{
+					"fileSize": {
+						"value": 32606
+					},
+					"fileName": {
+						"value": "pexels-tobi-620337 (3).jpg"
+					},
+					"contentType": {
+						"value": "jpeg"
+					},
+					"fileUid": {
+						"value": "devntp_nbSTZPmSw_A5oYMJVPCwu1KxCiEgu891JfMuAtLHPei"
+					},
+					"bucketId": {
+						"value": "devntp_UGFnzjjtG"
+					},
+					"contentMd5": {
+						"value": "9185fd9de5fb06e5e55ef6065ae12176"
+					}
+				}
+			]
+        },
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "elderGovDisAllowrInd": {
+            "value": "0"
+          },
+          "hkid": {
+            "value": "G530527(5)"
+          },
+          "relationship": {
+            "value": "2"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "relVhisPolicyName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "relVhisPolicyName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "relativeName": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T601935"
+          },
+          "dateOfBirth": {
+            "value": "01/01/1970"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "elderGovDisAllowrInd": {
+            "value": "0"
+          },
+          "hkid": {
+            "value": "A121948(3)"
+          },
+          "relationship": {
+            "value": "2"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "relVhisPolicyName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "relVhisPolicyName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "relativeName": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T601934"
+          },
+          "dateOfBirth": {
+            "value": "01/01/1960"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "elderGovDisAllowrInd": {
+            "value": "0"
+          },
+          "hkid": {
+            "value": "A121948(3)"
+          },
+          "relationship": {
+            "value": "2"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "relVhisPolicyName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "relVhisPolicyName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "relativeName": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T601934"
+          },
+          "dateOfBirth": {
+            "value": "01/01/1960"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "elderGovDisAllowrInd": {
+            "value": "1"
+          },
+          "hkid": {
+            "value": "A121316(7)"
+          },
+          "relationship": {
+            "value": "1"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "relVhisPolicyName1": {
+            "value": "ABCDEFGHIJKLMOPQRSTUVWXYZABCD"
+          },
+          "relVhisPolicyName2": {
+            "value": "ABCDEFGHIJKLMOPQRSTUVWXYZABCD"
+          },
+          "relativeName": {
+            "value": "123456789012345678901234567890"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T601933"
+          },
+          "dateOfBirth": {
+            "value": "29/02/2020"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "elderGovDisAllowrInd": {
+            "value": "1"
+          },
+          "hkid": {
+            "value": "A121316(7)"
+          },
+          "relationship": {
+            "value": "1"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "relVhisPolicyName1": {
+            "value": "ABCDEFGHIJKLMOPQRSTUVWXYZABCD"
+          },
+          "relVhisPolicyName2": {
+            "value": "ABCDEFGHIJKLMOPQRSTUVWXYZABCD"
+          },
+          "relativeName": {
+            "value": "123456789012345678901234567890"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T601933"
+          },
+          "dateOfBirth": {
+            "value": "29/02/2020"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "elderGovDisAllowrInd": {
+            "value": "1"
+          },
+          "hkid": {
+            "value": "C333403(A)"
+          },
+          "relationship": {
+            "value": "5"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "relVhisPolicyName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "relVhisPolicyName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "relativeName": {
+            "value": "123456789012345678901234567890"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F602083"
+          },
+          "dateOfBirth": {
+            "value": "29/02/2020"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "elderGovDisAllowrInd": {
+            "value": "1"
+          },
+          "hkid": {
+            "value": "C333403(A)"
+          },
+          "relationship": {
+            "value": "5"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "relVhisPolicyName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "relVhisPolicyName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "relativeName": {
+            "value": "123456789012345678901234567890"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F602083"
+          },
+          "dateOfBirth": {
+            "value": "29/02/2020"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "elderGovDisAllowrInd": {
+            "value": "0"
+          },
+          "hkid": {
+            "value": "A142729(9)"
+          },
+          "relationship": {
+            "value": "4"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "relVhisPolicyName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "relVhisPolicyName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "relativeName": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F602082"
+          },
+          "dateOfBirth": {
+            "value": "12/12/1990"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "elderGovDisAllowrInd": {
+            "value": "0"
+          },
+          "hkid": {
+            "value": "A142729(9)"
+          },
+          "relationship": {
+            "value": "4"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "relVhisPolicyName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "relVhisPolicyName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "relativeName": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F602082"
+          },
+          "dateOfBirth": {
+            "value": "12/12/1990"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "elderGovDisAllowrInd": {
+            "value": "0"
+          },
+          "hkid": {
+            "value": "H101074(5)"
+          },
+          "relationship": {
+            "value": "4"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "relVhisPolicyName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "relVhisPolicyName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "relativeName": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F602081"
+          },
+          "dateOfBirth": {
+            "value": "21/12/1985"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "elderGovDisAllowrInd": {
+            "value": "0"
+          },
+          "hkid": {
+            "value": "H101074(5)"
+          },
+          "relationship": {
+            "value": "4"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "relVhisPolicyName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "relVhisPolicyName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "relativeName": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F602081"
+          },
+          "dateOfBirth": {
+            "value": "21/12/1985"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "supplementFileInfos": {}
+        }
+      ],
+      "vhisRelTotalAmtList": [
+        {
+          "totalAmt": {
+            "value": "37,536"
+          }
+        }
+      ],
+      "mpftvcList": [
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "mpftvcName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T701935"
+          },
+          "mpftvcName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "mpftvcName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T701935"
+          },
+          "mpftvcName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "mpftvcName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T701934"
+          },
+          "mpftvcName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "mpftvcName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T701934"
+          },
+          "mpftvcName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "mpftvcName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T701933"
+          },
+          "mpftvcName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "mpftvcName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T701933"
+          },
+          "mpftvcName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "mpftvcName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F702083"
+          },
+          "mpftvcName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "mpftvcName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F702083"
+          },
+          "mpftvcName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "mpftvcName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F702082"
+          },
+          "mpftvcName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "mpftvcName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F702082"
+          },
+          "mpftvcName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "mpftvcName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F702081"
+          },
+          "mpftvcName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "mpftvcName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F702081"
+          },
+          "mpftvcName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "supplementFileInfos": {}
+        }
+      ],
+      "mpftvcTotalAmtList": [
+        {
+          "totalAmt": {
+            "value": "37,536"
+          }
+        }
+      ],
+      "qapList": [
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "paidFor": {
+            "value": "2"
+          },
+          "qapName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "qapName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T801935"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,175"
+          },
+          "paidFor": {
+            "value": "2"
+          },
+          "qapName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "qapName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T801935"
+          },
+          "paymentDate": {
+            "value": "24/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "paidFor": {
+            "value": "2"
+          },
+          "qapName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "qapName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T801934"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,174"
+          },
+          "paidFor": {
+            "value": "2"
+          },
+          "qapName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "qapName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T801934"
+          },
+          "paymentDate": {
+            "value": "23/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "paidFor": {
+            "value": "1"
+          },
+          "qapName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "qapName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222T801933"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "4,173"
+          },
+          "paidFor": {
+            "value": "1"
+          },
+          "qapName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "qapName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421T801933"
+          },
+          "paymentDate": {
+            "value": "22/12/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "paidFor": {
+            "value": "1"
+          },
+          "qapName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "qapName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F802083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,083"
+          },
+          "paidFor": {
+            "value": "1"
+          },
+          "qapName1": {
+            "value": "123456789012345678901234567890"
+          },
+          "qapName2": {
+            "value": "123456789012345678901234567890"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F802083"
+          },
+          "paymentDate": {
+            "value": "15/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "paidFor": {
+            "value": "2"
+          },
+          "qapName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "qapName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F802082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,082"
+          },
+          "paidFor": {
+            "value": "2"
+          },
+          "qapName1": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "qapName2": {
+            "value": "一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F802082"
+          },
+          "paymentDate": {
+            "value": "14/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "paidFor": {
+            "value": "2"
+          },
+          "qapName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "qapName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220222F802081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "supplementFileInfos": {}
+        },
+        {
+          "cdAmt": {
+            "value": "2,081"
+          },
+          "paidFor": {
+            "value": "2"
+          },
+          "qapName1": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "qapName2": {
+            "value": "奉圖沒呂一井卞出戍二伕比昌巨三李炎圭身四廾爻川釜五妝朋了二六"
+          },
+          "accountObjectId": {
+            "value": 2000006688
+          },
+          "cdCountAmt": {
+            "value": "37,536"
+          },
+          "assessmentYear": {
+            "value": "2022"
+          },
+          "recordNum": {
+            "value": "811220421F802081"
+          },
+          "paymentDate": {
+            "value": "13/09/2021"
+          },
+          "supplementFileInfos": {}
+        }
+      ],
+      "qapTotalAmtList": [
+        {
+          "totalAmt": {
+            "value": "37,536"
+          }
+        }
+      ],
+      "accountObjectId": {
+        "value": 1000027588
+      },
+      "osVersion": {
+        "value": "windows-10"
+      },
+      "browserVersion": {
+        "value": ""
+      },
+      "submitAction": {
+        "value": "changeyear"
+      },
+      "currentAssessmentYear": {
+        "value": "2022"
+      },
+      "assessmentYear": {
+        "value": "2022"
+      }
+    },
+    "router": {
+      "findForward": {
+        "value": "next"
+      }
+    }
+  },
+  "msg": {
+    "value": "success"
+  },
+  "errors": {},
+  "code": {
+    "value": "0"
+  }
+}

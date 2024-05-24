@@ -1,0 +1,132 @@
+{
+    "data": {
+        "form": {
+            "trn": {
+                "value": "8112311271037395"
+            },
+            "accountObjectId": {
+                "value": 1000027588
+            },
+            "authMedia": {
+                "value": "T"
+            },
+            "loginMeans": {
+                "value": ""
+            },
+            "screenId": {
+                "value": "SC-811-0001"
+            },
+            "loginMechan": {
+                "value": "1"
+            },
+            "osName": {
+                "value": "Windows"
+            },
+            "browserName": {
+                "value": "Chrome"
+            },
+            "ssoTokenId": {
+                "value": "N/A"
+            },
+            "prn": {
+                "value": "XE7770047"
+            },
+            "tin": {
+                "value": "3338879276"
+            },
+            "osVersion": {
+                "value": "windows-10"
+            },
+            "browserVersion": {
+                "value": ""
+            },
+            "checkIfNoCreateAmendCTRCDRecord": {
+                "value": false
+            },
+            "oeParticular1List": {},
+            "oeParticular1TotalAmtList": {},
+            "oeParticular2List": {},
+            "oeParticular2TotalAmtList": {},
+            "oeParticular3List": {},
+            "oeParticular4TotalAmtList": {},
+            "oeParticular4List": {},
+            "oeParticular3TotalAmtList": {},
+            "oeParticular5List": {},
+            "oeParticular5TotalAmtList": {},
+            "oeParticular6List": {},
+            "oeParticular6TotalAmtList": {},
+            "seeList": {},
+            "acdList": {},
+            "acdTotalAmtList": {},
+            "orsoMpfList": {},
+            "orsoMpfTotalAmtList": {},
+            "vhisSelfList": {},
+            "vhisSelfTotalAmtList": {},
+            "vhisRelList": {},
+            "vhisRelTotalAmtList": {},
+            "mpftvcList": {},
+            "mpftvcTotalAmtList": {},
+            "qapList": {},
+            "qapTotalAmtList": {},
+            "seeTotalAmtList": {},
+            "supplementFileInfos": {},
+            "changeAssessYear": {
+                "value": false
+            },
+            "configChangeAssessYear": {
+                "value": false
+            },
+            "filingAvailableFlag": {
+                "value": false
+            },
+            "leftArrow": {
+                "value": false
+            },
+            "rightArrow": {
+                "value": false
+            },
+            "checkIfCTRFillingRecord": {
+                "value": false
+            },
+            "currentStep": {
+                "value": 0
+            },
+            "ctrCdOeRecordNum": {
+                "value": 0
+            },
+            "ctrCdSeerecordNum": {
+                "value": 0
+            },
+            "ctrCdAcdrecordNum": {
+                "value": 0
+            },
+            "ctrCdOrsoMpfRecordNum": {
+                "value": 0
+            },
+            "ctrCdVhisSelfrecordNum": {
+                "value": 0
+            },
+            "ctrCdVhisRelrecordNum": {
+                "value": 0
+            },
+            "ctrCdQaprecordNum": {
+                "value": 0
+            },
+            "ctrCdMpfTvcrecordNum": {
+                "value": 0
+            }
+        },
+        "router": {
+            "findForward": {
+                "value": "continue"
+            }
+        }
+    },
+    "msg": {
+        "value": "success"
+    },
+    "errors": {},
+    "code": {
+        "value": "0"
+    }
+}

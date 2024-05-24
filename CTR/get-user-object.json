@@ -1,0 +1,98 @@
+{
+    "selectedTrpClient": {
+        "entityID": "",
+        "entityNameCHI": "",
+        "appointedServices": {},
+        "entityType": "",
+        "entityName": "",
+        "haveAcc": "",
+        "clientname": "",
+        "refNo": "",
+        "brh": "",
+        "appointedServicesDetail": {}
+    },
+    "properties": {},
+    "accountObjectId": "",
+    "lastLoginStatus": "S",
+    "btpTrpUsername": "",
+    "extendedSessionId": "",
+    "lastObjectBuildTime": "",
+    "chineseName": "莊秉賢",
+    "btpRole": {},
+    "lastLoginDate": "2024-05-22T05:42:19Z",
+    "TRN": "",
+    "soleProCompanyCount": -1,
+    "fullName": "CHONG, BING YIN",
+    "serviceAgents": [
+        {
+            "haveAcc": "Y",
+            "refNo": "",
+            "agentType": "B",
+            "BRN": "00255635",
+            "PRN": "",
+            "nameCHI": "台塲刑警                                    ",
+            "name": "NETWORK LTD",
+            "brh": "000",
+            "appointedServices": [
+                "CT",
+                "COR-TR"
+            ]
+        }
+    ],
+    "featureService": "N",
+    "mobileNumber": "",
+    "tokenId": "",
+    "soleProCompanies": {},
+    "loginReferrer": "",
+    "accountId": "2534522011",
+    "mobileLogin": "N",
+    "trpRole": {},
+    "propertyCount": -1,
+    "browserInfo": {
+        "browser": "Chrome",
+        "browserVersion": "125.0.0.0",
+        "os": "Windows",
+        "ip": "94.190.216.90",
+        "osVersion": "10.0"
+    },
+    "loginMechanism": 1,
+    "title": "1",
+    "selectedBtpRole": {
+        "serviceAgents": {},
+        "usertype": "",
+        "appointedProperties": {},
+        "havePFProfile": "",
+        "propertyCount": 0,
+        "roles": {},
+        "status": "",
+        "companyInfo": {
+            "companyNameCHI": "",
+            "companyType": "",
+            "BRN": "",
+            "companyName": ""
+        },
+        "properties": {}
+    },
+    "status": "N",
+    "authId": "",
+    "lastAccessDate": "",
+    "cccId": "xLI1YRAySjvAaG6",
+    "email": "<hidden>",
+    "selectedTrpRole": {
+        "isTeamLead": "",
+        "clientCount": 0,
+        "clients": {},
+        "engagedservices": {},
+        "assignedservices": {},
+        "companyInfo": {
+            "companyNameCHI": "",
+            "companyType": "",
+            "BRN": "",
+            "companyName": ""
+        },
+        "status": "",
+        "teamid": "",
+        "team": ""
+    },
+    "alias": ""
+}
